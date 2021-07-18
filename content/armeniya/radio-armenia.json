@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1626252146291,
+    "stationStream": "http://am.radioaurora.am:8010/al.mp3",
+    "stationName": "Radio Aurora",
+    "stationDescription": "AURORA - VISUAL RADIO N 1 IN ARMENIA.Радиостанция Аврора. Вещает в Армении на частоте 100.7 FM, а также в онлайне на http://www.radioaurora.am\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/42839.v5.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626252152527,
+    "stationStream": "http://163.172.7.220:8000/stream/1/",
+    "stationName": "Lav Radio",
+    "stationDescription": "Լավ Ռադիոն Հայաստանի առաջին ինտերնետային ռադիոկայանն է: Ստեղծվել է 2012 թվականի օգոստոսին, իսկ կանոնավոր ինտերնետային հեռարձակումը սկսել է 2012 թվականի սեպտեմբերի 1-ից: Լավ Ռադիոյի եթերում հնչում են միայն հայկական լավագույն հիթերը: Լավ Ռադիոի պաշտոնական կայքէջը www.lavradio.am\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/42870.v12.png",
+    "stationGenres": [
+      "pop",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626252158474,
+    "stationStream": "http://media.radiovan.am:8000/96_stereo?",
+    "stationName": "Radio Van",
+    "stationDescription": "Радио Ван - любимое радио наших конкурентов...Основная гордость и ценность радиостанции – люди, профессионалы, человеки, такие разные и такие схожие в своей одержимой идеe – создавать любимое радио. Знакомьтесь с ними! Многих из них вы слышите и узнаете в эфире, видите на телеэкранах, на обложках журналов, а многих не знаете, потому что они за кадром, они не видны, они «бойцы невидимого фронта». Все они вместе, всегда, на своих местах и знают свое дело и поэтому это – КОМАНДА.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/42832.v8.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626252163913,
+    "stationStream": "http://107.170.215.243:8550/;",
+    "stationName": "Armenian Net Radio",
+    "stationDescription": "This internet radio station celebrates Armenian music, playing exclusively the best hits from this country, new tracks and providing entertainment 24/7.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/72192.v3.png",
+    "stationGenres": [
+      "pop",
+      "90s",
+      "armenian"
+    ]
+  },
+  {
+    "id": 1626252169935,
+    "stationStream": "http://89.163.246.155:8000/fm105.5",
+    "stationName": "FM 105.5",
+    "stationDescription": "FM 105.5 is a Armenian radio station broadcasting from Yerevan, Armenia.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/67159.v5.png",
+    "stationGenres": [
+      "pop",
+      "jazz",
+      "folk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626252176341,
+    "stationStream": "https://am.radioaurora.am/kiss.aac",
+    "stationName": "Kiss FM Armenia",
+    "stationDescription": "Hello and Welcome to ''Kiss FM Armenia'', Kiss FM ''Armenia's N1 Hit Music Station''.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/80608.v4.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "pop",
+      "latin"
+    ]
+  },
+  {
+    "id": 1626252184066,
+    "stationStream": "http://163.172.7.220:8012/stream/1/",
+    "stationName": "MFM Music Radio",
+    "stationDescription": "Armenian Music Radio\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/64026.v7.png",
+    "stationGenres": [
+      "pop",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626252190241,
+    "stationStream": "http://212.34.233.78:8000/live",
+    "stationName": "Lratvakan Radio",
+    "stationDescription": "Lratvakan Radio FM 106.5 is the only privet «news & talk» radio in Armenia and is one of the flagships of Armenian media industry.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/72211.v5.png",
+    "stationGenres": [
+      "news"
+    ]
+  },
+  {
+    "id": 1626252198451,
+    "stationStream": "http://eu.stream4cast.com:8070/;stream.mp3",
+    "stationName": "Радио Шансон",
+    "stationDescription": "«Хорошая музыка – только для Вас»\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/72213.v5.png",
+    "stationGenres": [
+      "chanson"
+    ]
+  },
+  {
+    "id": 1626252206962,
+    "stationStream": "http://s7.voscast.com:10258/;",
+    "stationName": "Radio Jan",
+    "stationDescription": "Ջան ենք ասում` ջան լսում: Սա մեր կարգախոսն է, որը համապատասխանում է մեր երաժշտական ֆորմատին, քանի որ “Ռադիո Ջանը” մշտապես աշխատում է պարգևել ուրախ երաժշտություն և բարձրացնել տրամադրությունը:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/72193.v7.png",
+    "stationGenres": [
+      "armenian"
+    ]
+  },
+  {
+    "id": 1626252212113,
+    "stationStream": "http://149.255.59.164:8008/stream",
+    "stationName": "Radio Yeraz",
+    "stationDescription": "Ռատիօ Երազը Սուրիոյ առաջին առցանց հայկական ռատիօ կայանն է, որ սուրիահայութեան յատկապէս հալէպահայութեան, ձայնը կը հասցնէ աշխարհասփիւռ հայութեան՝ Հայաստանէն մինջեւ հեռաւոր ափեր՝ 2009-էն ի վեր: Մեր ծրագիրը կ՛ընդգրկէ Սուրիոյ գաղութային կեանքին վերաբերող մանրամասն հաղորդակցութիւններ, զանազան տօնակատարութիւններու եւ առիթներու ուղիղ սփռում, ինչպէս նաեւ մեր ունկնդիրներուն տեսակաւոր ճաշակները գոհացնող ծրագրեր:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/42878.v6.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626252217338,
+    "stationStream": "http://89.163.246.155:8000/Radiohay",
+    "stationName": "Radio Hay",
+    "stationDescription": "Ռադիո Հայ Գյումրի» ռադիոկայանը հիմնադրվել է Գյումրիում՝ 2005թ-ին, այն «Ռադիո Հայ Հայաստան»-ի մասնաճյուղն է: Ռադիոկայանը ձեւավորման առաջին իսկ օրվանից որդեգրել է հաստատուն քաղաքականություն եւ առաքելություն` տարածել հայկական երաժշտությունը եւ պահպանել ազգային արժեքները: Տարիների ընթացքում «Ռադիո Հայ Գյումրի» ռադիոկայանը հասցրել է ձևավորել կայուն և հաստատուն լսարան: Ռադիոկայանը հեռարձակվում է Fm 106.6 հաճախականությամբ: Շիրակի մարզում հեռարձակման եւ տարածման իրավունքները պատկանում են բացառապես «Սթայլ Մեդիա» ՍՊԸ-ին\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/42894.v6.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626252225073,
+    "stationStream": "http://icecast.yerevannights.com/YerevanNights",
+    "stationName": "РАДИО \"Ереванские ночи\"",
+    "stationDescription": "Unique in its nature, YerevanNights now offers Armenian music - around the clock; wide array of programs for every interest, and the latest music video clips. Our ambitious plans for the near future include enriching our music library, expanding the video clip collection, airing an hour of dedications and several live programs. The satisfaction of our listeners has always been the key to our success; we welcome any questions, suggestions, and feedback you might have.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/42881.v2.png",
+    "stationGenres": [
+      "folk",
+      "country"
+    ]
+  },
+  {
+    "id": 1626252230563,
+    "stationStream": "http://83.169.36.75:8000/stream?1573722895304",
+    "stationName": "Radio YAN",
+    "stationDescription": "Ռատիօ եան-ը հայատրոփ համացանցային ԱՆԿԱԽ ձայնասփիւռ է իր Հայկական, աշուղական, սիրային, ազգագրական, գաւառական եւ մանաւանդ ազգային յեղափոխական տարրերով:Ռատիօ Եան-ը սկսած է սփռուիլ համացանցի վրայ Փետրուար 2011-էն իվեր, եւ նախաձեռնութիւնն է խումբ մը երիտասարդներու, որոնք մտահոգ են հայկական երգերու եւ մշակոյթի աղաւաղման ընթացքէն եւ իրենց այս քայլով կը փորձեն տարածել իսկական հայկական երաժշտութիւն եւ ազգային յեղափոխական մթնոլորտ:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/42879.v19.png",
+    "stationGenres": [
+      "folk"
+    ]
+  },
+  {
+    "id": 1626252237961,
+    "stationStream": "http://www.norradyo.com:8000/live",
+    "stationName": "Nor Radyo",
+    "stationDescription": "Армянское радио. Nor Radyo (арм. Նոր Ռատիօ) - армянская частная радиостанция. Ереван 90.2 MHz.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/42957.v4.png",
+    "stationGenres": [
+      "pop",
+      "folk",
+      "classic"
+    ]
+  },
+  {
+    "id": 1626252243590,
+    "stationStream": "http://212.34.233.78:8005/music",
+    "stationName": "Радио Импульс",
+    "stationDescription": "Армянское радио. Radio Horovel (арм. Իմպուլս) - армянская частная радиостанция. Вещание сосредоточено на армянской культуре, этнической музыки и духовного наследия армянского народа. Ереван 106,5 МГц.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/42890.v4.png",
+    "stationGenres": [
+      "folk",
+      "country"
+    ]
+  },
+  {
+    "id": 1626252250007,
+    "stationStream": "http://eu.stream4cast.com:8050/stream",
+    "stationName": "Radio XFM",
+    "stationDescription": "Համաշխարհային հիթեր\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/91668.v7.png",
+    "stationGenres": [
+      "hits"
+    ]
+  },
+  {
+    "id": 1626252258146,
+    "stationStream": "http://37.252.79.131:8003/stream",
+    "stationName": "Public Radio of Armenia",
+    "stationDescription": "Public Radio of Armenia - (Armenian: Հայաստանի Հանրային Ռադիո, Hayastani Hanrayin Radio; Djsy Armradio) is a public radio broadcaster in Armenia. It was established in 1926 and remains one of the largest broadcasters in the country, with three national channels. The agency also has the country's largest sound archives, four orchestras, and participates in cultural preservation programs.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/42836.v13.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626252264107,
+    "stationStream": "https://am.radioaurora.am/jz",
+    "stationName": "Radio Jazz FM",
+    "stationDescription": "Radio Jazz FM 89.3 FM is from Armenia in the genre of Jazz.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/72212.v6.png",
+    "stationGenres": [
+      "jazz"
+    ]
+  },
+  {
+    "id": 1626252272126,
+    "stationStream": "https://streams.radio.co/sa0bf8ec29/listen",
+    "stationName": "Armenian Christian Radio - Bashde Radio",
+    "stationDescription": "Bashde’s goal is to worship the Lord through uplifting Armenian Christian music and songs. We started Bashde in early 2007 and our goal is to continue to develop a web site where Armenian Christian songs can be used to minister to our beloved Armenian people. We also want to encourage emerging Armenian Christian artists promote new creative and uplifting songs for our Lord and Savior. Bashde Inc. is a non-profit organization whose ministry is funded through the support of individuals who donate to this ministry\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/43015.v3.png",
+    "stationGenres": [
+      "talk",
+      "christian",
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626252279096,
+    "stationStream": "http://eu.stream4cast.com:8036/stream/;?",
+    "stationName": "Radio Fama",
+    "stationDescription": "Մանկավարժական համալսարանի ռադիոն կոչվեց Ֆամա՝ ամեն ինչ լսող և ամեն ինչ տեսնող հունական աստվածուհու անունով: Ռադիո Ֆաման իր գործունեությունը սկսել է 2013-ի նոյեմբերի 1-ից: Որպես լրատվական գործունեություն իրականացնող՝ ռադիո Ֆամայի առաջին հաղորդումը եղել է հենց լրատվական թողարկումների ապահովումը. ողջ օրվա ընթացքում երեք ժամը մեկ եթերում է օրվա լուրերի թողարկումը՝ 12:30, 15:00, 18:00 /գլխավոր թողարկում/ և 21:00:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/42961.v8.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626252286090,
+    "stationStream": "http://163.172.7.220:8044/stream/1/",
+    "stationName": "Radio Energy",
+    "stationDescription": "Մենք House Music ուղղվածության հայկական առաջին օնլայն ռադիոկայանն ենք:\nՄեր եթերում կարող եք լսել House երաժշտության լավագույն ընտրանին և հանրահայտ DJ-ների աշխարահռչակ միքսերը:\nՌադիո Էներջի – Զգա Երաժշտությունը\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/91669.v6.png",
+    "stationGenres": [
+      "dance",
+      "club",
+      "dj"
+    ]
+  },
+  {
+    "id": 1626252308132,
+    "stationStream": "https://radio.imusic.am/jammin.mp3",
+    "stationName": "IMusic.am-jammin",
+    "stationDescription": "Radio jammin presents the best music of all genres. It is available for 24 hours round. Radio helps to discover new compositions and enjoy already favorite ones. Radio was founded in 2010. It covers all genres, so everyone can find a track of any taste. The playlists consist of selected tracks and are updated daily.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/42970.v4.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626252313691,
+    "stationStream": "http://icecast-ruvr.cdnvideo.ru/rian.voicearm1",
+    "stationName": "Radio Sputnik Արմենիա",
+    "stationDescription": "Ռադիո Sputnik- ը «Russia Today» լրատվական գործակալության կողմից ստեղծված ինտերնետային լրատվական եւ ռադիոհաղորդման ծառայությունն է: Կենտրոնական գրասենյակը գտնվում է Մոսկվայում, Սպուտնիկն ունի տարածաշրջանային խմբագրություն `Վաշինգտոնում, Կահիրեում, Պեկինում եւ Լոնդոնում: Այն կենտրոնանում է գլոբալ քաղաքականության եւ տնտեսության վրա եւ ուղղված է բացառապես ոչ ռուսական լսարանի:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/67187.v4.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626252320262,
+    "stationStream": "http://93.94.223.140:8000/live",
+    "stationName": "Vem Radio",
+    "stationDescription": "«Վէմն» առանձնանում է իր հաղորդումների բովանդակությամբ: Ռադիոկայանը դասական ու հոգևոր երաժշտության միջոցով նպաստում է հանրության ճաշակի բարձրացմանը և մարդու հոգու վեհացմանը: «Վէմի»՝ բարոյականության, հայրենասիրության, այլասիրության ու նվիրումի մնայուն սկզբունքների հիման վրա ստեղծված հաղորդումներն ու զրույցները հարստացնում են մարդու ներաշխարհը, լուսավորում նրա ճանապարհը: Ռադիոկայանը, երաժշտության ու գաղափարների յուրատեսակ զուգակցմամբ, որոշակի հոգևոր լիցք է հաղորդում իր բազմաշերտ լսարանին:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/53447.v8.png",
+    "stationGenres": [
+      "classic",
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626252388165,
+    "stationStream": "http://109.169.76.153:9702/;stream.nsv",
+    "stationName": "Radio Mix",
+    "stationDescription": "«Ռադիո Միքս»-ը ողջունում է Ձեզ։ Մեր  նպատակն է ռադիոլսողներին մատուցել բազմաժանր որակյալ և հիթային երաժշտություն:\nՄիացեք և լսեք մեզ 24 ժամ` առանց դադարի:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/71138.v24.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626252395712,
+    "stationStream": "http://5.104.110.5:8000/RadioMariam",
+    "stationName": "Radio Mariam",
+    "stationDescription": "Radio Mariam is an internet radio station from Gyumri, Yerevan, Armenia providing Christian Religious ethnic, classical and contemporary music on the Radio Maria Armenia Group.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/43013.v8.png",
+    "stationGenres": [
+      "christian",
+      "children"
+    ]
+  },
+  {
+    "id": 1626252405667,
+    "stationStream": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
+    "stationName": "«Радио России»",
+    "stationDescription": "Государственная радиовещательная компания «Радио России» – главная государственная радиостанция страны. — единственная в стране федеральная радиостанция общего формата, производящая все виды радио программ — информационные, общественно-политические, музыкальные, литературно-драматические, научно-познавательные, детские программы.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/42838.v1.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626252410766,
+    "stationStream": "https://s8.myradiostream.com/15554/listen.mp3",
+    "stationName": "Armenian Gospel Radio",
+    "stationDescription": "Հոգևոր ռադիոկայան, որի տեսիլքն է Ավետարանի Բարի լուրի տարածումը Հայաստանում և Սփյուռքում:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/72215.v4.png",
+    "stationGenres": [
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626252416464,
+    "stationStream": "http://163.172.7.220:8030/;stream.mp3",
+    "stationName": "Radio Marshall",
+    "stationDescription": "Ռադիո Մարշալ- FM 103.5:\nՄենք առաջարկում ենք միայն որակյալ երաժշտություն:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/99190.v1.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626252421585,
+    "stationStream": "https://radioazalia.out.airtime.pro/radioazalia_b",
+    "stationName": "Radio Azalia",
+    "stationDescription": "Մենք ներկայացնում ենք այն, ինչը հաճախ դիտմամբ կամ պատահմամբ դուրս է մնում հայաստանյան ԶԼՄ-ների ուշադրությունից: Մեր նպատակն է` հասարակական, երիտասարդական, սոցիալական , երբեմն նաեւ` քաղաքական իրադարձությունների անաչառ եւ օպերատիվ լուսաբանման շնորհիվ նպաստել Հայաստանի Հանրապետությունում Խոսքի ազատությանը, Մարդու իրավունքների մասին հասարակության իրազեկվածության բարձրացմանը, աջակցել քաղաքացիական հասարակության կայացմանը:  \n\nԲարձրաձայնելով առկա խնդիրների մասին՝ բերել դրական փոփոխություններ:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/42978.v2.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626252429372,
+    "stationStream": "https://listen.shoutcast.com/loveradioyerevan",
+    "stationName": "Love Radio Yerevan",
+    "stationDescription": "Love Radio Yerevan романтические хиты 24 часа в день, 7 дней в неделю.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/68078.v3.png",
+    "stationGenres": [
+      "pop",
+      "jazz",
+      "top40",
+      "romantic",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626252434305,
+    "stationStream": "https://onlineradio.out.airtime.pro/onlineradio_b",
+    "stationName": "Online Radio Armenia",
+    "stationDescription": "www.onlineradio.am -ն ստեղծված է լուսաբանելու և հանրությանը ներկայացնելու տարբեր ոլորտներում տիրող իրավիճակը, առկա խնդիրները և զարգացման ընթացքը: Մեր եթերում և կայքում տեղ են գտնելու մասնագիտական վերլուծություններ, փորձագիտական կարծիքներ, վիճակագրություն, տարբեր խնդիրների շուրջ բանավեճեր, և, իհարկե, երաժշտություն:\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/43118.v3.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626252440739,
+    "stationStream": "http://109.68.120.226:8000/menq128",
+    "stationName": "Radio Menq",
+    "stationDescription": "Երիտասարդները, որոնք ընդգրկված են ինտերնետ ռադիոյի և ստուդիայի ստեղծագործական խմբում, հիմնականում ունեն տեսողության խնդիրներ: Նրանց համախմբել է այն գաղափարը, որ ինտերնետ ռադիոյի և ստուդիայի հիմնումը լայն հնարավորություններ կտա իրականացնելու իրենց ստեղծագործական ներուժը և սոցիալական գաղափարները, որոնք ուղղված են Ֆիզիկական խնդիրներով մարդկանց և հասարակության այլ շերտերի միջև առողջ հարաբերությունների հաստատմանը:\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/50895.v2.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "folk",
+      "classic"
+    ]
+  },
+  {
+    "id": 1626252451669,
+    "stationStream": "http://199.195.194.92:8029/;stream.mp3",
+    "stationName": "Yerevan FM 101.9",
+    "stationDescription": "Radio Yerevan FM 101.9. Radio from Armenia.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/98691.v2.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ]
+  }
+]

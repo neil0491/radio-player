@@ -1,0 +1,953 @@
+[
+  {
+    "id": 1626259525833,
+    "stationStream": "https://stream.hoster.by/rusradio/russkoe/icecast.audio",
+    "stationName": "Русское Радио",
+    "stationDescription": "Русское Радио - первая музыкальная станция в Беларуси, воплотившая новый принцип вещания и использующая в своем эфире музыкальные произведения только на русском языке! В эфире звучит лучшая отечественная музыка минувшего времени и наших дней.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/364.v7.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259527056,
+    "stationStream": "https://advertizer.hoster.by/unistar/unistar-128kb/icecast.audio",
+    "stationName": "Радио Unistar",
+    "stationDescription": "Радио Unistar. Хит за хитом!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/369.v11.png",
+    "stationGenres": [
+      "pop",
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626259528223,
+    "stationStream": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+    "stationName": "Новое Радио",
+    "stationDescription": "Новое радио – радио современных хитов!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/370.v25.png",
+    "stationGenres": [
+      "top40",
+      "adult contemporary",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259528947,
+    "stationStream": "https://stream.hoster.by/pilotfm/audio/icecast.audio",
+    "stationName": "Душевное Радио",
+    "stationDescription": "Душевное Радио - новая станция в белорусском FM-диапазоне. Города эфирного вещания: Минск - 105.7 FM, Гомель - 106.0 FM, Гродно - 88.2 FM. \"Душевное Радио\" – это музыкальное путешествие по любимым мелодиям с акцентом на золотые русскоязычные хиты 90х и 2000х, а также на проверенные временем западные хиты.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/363.v5.png",
+    "stationGenres": [
+      "pop",
+      "90s",
+      "00s",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259529655,
+    "stationStream": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+    "stationName": "Народное Радио",
+    "stationDescription": "Народное радио – отличные песни! \nМинск - 102.5\nГродно - 87.5\nМогилев - 88.0\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/65893.v9.png",
+    "stationGenres": [
+      "pop",
+      "russian"
+    ]
+  },
+  {
+    "id": 1626259530818,
+    "stationStream": "https://onlineradiobox.com/json/by/humorfm/play?platform=web",
+    "stationName": "Юмор FM",
+    "stationDescription": "Юмор FM - первая и единственная в Беларуси юмористическая радиостанция!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/362.v4.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259531537,
+    "stationStream": "https://stream.hoster.by/pilotfm/pilot/icecast.audio",
+    "stationName": "Пилот FM",
+    "stationDescription": "Пилот FM - одна из лучших радиостанций Беларуси, которая начала свое вещание в 2003 году. В эфире станции звучат популярные отечественные и зарубежные музыкальные композиции, а также различные музыкальные и информационные передачи и шоу.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/371.v6.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259532235,
+    "stationStream": "https://air.melodiiveka.by:8443/mv",
+    "stationName": "Мелодии Века",
+    "stationDescription": "Мелодии Века — Белорусская музыкальная радиостанция, вещающая на территории Минска и Минской области в формате Oldies/retro.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/361.v11.png",
+    "stationGenres": [
+      "pop",
+      "90s",
+      "80s",
+      "oldies"
+    ]
+  },
+  {
+    "id": 1626259533409,
+    "stationStream": "https://a1.radioheart.ru:9003/RH17982",
+    "stationName": "Radio 4you",
+    "stationDescription": "Что такое «Radio 4you»? Это сотни децибел, доносящихся из колонок и радиоприемников, открытых окон и не закрытых багажников машин, тысячи знакомых ритмов популярных, любимых песен. Услышали ту самую? Тогда сделай погромче! Эта планета должна слушать только качественную музыку с отменным вкусом, на меньшее она не согласна.\nНе имеет значения собираетесь ли вы утром не спеша на работу или ждете в банке своей очереди, а может собрались в очередное путешествие с друзьями — «Radio 4you» твой надежный спутник, где бы ты ни был и чем бы не занимался!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/82597.v12.png",
+    "stationGenres": [
+      "electronic",
+      "trance",
+      "house",
+      "pop",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626259534057,
+    "stationStream": "https://air.radioba.by:8443/ba",
+    "stationName": "Радио Би-Эй",
+    "stationDescription": "\"Радио Би-Эй\" в городе Минск предлагает своим слушателям разные интересные программы, конкурсы, обзоры актуальных новостей и т.д. Слушайте нас!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/376.v12.png",
+    "stationGenres": [
+      "rock"
+    ]
+  },
+  {
+    "id": 1626259534781,
+    "stationStream": "https://onlineradiobox.com/json/by/radiobrest/play?platform=web",
+    "stationName": "Радио Брест",
+    "stationDescription": "Радио Брест - информационно-музыкальная радиостанция, которая начала свое вещание в сентябре 2003 года на частоте 104.8 FM. В эфире звучат хиты отечественных и зарубежных исполнителей, выпуски новостей, а также различные программы, конкурсы и игры.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/379.v4.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626259535939,
+    "stationStream": "https://s13.live/live",
+    "stationName": "Радио s13.live",
+    "stationDescription": "s13.live – онлайн радио из Гродно, работает 24/7. Каждый будний день до обеда – прямой эфир с ведущим, освещение белорусских и мировых новостей, развлекательные шоу с розыгрышами призов от спонсоров и интервью с интересными гостями. В остальное время – полностью автоматизированный эфир, современные популярные композиции, которые собирает и ставит в эфир робот в автоматическом режиме + лучшие мировые хиты всех времен и народов.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/69752.v13.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259536645,
+    "stationStream": "https://stream2.datacenter.by/energy",
+    "stationName": "Energy FM",
+    "stationDescription": "Energy FM - Hot Hit Music\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/374.v23.png",
+    "stationGenres": [
+      "top40",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259537733,
+    "stationStream": "https://onlineradiobox.com/json/by/vitebsk/play?platform=web",
+    "stationName": "Радио Витебск",
+    "stationDescription": "«Радио-Витебск» – это 24 часа ежедневного собственного вещания в прямом эфире не только в Витебской области, но и прилегающих районах Могилевской, Гродненской и Минской областей, а также в приграничных регионах Латвии, Литвы, России. FM 91.2\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/372.v6.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626259538426,
+    "stationStream": "https://onlineradiobox.com/json/by/radiorelax/play?platform=web",
+    "stationName": "Радыё Relax",
+    "stationDescription": "Радыё Relax - гэта лепшая калекцыя спакойнай мягкай меладычнай папулярнай музыкі, якая з’яўляецца ідыяльным фонам для працы і адпачынку.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/70110.v8.png",
+    "stationGenres": [
+      "pop",
+      "easy listening",
+      "romantic"
+    ]
+  },
+  {
+    "id": 1626259539127,
+    "stationStream": "https://stream.radiogrodno.by:8005/live",
+    "stationName": "Радио Гродно",
+    "stationDescription": "Радио Гродно - музыкально-информационная радиостанция, которая начала свое вещание  в декабре 1999 года на частоте 67.76 УКВ. В эфире станции вы услышите оперативную информацию о ситуации в городе Гродно, а также о ситуации в стране и мире. Также в  эфире звучит популярная отечественная и зарубежная музыка, музыкальные программы и шоу.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/375.v9.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626259539871,
+    "stationStream": "https://onlineradiobox.com/json/by/avtoradio/play?platform=web",
+    "stationName": "Авторадио",
+    "stationDescription": "АвтоРадио - это радиостанция классического рока.\n\nВ эфире АвтоРадио звучат только лучшие рок хиты планеты: AC/DC, Accept, Deep Purple, Def Leppard, Guns N' Roses, Iron Maiden, Led Zeppelin, Metallica, Queen, Rainbow, Rolling Stones, Scorpions и многие другие.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/73977.v4.png",
+    "stationGenres": [
+      "rock"
+    ]
+  },
+  {
+    "id": 1626259540618,
+    "stationStream": "https://stream2.datacenter.by/radiusfm_main",
+    "stationName": "Радиус FM",
+    "stationDescription": "В эфире - только современная популярная музыка, горячие хиты и лучшие треки последнего десятилетия. “Радиус FM” - крупнейшее хитовое радио в Беларуси!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/72056.v12.png",
+    "stationGenres": [
+      "pop",
+      "adult contemporary",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259541355,
+    "stationStream": "https://onlineradiobox.com/json/by/legendy/play?platform=web",
+    "stationName": "Легенды FM",
+    "stationDescription": "Только ЛЕГЕНДАРНЫЕ хиты!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/75505.v4.png",
+    "stationGenres": [
+      "retro",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259542083,
+    "stationStream": "https://s.aplus.fm/aplus_128",
+    "stationName": "Radio Aplus",
+    "stationDescription": "Радио Aplus.fm - первое интернет-радио Беларуси.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/385.v9.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259542801,
+    "stationStream": "https://sv.wargaming.fm/1/128",
+    "stationName": "Wargaming FM",
+    "stationDescription": "Wargaming.FM — интернет-радио со стильной музыкой и информационно-развлекательными программами. Wargaming.FM — это радио, созданное для ценителей World of Tanks, World of Warships и World of Warplanes. В эфире звучат новости, шутки и ответы разработчиков, разыгрываются премиум аккаунт и техника, игровое золото.\nWargaming.FM — радио твоих побед!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/67097.v6.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "pop",
+      "news",
+      "hits",
+      "games music"
+    ]
+  },
+  {
+    "id": 1626259543504,
+    "stationStream": "https://stream.hoster.by/tvrmogilev/radiomogilev/icecast.audio",
+    "stationName": "Радио Могилев",
+    "stationDescription": "Радиостанция «Радио Могилев» — это станция современной музыки\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/365.v4.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259544185,
+    "stationStream": "https://onlineradiobox.com/json/by/roks/play?platform=web",
+    "stationName": "Радио РОКС",
+    "stationDescription": "Радио Рокс - первая коммерческая FM-станция Беларуси. Душевная музыка в стиле русский шансон.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/62865.v9.png",
+    "stationGenres": [
+      "russian",
+      "chanson"
+    ]
+  },
+  {
+    "id": 1626259544854,
+    "stationStream": "https://onlineradiobox.com/json/by/zefir/play?platform=web",
+    "stationName": "Зефир FM",
+    "stationDescription": "Зефир FM - Онлайн радио. Слушайте радио и выбирайте лучшее качество звука. Включайтесь в музыку на станции Зефир FM.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/58669.v7.png",
+    "stationGenres": [
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626259545565,
+    "stationStream": "https://stream2.datacenter.by/stream",
+    "stationName": "Радио Центр FM",
+    "stationDescription": "«Радио Центр FM» - новая радиостанция популярной музыки в Беларуси. Впервые вышла в эфир ровно в полночь 18 сентября 2018 года, заменив собой «Радио ОНТ» во всех городах его вещания. Первой песней, прозвучавшей на радио Центр FM, стала \"Friends\" от дуэта Marshmello & Anne-Marie. Станция вещает в Минске на частоте 101,7 FM, в Витебске на 93,3 FM, в Гродно на 90,4 FM, а также в Новополоцке на 107,0 FM.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/377.v9.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259547175,
+    "stationStream": "https://onlineradiobox.com/json/by/radiominsk/play?platform=web",
+    "stationName": "Радио Минск",
+    "stationDescription": "Радио-Минск - единственное FM-радио в Беларуси, музыкальным форматом которого является классический рок и рок'н'ролл. Мы воздерживаемся от шаблонной музыки, хит-парадов, \"позитивных\" и неживых образов ведущих, желтизны и прочих издержек современности.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/367.v3.png",
+    "stationGenres": [
+      "rock",
+      "rock'n'roll"
+    ]
+  },
+  {
+    "id": 1626259547887,
+    "stationStream": "https://myradio24.org/2288",
+    "stationName": "Soundeo FM",
+    "stationDescription": "«Soundeo FM» is a place where you can enjoy the soft, dense and atmospheric sounding of the selected House / Deep House music genres.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/75257.v4.png",
+    "stationGenres": [
+      "house",
+      "deep house"
+    ]
+  },
+  {
+    "id": 1626259548602,
+    "stationStream": "https://stream.mhradio.net/free.mp3",
+    "stationName": "MH•radio",
+    "stationDescription": "Listen to Selective Electronic Music 24/7 on online channel MH•radio. We stream Deep, Tech, House, Minimal, Nu-Disco, Liquid DnB, Jungle and other genres of Electronic Music.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/55138.v17.png",
+    "stationGenres": [
+      "techno",
+      "deep house",
+      "drum'n'bass",
+      "jungle"
+    ]
+  },
+  {
+    "id": 1626259549308,
+    "stationStream": "https://onlineradiobox.com/json/by/mirradio/play?platform=web",
+    "stationName": "Радио \"Мир\"",
+    "stationDescription": "Радио «Мир» — музыкально-информационная радиостанция. Формат вещания Adult Contemporary Music. Радио «Мир» — это поп-, рок-музыка от конца 80-х до сегодняшних дней: микс настоящих песен, проверенных годами, с современными актуальными хитами. Программное наполнение: новости, авторские проекты, шоу диджеев, лёгкие интерактивные программы.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/71874.v18.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259550511,
+    "stationStream": "https://onlineradiobox.com/json/by/alpha/play?platform=web",
+    "stationName": "Альфа Радио",
+    "stationDescription": "«Альфа Радио» - радио твоего дня! Радиостанция для современных взрослых людей с активной жизненной позицией. В эфире звучат только хиты, микс лучших новых и неустаревающих современных песен. «Альфа Радио» создает настроение, сопровождает в течение дня, создаёт благоприятную атмосферу для работы и отдыха!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/368.v9.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626259551224,
+    "stationStream": "https://onlineradiobox.com/json/by/racyja/play?platform=web",
+    "stationName": "Радыё Рацыя",
+    "stationDescription": "Беларускае Радыё Рацыя - радыёстанцыя, якая вяшчае на беларускай мове на тэрыторыі Беларусі, Польшчы і Літвы на хвалях 98,1 FM і 99,2 FM а таксама ў інтэрнэце на www.racyja.com\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/46148.v5.png",
+    "stationGenres": [
+      "news",
+      "sports"
+    ]
+  },
+  {
+    "id": 1626259551860,
+    "stationStream": "https://radio.rock-omlet.com/live",
+    "stationName": "Рок-Омлет",
+    "stationDescription": "Эфир нашего радио состоит из:\n- лучших песен музыкантов и музыкальных коллективов, которые когда-либо рассматривались, рассматриваются в даный момент, либо будут рассматриваться в недалёком будущем в наших передачах;\n- новинок музыкальной рок-индустрии;\n- замечательных рок-хитов, уже успевших стать классикой;\n- достойных композиций с пост-советской рок-сцены;\n- небольших отделений классической/инструментальной музыки.\nПодробности на нашем сайте: rock-omlet.com\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/59112.v7.png",
+    "stationGenres": [
+      "rock",
+      "blues",
+      "metal",
+      "punk"
+    ]
+  },
+  {
+    "id": 1626259552844,
+    "stationStream": "https://a1.radioheart.ru:8001/radiogomelfm",
+    "stationName": "Гомель FM",
+    "stationDescription": "«Гомель FM» — ведущая радиостанция Гомеля и области. Мы объединяем вокруг себя людей, чьи вкусы формировались в 90-ые и 2000-ые. На волне «Гомель FM» вы услышите то, что дорого сердцу!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/380.v6.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259553841,
+    "stationStream": "https://stream2.datacenter.by/stalica",
+    "stationName": "Радио Сталіца",
+    "stationDescription": "Радыё \"Сталіца\" здолела знайсці ўласны стыль і рытм вяшчання, бо кожны з яе супрацоўнікаў з натхненнем стварае тое, што слухачы назавуць “любімым”.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/72055.v11.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626259555007,
+    "stationStream": "https://onlineradiobox.com/json/by/skif/play?platform=web",
+    "stationName": "РАДИО СКИФ",
+    "stationDescription": "Изначально эфир наполняла исключительно музыка. Но с течением времени в эфир стали выходить тематические программы, которых по мере развития становилось все больше и больше. Мы не специализируемся на конкретном жанре или стиле. Мы стараемся сделать так, что бы каждый слушатель нашел в нашем эфире что-то для себя. Это очень сложная задача, но мы всеми возможными способами пытаемся её решить, и наличие постоянных слушателей говорит о том, что у нас это получается, пусть не всегда, но мы не останавливаемся на достигнутом.\n\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/72065.v2.png",
+    "stationGenres": [
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626259555993,
+    "stationStream": "https://stream2.datacenter.by/1kanal",
+    "stationName": "1 канал",
+    "stationDescription": "Быць даступным і заўсёды цікавым для сваіх слухачоў, разам абмяркоўваць актуальныя пытанні, прыемна і з карысцю адпачываць - усё гэта адлюстравана ў дэвізе Першага нацыянальнага канала \"Будзем разам!\".\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/72054.v8.png",
+    "stationGenres": [
+      "news"
+    ]
+  },
+  {
+    "id": 1626259556614,
+    "stationStream": "https://lider-fm.by:8000/radio",
+    "stationName": "Лидер FM",
+    "stationDescription": "Радио «Лидер FM» (Лидское радио) вещает круглосуточно на частоте 94.3 ФМ.\n\nНовости – это важнейшая информационная составляющая любого радио. На «Лидер FM» они выходят в эфир 14 раз в день. Выпуски состоят из событий, которые происходят в регионе, республике и мире, причем первостепенное внимание уделяется местным событиям.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/381.v6.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626259557695,
+    "stationStream": "https://onlineradiobox.com/json/by/mfm/play?platform=web",
+    "stationName": "MFM",
+    "stationDescription": "Слушайте хорошую музыку и развлекательные передачи на волне Белорусского радио MFM 105.0. Наши ведущие взбодрят вас утром и развеселят вас вечером.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/69780.v7.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "90s",
+      "80s",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259558302,
+    "stationStream": "https://myradio24.org/3355",
+    "stationName": "Love Is Radio",
+    "stationDescription": "Love Is Radio - первое интернет радио Беларуси о любви.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/72122.v6.png",
+    "stationGenres": [
+      "pop",
+      "easy listening",
+      "romantic",
+      "love songs"
+    ]
+  },
+  {
+    "id": 1626259558999,
+    "stationStream": "https://rde.stream.laut.fm/rde",
+    "stationName": "Радио Эксперимент",
+    "stationDescription": "Авторское радио группы Эксперимент-12.\nГранды славянского рока, а так же свободная площадка для не совсем известных групп и исполнителей.\nСлавяноязычный рок 24/7. Возрастное ограничение 16+\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/74344.v24.png",
+    "stationGenres": [
+      "rock"
+    ]
+  },
+  {
+    "id": 1626259559612,
+    "stationStream": "https://onlineradiobox.com/json/by/baranovichi/play?platform=web",
+    "stationName": "Барановичи FM",
+    "stationDescription": "Стиль вещания: оперативные новости, аналитика событий, происходящих в Барановичском регионе, стране и мире, экономические программы, новости автомобильного мира, культуры и спорта информация о погоде.\n \n Музыкальный формат «Барановичи FМ»: Hot Adult Contemporary включающий в себя лучшие зарубежные и отечественные композиции с 1990-х до настоящего времени.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/72050.v5.png",
+    "stationGenres": [
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626259560226,
+    "stationStream": "https://stream2.datacenter.by/kultura",
+    "stationName": "Канал Культура",
+    "stationDescription": "Канал \"Культура\" Беларускага радыё выбіраюць слухачы, якія цікавяцца нацыянальнымі і сусветнымі культурнымі здабыткамі і сучаснымі падзеямі ў свеце мастацтва.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/72053.v10.png",
+    "stationGenres": [
+      "culture"
+    ]
+  },
+  {
+    "id": 1626259560847,
+    "stationStream": "https://securestream.euroradio.fm/euroradio4?seed=1596963709",
+    "stationName": "Euroradio",
+    "stationDescription": "Еврорадио – это проект белорусов для белорусов. Мы - самая популярная радиостанция, вещающая из-за пределов Беларуси. Ежедневно наши новости, музыку и программы слушают и читают более 300 тысяч человек – наша постоянная аудитория. За 10 лет мы поддержали более 1000 культурных акций и пригласили в эфир более 1000 экспертов. Наши корреспонденты – лауреаты международных журналистских премий и конкурсов.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/72067.v5.png",
+    "stationGenres": [
+      "rock"
+    ]
+  },
+  {
+    "id": 1626259561440,
+    "stationStream": "https://riavoice.gcdn.co/voicerus",
+    "stationName": "Radio Sputnik Беларусь",
+    "stationDescription": "Радио Спутник представляет собой интернет-новости и радио вещания службы, созданной правительством информационного агентства \"Россия сегодня\".  Центральный офис находится в Москве, Sputnik имеет региональные редакции в Вашингтоне, Каире, Пекине и Лондоне. Она сосредоточена на глобальной политики и экономики и направлена исключительно в сторону нерусской аудитории.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/67189.v8.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "sports"
+    ]
+  },
+  {
+    "id": 1626259562124,
+    "stationStream": "https://radio.belmuz.by:8005/stream?ver=779363",
+    "stationName": "Bel-Muz радио",
+    "stationDescription": "Музыкальный формат «BelMuz-радио» — лучшая и любимая русская и зарубежная популярная музыка! В эфире «BelMuz-радио» звучат самые яркие и популярные композиции, безусловные хиты.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/78872.v6.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626259562738,
+    "stationStream": "https://onlineradiobox.com/json/by/mix/play?platform=web",
+    "stationName": "RadioMIX",
+    "stationDescription": "Cover Mix Remix на мировые хиты\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/92141.v3.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "chill-out",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259563351,
+    "stationStream": "https://metalheads.space:666/radio/8000/radio",
+    "stationName": "MetalHeads",
+    "stationDescription": "Отечественное! Своё, родное и беспощадное! Регулярно обновляемая музыкальная библиотека белорусского тяжеляка для ваших ушей!\nАктуальные новости отечественной тяжелой сцены, интересные интервью, концертные репортажи и не только!\nMetalHeads.by — Всё, что интересно металхэду!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/74731.v2.png",
+    "stationGenres": [
+      "heavy metal",
+      "metal",
+      "metalcore",
+      "death metal",
+      "gothic",
+      "folk rock",
+      "progressive metal",
+      "power metal",
+      "black metal"
+    ]
+  },
+  {
+    "id": 1626259563957,
+    "stationStream": "https://server.radiorm.by:8443/aac",
+    "stationName": "Radio Maria",
+    "stationDescription": "Міжнароднае хрысціянскае радыё, якое цяпер ёсць і ў Беларусі. Заснава ў 1963 годзе ў Італіі як парафіяльная радыёстанцыя. Асноўнай мэтай стварэння радыёстанцыі стала інфармаванне парафіян аб жыцці касцёла і дапамога ім у штодзённай малітве праз Літургію і разважанне над Божым Словам. Дзякуючы «Радыё Марыя», хрысціянскае веравучэнне і хрысціянскія каштоўнасці могуць быць даступныя кожнаму чалавеку ў любы момант яго жыцця і ў любым месцы на планеце.\nСёння «Радыё Марыя» гучаць больш чым у 70 краінах свету. Эфір вядзецца на роднай мове кожнага народа.\n«Радыё Марыя» - для кожнага чалавека, незалежна ад яго веравызнання, для ўсіх, каму ў сучасным жорсткім свеце не хапае святла і дабрыні.\n«Радыё Марыя» ў Беларусі \nАд 1 лістапада 2016 года ў Беларусі  «Радыё Марыя» распачала трансляцыю ў інтэрнеце. Слухаць радыё можна на сайце, а таксама пра дадатак для мабільных прыладаў.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/74074.v10.png",
+    "stationGenres": [
+      "christian"
+    ]
+  },
+  {
+    "id": 1626259564558,
+    "stationStream": "https://onlineradiobox.com/json/by/christian123/play?platform=web",
+    "stationName": "Христианское радио 123",
+    "stationDescription": "На радио «123» вы можете услышать чтение Библии, проповеди, программы, литературные чтения, христианская музыка. Наша цель, восполнить духовный голод в душах людей.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/72119.v3.png",
+    "stationGenres": [
+      "christian",
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626259565167,
+    "stationStream": "https://onlineradiobox.com/json/by/teploe/play?platform=web",
+    "stationName": "Тёплое Радио Нетоп FM",
+    "stationDescription": "Тёплое Радио - это песни с тёплым настроением, подобранные по принципу \"ненадоедливости\" и незаезженности до дыр на других радиостанциях формата CHR\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/373.v3.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259566715,
+    "stationStream": "https://myradio24.org/8000",
+    "stationName": "HIPHOPBY",
+    "stationDescription": "Хип-хоп радиостанция HIPHOPBY (ХИПХОПБАЙ) Белорусская радиостанция, в эфире которой звучит Хип-хоп музыка. Вещание ведется из Гомеля (Беларусь). \n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/28063.v3.png",
+    "stationGenres": [
+      "r'n'b",
+      "rap",
+      "hip-hop"
+    ]
+  },
+  {
+    "id": 1626259567322,
+    "stationStream": "https://onlineradiobox.com/json/by/twrfm/play?platform=web",
+    "stationName": "Трансмировое радио в Беларуси",
+    "stationDescription": "Мы живём в мире, где можно легко разочароваться в жизни и потерять надежду.\nВокруг нас болезни, природные катаклизмы, терроризм, страх, внутренние конфликты и неустроенность.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/56063.v8.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "christian",
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626259567933,
+    "stationStream": "https://stream.hoster.by/tvrbyradio/belarus/icecast.audio",
+    "stationName": "Рaдио Беларусь",
+    "stationDescription": "Радио \"Беларусь\" является структурным подразделением Национальной государственной телерадиокомпании Республики Беларусь. Наши позывные звучат в международном эфире с 11 мая 1962 года. Первоначально передачи выходили в эфир только на белорусском языке. С 1985 года началось вещание на немецком языке, а в 1998 году радио услышали на русском и английском языках. С 2006 года радио начало вещание на польском языке. С 2010 года в эфир стали выходить программы на французском и испанском языках, с 2013 - на китайском. В 2017 году началось вещание на арабском языке.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/72052.v11.png",
+    "stationGenres": [
+      "news"
+    ]
+  },
+  {
+    "id": 1626259568536,
+    "stationStream": "https://onlineradiobox.com/json/by/impulse/play?platform=web",
+    "stationName": "IMPULSE RADIIO",
+    "stationDescription": "IMPULSE RADIO - первая танцевальная радиостанция в Беларуси. \nВключай и заряжайся энергией: impulseradio.by\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/70945.v4.png",
+    "stationGenres": [
+      "dance",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259569142,
+    "stationStream": "https://onlineradiobox.com/json/by/gomel/play?platform=web",
+    "stationName": "Гомель Радио",
+    "stationDescription": "Тематика радиовещания: информационные программы (новости, прямые линии с представителями власти), тематические и развлекательные. Объем передач собственного производства – 100%. Объем интерактивного вещания: 8 часов в сутки. Музыкальный формат: Формат AC soft. Музыка, которая нравится взрослому человеку. Песни, находившиеся на первых позициях мировых музыкальных хит-парадов прошлых лет и современные, отвечающие музыкальному вкусу взрослого образованного человека.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/72066.v7.png",
+    "stationGenres": [
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626259569748,
+    "stationStream": "https://onlineradiobox.com/json/by/mtcradio/play?platform=web",
+    "stationName": "МТС Радио",
+    "stationDescription": "МТС Радио - современная молодежная круглосуточная радиостанция. Основу музыкального контента составляют горячие хиты сегодняшнего дня из мира EDM. Формат МТС Радио - CHR (современное хитовое радио). Идея формата заключается в удовлетворении потребностей слушателя, поддержании его в состоянии душевного подъема. Наша цель — сделать музыкальный вкус слушателя богаче, предоставить возможность услышать новинку в эфире как можно быстрее и оценить её. Мы единственная радиостанция в Беларуси, которая периодически организовывает молодежные вечеринки в клубах, собирая сотни активных молодых людей.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/16015.v5.png",
+    "stationGenres": [
+      "dance",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259570742,
+    "stationStream": "https://onlineradiobox.com/json/by/pravda/play?platform=web",
+    "stationName": "Правда радио",
+    "stationDescription": "Правда радио – радио, которое появилось совсем недавно. В Белоруссии оно популярно у банкиров, предпринимателей и людей, которые не только следят за региональными новостями, но и за экономической ситуацией в мире. Умные передачи и диалоги с успешными людьми – вот, из какого материала строиться вещание этой станции из города Гомель.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/72190.v4.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626259571325,
+    "stationStream": "https://a1.radioheart.ru:8001/radiogomel",
+    "stationName": "Гомель Плюс",
+    "stationDescription": "Радио «Гомель Плюс» — одна из ведущих радиостанций Гомеля включает в себя композиции отечественных и российских исполнителей за последние 20 лет. Основная аудитория станции — 35+.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/73976.v4.png",
+    "stationGenres": [
+      "disco",
+      "pop",
+      "90s",
+      "00s",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259571943,
+    "stationStream": "https://onlineradiobox.com/json/by/maladost/play?platform=web",
+    "stationName": "Маладосць",
+    "stationDescription": "Некамерцыйны музычны паток з Беларусi.\nБез размоў, навінаў, прагнозаў надвор'я ды іншай лухты!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/81610.v8.png",
+    "stationGenres": [
+      "indie"
+    ]
+  },
+  {
+    "id": 1626259572546,
+    "stationStream": "https://stream.volnorez.com/live-app/788219",
+    "stationName": "Радио Чайная роза",
+    "stationDescription": "Наша Чайная роза осыпает Вас лепестками из чайных роз. Самое замечательное позитивное радио. Приходите слушать спокойную весёлую музыку для души. На нашем радио звучат песни всех жанров.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/95303.v1.png",
+    "stationGenres": [
+      "pop",
+      "chanson"
+    ]
+  },
+  {
+    "id": 1626259573162,
+    "stationStream": "https://azura.radioplato.by/radio/8000/radio.mp3",
+    "stationName": "Radio Plato",
+    "stationDescription": "Radio Plato is an independent internet radio based in Minsk, Belarus. We follow our passion to share diverse music, some of which was lost or forgotten, the rest is just great. \n\nApart from that we write about local music scene, host shows and publish podcasts. That's what we do to strengthen the community and highlight it worldwide.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/74268.v5.png",
+    "stationGenres": [
+      "electronic",
+      "ambient",
+      "indie"
+    ]
+  },
+  {
+    "id": 1626259573784,
+    "stationStream": "https://onlineradiobox.com/json/by/rawsound/play?platform=web",
+    "stationName": "Raw Sound",
+    "stationDescription": "RAW SOUND - это исключительно тяжелая, брутальная музыка. Здесь можно услышать практически все направления метала, от heavy до grind'а.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/72163.v7.png",
+    "stationGenres": [
+      "rock",
+      "heavy metal"
+    ]
+  },
+  {
+    "id": 1626259574395,
+    "stationStream": "https://streamingv2.shoutcast.com/Clubberby",
+    "stationName": "Clubber FM",
+    "stationDescription": "Clubber FM - это музыкальная интернет танцевальная радиостанция.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/80658.v7.png",
+    "stationGenres": [
+      "house",
+      "pop",
+      "progressive house",
+      "electro house"
+    ]
+  },
+  {
+    "id": 1626259574998,
+    "stationStream": "https://myradio24.org/praims",
+    "stationName": "Прайм Радио",
+    "stationDescription": "Прайм Радио - первая Независимая онлайн радиостанция Беларусии.\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/72070.v5.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259575664,
+    "stationStream": "https://radio.mil.by/live",
+    "stationName": "Компас FM",
+    "stationDescription": "Интернет-радио «Компас FM» – навигатор по жизни наших слушателей. Оно, как настоящий компас, всегда указывает верное направление.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/96584.v1.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259576639,
+    "stationStream": "https://onlineradiobox.com/json/by/minskayavolna/play?platform=web",
+    "stationName": "Минская волна",
+    "stationDescription": "Отличное музыкальное и информационное сопровождение Вашего дня!\nРадиопрограмма специализируется на информационной, культурно-просветительской, музыкальной тематиках. Распространяется ежедневно на территории Минской области и Минска на русском и белорусском языках.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/75314.v4.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "culture"
+    ]
+  },
+  {
+    "id": 1626259577239,
+    "stationStream": "https://onlineradiobox.com/json/by/molodechno/play?platform=web",
+    "stationName": "Молодечно FM",
+    "stationDescription": "Информационно-музыкальный формат «современная музыка для взрослых» (по европейской классификации: «Hot Adult Contemporary» (Hot AC)). Данный формат призван удовлетворить музыкальные и информационные потребности максимально широкого круга аудитории в возрасте 25-45 лет.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/7/91167.png",
+    "stationGenres": [
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626259577849,
+    "stationStream": "https://onlineradiobox.com/json/by/syntheznet/play?platform=web",
+    "stationName": "Synthez.Net",
+    "stationDescription": "Онлайн-радио Synthez.Net – это круглосуточное онлайн-радио, ориентированное на электронную музыку, прежде всего направления synthpop, electropop, futurepop, ebm, industrial и подобные…\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/73862.v3.png",
+    "stationGenres": [
+      "electronic",
+      "techno"
+    ]
+  },
+  {
+    "id": 1626259578458,
+    "stationStream": "https://rs.radioslovo.net:4055/stream",
+    "stationName": "Христианское радио «Открытое Слово» Новый Завет",
+    "stationDescription": "Круглосуточная трансляция  Чтение Библии Новый Завет: В эфире читаются книги из Нового Завета. Синодальный перевод 1876 г. Тексты читает: Ярл Пейсти.\n Радио «Открытое Слово» начало работу в сентябре 2017 года в городе Минске. \n Это христианское радио, но мы рады слушателям любого вероисповедания. Наша цель — дать возможность людям услышать слова, музыку, которые коснуться их душ, сердец и напомнят о Боге Творце и Спасителе Иисусе Христе.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/84349.v4.png",
+    "stationGenres": [
+      "christian"
+    ]
+  },
+  {
+    "id": 1626259579060,
+    "stationStream": "https://onlineradiobox.com/json/by/nellyinfo/play?platform=web",
+    "stationName": "Радио Нелли-Инфо",
+    "stationDescription": "Настроив приемник на волну 102,7 FM любой житель города Мозыря может ознакомиться со свежими новостями, афишей культурной жизни, прослушать прогноз погоды – и, конечно же, насладиться песнями, занимающими лидирующие позиции в чартах белорусских (в prime—time 75% эфира) и зарубежных радиостанциях.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/83704.v3.png",
+    "stationGenres": [
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626259579672,
+    "stationStream": "https://myradio24.org/alyaxen",
+    "stationName": "Alyaxen Radiostation",
+    "stationDescription": "Свою музыку услышит каждый! Только русскоязычные хиты: 1990-е - наши дни.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/87278.v3.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626259580285,
+    "stationStream": "https://onlineradiobox.com/json/by/ranak/play?platform=web",
+    "stationName": "Радио Ранак",
+    "stationDescription": "Радио Ранак - Новости Светлогорска и района, новости Беларуси, полезная информация.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/72069.v6.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259580875,
+    "stationStream": "https://myradio24.org/73028",
+    "stationName": "Radio BONN",
+    "stationDescription": "Radio BONN - толькі музыка, без лішніх слоў і рэкламы. \nГлядзіце наш расклад (кнопка \"Программа\")! \nРадыё для тых, хто працуе, вучыцца альбо сядзіць з кубачкам кавы (ці віна).\nКалі спадабаліся, то будзем вельмі ўдзячныя за ваш водгук у нізе старонкі.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/89308.v4.png",
+    "stationGenres": [
+      "lounge",
+      "hip-hop",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626259581475,
+    "stationStream": "https://onlineradiobox.com/json/by/tvoe/play?platform=web",
+    "stationName": "Твоё Радио",
+    "stationDescription": "Настраивайтесь на 100.6 ФМ, если вы находитесь в радиусе 50 км. от прекрасного города Лиды, или слушайте онлайн.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/2/100992.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626259582077,
+    "stationStream": "https://a9.radioheart.ru:9031/RH22303",
+    "stationName": "Blow Back Radio",
+    "stationDescription": "Blow Back Radio — это не проект, у нас нет цели показать себя с наилучшей стороны или просто срубить бабла! Hip-Hop — это стиль жизнь! Это значит быть тем кто ты есть, быть настоящим, вот подлинный смысл хип-хопа! Именно это и есть та основа, на которой построен Blow Back, самое отборное мать его Дерьмо, лучшие треки, топовые новости и клипы!!! Мы отсеиваем весь этот шлак, наслаждайся! Получай настоящий кайф от настоящей музыки !!! We On Hip Hop!!!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/85134.v1.png",
+    "stationGenres": [
+      "trap",
+      "rap",
+      "hip-hop"
+    ]
+  },
+  {
+    "id": 1626259583492,
+    "stationStream": "https://rs.radioslovo.net:4145/stream?1597140569480",
+    "stationName": "Христианское АВТО радио",
+    "stationDescription": "Христианские песни для прослушивания во время поездки на автомобиле и других транспортных средствах.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/92408.v2.png",
+    "stationGenres": [
+      "christian"
+    ]
+  },
+  {
+    "id": 1626259584071,
+    "stationStream": "https://onlineradiobox.com/json/by/catholic/play?platform=web",
+    "stationName": "Католік",
+    "stationDescription": "Христианское радио римо-католической Церкви в Беларуси\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/82191.v5.png",
+    "stationGenres": [
+      "christian"
+    ]
+  },
+  {
+    "id": 1626259584700,
+    "stationStream": "https://rs.radioslovo.net:4275/stream",
+    "stationName": "Христианская Инструментальная музыка",
+    "stationDescription": "Радио «Открытое Слово» начало работу в сентябре 2017 года в городе Минске. Это христианское радио, но мы рады слушателям любого вероисповедания.\nНаша цель — дать возможность людям услышать слова, музыку, которые коснуться их душ, сердец и напомнят о Боге Творце и Спасителе Иисусе Христе.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/92409.v2.png",
+    "stationGenres": [
+      "instrumental"
+    ]
+  },
+  {
+    "id": 1626259585309,
+    "stationStream": "https://listen.myrh.ru/id043279",
+    "stationName": "Radio ART - Belarus",
+    "stationDescription": "Radio ART FM — первая онлайн радиостанция Казахстана, которая теперь охватывает своим вещанием Беларусь. Также, Radio ART FM предлагает своим слушателям широкий жанровый спектр музыки. Radio ART — это заряд положительных и креативных эмоций на весь день!\n\nRadio ART FM — круглосуточно заряжает и поддерживает хорошее настроение своих слушателей яркой, прогрессивной и интересной музыкой разных направлений.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/99349.v6.png",
+    "stationGenres": [
+      "pop",
+      "top40",
+      "danсe"
+    ]
+  },
+  {
+    "id": 1626259585912,
+    "stationStream": "https://onlineradiobox.com/json/by/uvaga/play?platform=web",
+    "stationName": "Radio.Uvaga.By",
+    "stationDescription": "Соотношение музыки и информации определяется как 80 % к 20 %. Язык вещания: русский. Вещание: круглосуточное. Время эфира: белорусское. Радио Uvaga.by работает в формате Top40/CHR (Contemporary Hit Radio). Основу эфира составляют самые популярные текущие хиты и песни, проверенные временем. Ключевая особенность радиостанции — в эфире играет только зарубежная музыка. Целевая аудитория: радиослушатели в возрасте 20 — 30 лет.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/84022.v3.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "hip-hop",
+      "reggaeton"
+    ]
+  },
+  {
+    "id": 1626259586505,
+    "stationStream": "https://rs.radioslovo.net:5000/radio",
+    "stationName": "Христианское украинское радио",
+    "stationDescription": "Радио «Открытое Слово» начало работу в сентябре 2017 года в городе Минске. Это христианское радио, но мы рады слушателям любого вероисповедания.\nНаша цель — дать возможность людям услышать слова, музыку, которые коснуться их душ, сердец и напомнят о Боге Творце и Спасителе Иисусе Христе.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/92407.v2.png",
+    "stationGenres": [
+      "christian"
+    ]
+  },
+  {
+    "id": 1626259587124,
+    "stationStream": "https://rs.radioslovo.net:4395/radio",
+    "stationName": "Христианское русское радио",
+    "stationDescription": "Радио «Открытое Слово» начало работу в сентябре 2017 года в городе Минске. Это христианское радио, но мы рады слушателям любого вероисповедания.\nНаша цель — дать возможность людям услышать слова, музыку, которые коснуться их душ, сердец и напомнят о Боге Творце и Спасителе Иисусе Христе.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/92405.v2.png",
+    "stationGenres": [
+      "christian"
+    ]
+  },
+  {
+    "id": 1626259587711,
+    "stationStream": "https://radio.vaticannews.va/stream-be",
+    "stationName": "Radio Vaticana",
+    "stationDescription": "Ватыканскае радыё - гэта голас Папы. У выпусках навін, нарысах, рэпартажах і інтэрв'ю асвятляюцца падзеі з жыцця Касцёла, пытанні маральнасці, міласэрднасці і салідарнасці.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/105004.v2.png",
+    "stationGenres": [
+      "classic",
+      "christian",
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626259588317,
+    "stationStream": "https://listen.radioking.com/radio/365563/stream/415378",
+    "stationName": "Радио Перемен",
+    "stationDescription": "Мы считаем, что наша миссия - это объединение людей с помощью простого действия; поднятие духа; борьба за свободу и справедливость. Ведь включить Радио на 20 минут вечером это просто и безопасно. При этом, когда из дома напротив звучит та же песня что и у вас, или когда гуляешь и слышишь одинаковую музыку во всем дворе, становится понятно, что вокруг единомышленники. Мы уже знаем, что нас подавляющее большинство, а Радио Перемен помогает поддерживать эту уверенность. Наша цель в том, чтобы музыка играла в каждом дворе, чтобы вся страна была на одной волне в одно время! Просто представьте себе эффект, когда мы этого достигнем!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/105000.v1.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  }
+]

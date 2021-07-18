@@ -1,0 +1,3360 @@
+[
+  {
+    "id": 1626263168205,
+    "stationStream": "https://online.hitfm.ua/HitFM",
+    "stationName": "Хіт FM",
+    "stationDescription": "Тільки хіти!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/3.v36.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263168774,
+    "stationStream": "https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8",
+    "stationName": "Люкс ФМ",
+    "stationDescription": "Люкс ФМ Для активних людей, які цікавляться знайомствами і спілкуванням. Які постійно стежать за останніми новинами в світі шоу-бізу. Ті, хто любить розваги і бере участь у всіляких акціях і розіграшах. Радіо Люкс ФМ - Включай настрій!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/161.v10.png",
+    "stationGenres": [
+      "dance",
+      "r'n'b",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263169351,
+    "stationStream": "https://online.kissfm.ua/KissFM",
+    "stationName": "Kiss FM",
+    "stationDescription": "Kiss FM - крупнейшая танцевальная радиостанция в Украине с покрытием 82 городов. В эфире \"Кисс ФМ\" звучит популярная в Европе клубная музыка от известных диджеев: Armin Van Buuren, Tiesto, David Guetta, Calvin Harris, Avicii, Eric Prydz, Omnia, Tapolsky, etc.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/1.v51.png",
+    "stationGenres": [
+      "dance",
+      "progressive",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "drum'n'bass"
+    ]
+  },
+  {
+    "id": 1626263169923,
+    "stationStream": "https://online.radiorelax.ua/RadioRelax",
+    "stationName": "Радіо Relax",
+    "stationDescription": "Легке та спокійне радіо Relax. Ідеальна станція для прослуховування вдома, під час роботи, в дорозі та під час відпочинку. Гармонія музики та слів. Нічого зайвого. Прямий ефір і тематичні інтернет-радіостанції.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/27.v30.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "lounge",
+      "acid jazz",
+      "jazz"
+    ]
+  },
+  {
+    "id": 1626263170477,
+    "stationStream": "https://online.radioroks.ua/RadioROKS",
+    "stationName": "Radio ROKS",
+    "stationDescription": "\"Radio ROKS\" - популярная радиостанция Украины с покрытием 85 городов. В эфире \"Радио Рокс\" звучит классический западный рок 70-х и 80-х. Утреннее Шоу: \"Камтугеза\".\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/5.v28.png",
+    "stationGenres": [
+      "rock",
+      "heavy metal",
+      "classic rock",
+      "blues",
+      "hard rock",
+      "rock'n'roll",
+      "metal"
+    ]
+  },
+  {
+    "id": 1626263171051,
+    "stationStream": "https://online.rusradio.ua/RusRadio",
+    "stationName": "Русское Радио Україна",
+    "stationDescription": "\"Русское радио\" - крупнейшая радиостанция Украины с покрытием 107 городов. В эфире \"Русского радио\" звучат популярные песни на русском языке. Утреннее Шоу: \"Будильники на Русском\".\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/4.v25.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263171599,
+    "stationStream": "https://cast.radiogroup.com.ua/nrj",
+    "stationName": "NRJ (Европа Плюс)",
+    "stationDescription": "Музыка NRJ - это идеальный и непрерывный микс из современной музыки, в который входят только 100% хиты. Формат: радио современных зарубежных хитов.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/18.v5.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263172226,
+    "stationStream": "https://onair.lviv.fm:8443/lviv.fm",
+    "stationName": "Львівська хвиля",
+    "stationDescription": "Назва радіостанції - не випадок, а швидше данина історії та Галицьким традиціям, адже саме у Львові ще у 30-тих роках виникла перша на Західній Україні комерційна радіостанція, яка мала назву \"Львівська Хвиля\".\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/53.v9.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263172863,
+    "stationStream": "https://cast.radiogroup.com.ua/radiopyatnica",
+    "stationName": "Радио Пятница",
+    "stationDescription": "Радио Пятница – что это? А мы вас лучше спросим какой сегодня день недели? Не спешите смотреть в календарь, это абсолютно неважно, потому что с радио «Пятница» день недели всегда один и тот же – приятный, веселый и расслабляющий. Одно слово – Пятница!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/382.v7.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263173404,
+    "stationStream": "https://cast.brg.ua/djfm96.aacp",
+    "stationName": "DJ FM",
+    "stationDescription": "Впервые позывные \"DJ FM\" зазвучали 19 сентября 2008 года на частоте 96.8 FM. Станции удалось получить огромную популярность за феноменально короткий срок существования. В настоящее время  радиостанция занимает стабильную позицию в Топ-5 коммерческих радиостанций Киева. Исключительно положительная энергетика, постоянный \"драйв\", легко узнаваемые мелодии и ритмы, только хиты. В горячую ротацию попадают лидеры мировых танцевальных чартов.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/9.v9.png",
+    "stationGenres": [
+      "electronic",
+      "trance",
+      "house",
+      "techno",
+      "pop dance"
+    ]
+  },
+  {
+    "id": 1626263174043,
+    "stationStream": "https://cast.brg.ua/powerfm96.aacp",
+    "stationName": "Power FM",
+    "stationDescription": "Power FM - cовременное хитовое радио с преобладанием хитов в стиле поп!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/71843.v5.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263174596,
+    "stationStream": "https://online.melodiafm.ua/MelodiaFM",
+    "stationName": "Мелодія FM",
+    "stationDescription": "\"Мелодия FM\" - популярная радиостанция Украины с покрытием 67 городов. В эфире звучат мелодии и ритмы зарубежной эстрады. Утреннее Шоу: \"Овсянка шоу\".\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/26.v35.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263175114,
+    "stationStream": "https://onlineradiobox.com/json/ua/stilnoe.fm/play?platform=web",
+    "stationName": "Перец FM",
+    "stationDescription": "Стильное радио \"Перец ФМ\" — это самая свежая и заряжающая позитивом музыка на волнах Украины, для активных молодых людей, живущих ритмом сегодняшнего дня. Здесь вы не только услышите новейшую музыку и хиты последних лет, но и узнаете много новой, интересной информации, а если Вы уже считаете себя достаточно эрудированным во многих областях, то и поучаствовать в играх-викторинах, и возможно даже выиграть ценные призы.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/54.v9.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263175759,
+    "stationStream": "https://online.nasheradio.ua/NasheRadio",
+    "stationName": "Наше Радіо",
+    "stationDescription": "Слухаю завжди\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/24.v28.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263176299,
+    "stationStream": "https://cast.radiogroup.com.ua/loungefm",
+    "stationName": "Lounge Fm",
+    "stationDescription": "Радио в котором нет ничего лишнего - только красивая и спокойная музыка.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/108.v6.png",
+    "stationGenres": [
+      "lounge",
+      "downtempo",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626263176833,
+    "stationStream": "https://online-radio.nv.ua/radionv.mp3",
+    "stationName": "Радіо НВ",
+    "stationDescription": "Радио НВ – это информационно-разговорная радиостанция, радио в формате news&talk. 15 часов прямого эфира в сутки, каждые 20 минут – новости. Покрытие - 40 городов Украины.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/29.v11.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263177358,
+    "stationStream": "https://cast.radiogroup.com.ua/avtoradio.aac",
+    "stationName": "Авторадио",
+    "stationDescription": "Авторадио – лучший выбор для тех, кто любит отличную музыку – за рулем, дома и на работе. Информация о пробках каждые 25 минут, о  самых интересных событиях в стране и мире, яркие интерактивные конкурсы, программы и акции.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/15.v9.png",
+    "stationGenres": [
+      "rock",
+      "disco",
+      "pop",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": 1626263178169,
+    "stationStream": "https://cast.radiogroup.com.ua/retro",
+    "stationName": "Ретро FM",
+    "stationDescription": "Ретро FM – самая крупная радиосеть в Украине. Только любимые песни, золотые хиты 70х-80х-90х. «Ретро FM» – это радиостанция, которая дает возможность своему слушателю почувствовать себя молодым. Ведь так хочется вернуться к бесшабашной юности в пестрые 80-е или культовые 90е. «Ретро FM» – это не ностальгия, не тоска по прошлому, а любимая музыка, которая вызывает яркие эмоции!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/17.v2.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263179152,
+    "stationStream": "https://onlineradiobox.com/json/ua/pershykanal/play?platform=web",
+    "stationName": "UA: Українське радіо",
+    "stationDescription": "Основу Першого каналу Українського радіо становить суспільно-політичний контент: інформаційні випуски щодо найважливіших подій в Україні та за кордоном, передачі громадсько-політичної та соціально-економічної тематики. В ефірі Першого каналу також представлені пізнавальні, освітні, культурологічні, літературно-художні, спортивні та дитячі програми, які відповідають найширшим тематичним запитам слухачів незалежно від віку, статі, освітнього рівня.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/124.v18.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263179967,
+    "stationStream": "https://streamvideo.luxnet.ua/maximum/smil:maximum.stream.smil/playlist.m3u8",
+    "stationName": "Радіо Максимум",
+    "stationDescription": "Радіо МАКСИМУМ! Лише улюблені хіти!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/66.v5.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263180508,
+    "stationStream": "https://myradio24.org/tisradio",
+    "stationName": "TRANCE IS STAR RADIO",
+    "stationDescription": "Основной музыкальный стиль в эфире TRANCE,так же представлены такие стили :\ndeep house,progressive house,techno,tech house ,chill out .Одна из самых популярных некоммерческих трансовых радио станций Украины.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/184.v7.png",
+    "stationGenres": [
+      "trance",
+      "techno",
+      "ambient",
+      "progressive house",
+      "deep house",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626263181051,
+    "stationStream": "https://cast.fex.net/shanson_h",
+    "stationName": "Шансон",
+    "stationDescription": "Музыкальное наполнение эфира – мелодии от лучших шансонье Украины и России. На «Радио Шансон» звучат песни от Стаса Михайлова, Любови Успенской, Лепса, Михаила Бублика, Ваенга, Гарика Кричевского, Сергея Трофимова. \nГлавная особенность формата радио «Шансон» - не просто хорошая музыка, а особенный смысл, который читается в каждой песне. Неповторимые, искренние истории, которые рассказывают исполнители, открывают для слушателя новые горизонты эмоций, вовлекают его и заставляют сопереживать.\n«Радио Шансон» - радио для души. Его одинаково приятно слушать в машине, в офисе или на отдыхе в кругу друзей.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/12.v5.png",
+    "stationGenres": [
+      "chanson"
+    ]
+  },
+  {
+    "id": 1626263181864,
+    "stationStream": "https://onlineradiobox.com/json/ua/krainafm/play?platform=web",
+    "stationName": "Країна ФМ",
+    "stationDescription": "Фокус – на молодих виконавцях, які прагнуть робити модний український продукт. Не “страждальницький”, не естраду, не шансон, не субформати (хард-рок), не чисту етніку, а сучасну комерційну музику із українською айдентикою і таку саму легку, як уже навчились робити європейці\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/40026.v3.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "talk",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263182745,
+    "stationStream": "https://onlineradiobox.com/json/ua/zakarpattya/play?platform=web",
+    "stationName": "Закарпаття FM",
+    "stationDescription": "\"Закарпаття FM\" - це 24 години на добу найкращих якісних хітів зарубіжної та вітчизняної естради. \"Закарпаття FM\" - особлива хвиля та велика дружня команда, що працює як єдине ціле, з любов'ю для слухачів.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/427.v12.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263183539,
+    "stationStream": "https://onlineradiobox.com/json/ua/mfm/play?platform=web",
+    "stationName": "MFM Station",
+    "stationDescription": "МФМ-станция - аналог популярных европейских музыкальных телеканалов. Здесь звучит современная популярная музыка и музыка, проверенная временем. Музыка с современным саундом и хорошим настроением. Стопроцентное интернациональное радио! Здесь звучат хиты на английском, испанском, французском, итальянском и др. языках. Только 100% зарубежные хиты.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/8/8.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "dance pop"
+    ]
+  },
+  {
+    "id": 1626263185174,
+    "stationStream": "https://onlineradiobox.com/json/ua/rmix/play?platform=web",
+    "stationName": "Informator FM",
+    "stationDescription": "Informator FM первая музыкально - информационная радиостанция Днепра. \n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/352.v5.png",
+    "stationGenres": [
+      "top40",
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626263185987,
+    "stationStream": "https://stream320.galychyna.fm/live",
+    "stationName": "FM Галичина",
+    "stationDescription": "Радіо FM Галичина – це унікальне родинне радіо, яке незмінно пропагує українське: пісню, мову, культуру, історію, традиції.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/58.v8.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263186772,
+    "stationStream": "https://stream.zeno.fm/s12evbr1h2zuv",
+    "stationName": "Jet FM",
+    "stationDescription": "Hot Only Hits!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/82516.v11.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263187580,
+    "stationStream": "https://rockradioua.online:8433/rockradio_fizy",
+    "stationName": "РокРадіо UA",
+    "stationDescription": "Запрошуємо в Україну In Rock.\nЄдине в світі online-радіо україномовного року, де практично весь ефірний час зайнято музикою без за нудних FM-балачок.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/37171.v12.png",
+    "stationGenres": [
+      "rock"
+    ]
+  },
+  {
+    "id": 1626263188398,
+    "stationStream": "https://cast.radiogroup.com.ua/jamfm",
+    "stationName": "Джем ФМ",
+    "stationDescription": "Джем ФМ - лучшая рок-станция Украины. Слушайте онлайн лучшую новую украинскую музыку и русский рок!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/19.v3.png",
+    "stationGenres": [
+      "rock",
+      "rock'n'roll",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": 1626263189199,
+    "stationStream": "https://onlineradiobox.com/json/ua/prostofm/play?platform=web",
+    "stationName": "Просто Радио",
+    "stationDescription": "Курица или яйцо? Никто и не вспомнит, какой работник (музыкальный, коммерческий или информационный) на Просто Ради.О появился первым. Более того, до сих пор не утихают споры, сотрудники какого отдела - самые незаменимые, без кого Ради.О уж точно не обойтись. Правда, это единственный повод для диспутов и разногласий. Огромный механизм по производству хорошего настроения не имеет права на заедания, осечки, проволочки и несмазанный скрип. Каждый из нас делает свою работу, вместе мы делаем общее дело. И Вы можете нам не льстить - Ваша искренняя любовь красноречиво говорит о том, что мы знаем, что делаем!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/1088.v12.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263190029,
+    "stationStream": "https://onlineradiobox.com/json/ua/promin/play?platform=web",
+    "stationName": "Другий канал \"Промiнь\"",
+    "stationDescription": "Інформаційно-музичний канал. Перша в Україні FM-радіостанція, яка пропонує слухачам прилучатись до розмови у прямому ефірі на актуальні теми політики, економіки, культурно-мистецького життя, знайомить із сучасною українською естрадою, а також з класикою, джазом та альтернативною музикою.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/125.v10.png",
+    "stationGenres": [
+      "pop",
+      "jazz",
+      "news",
+      "talk",
+      "classic"
+    ]
+  },
+  {
+    "id": 1626263190861,
+    "stationStream": "https://onlineradiobox.com/json/ua/uafm/play?platform=web",
+    "stationName": "UAFM",
+    "stationDescription": "На UAFM ты можешь услышать мировые хиты и новинки отечественной музыки, еженедельные хит-парады, интересные новости и многое другое.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/86.v2.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263191437,
+    "stationStream": "https://onlineradiobox.com/json/ua/europaplusdp/play?platform=web",
+    "stationName": "Европа Плюс Днепр",
+    "stationDescription": "Европа Плюс Днепр. Основной формат вещания - популярная музыка, CHR (Contemporary Hit Radio) или Top 40 (вещание музыки разнообразных стилей из верхних строк чартов). Основу музыкального наполнения составляют самые популярные хиты на сегодняшний день, которые определяются с помощью топ - чартов.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/11884.v17.png",
+    "stationGenres": [
+      "top40",
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626263192115,
+    "stationStream": "https://radio-stream-2.obozrevatel.com/radio.oboz128.mp3",
+    "stationName": "Radio Обозреватель - Радио Обоз",
+    "stationDescription": "Радио «Обоз» - ежедневные розыгрыши призов и лучшие мировые хиты. Участвуй в конкурсах и выигрывай автомобиль. Радио «Обоз» - нас хочется слушать!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/62819.v13.png",
+    "stationGenres": [
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263192928,
+    "stationStream": "https://onlineradiobox.com/json/ua/eradio/play?platform=web",
+    "stationName": "Є!Радіо",
+    "stationDescription": "«Є! Радіо» —  музична радіостанція сучасних українських хітів. Радіостанція грає музику лише виконавців, що співають української мовою. В етері грають лише 100% хіти рок, поп, хіп-хоп та танцювальної музики, а також нестаріючі хіти минулого десятиріччя, що складають «золотий фонд» нової української музики. В ефірі «Є! Радіо» немає реклами і розмов, лише музика нон-стоп.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/429.v2.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "pop",
+      "top40",
+      "00s",
+      "soft pop",
+      "10s",
+      "hits",
+      "dance pop"
+    ]
+  },
+  {
+    "id": 1626263193795,
+    "stationStream": "https://onlineradiobox.com/json/ua/skovoroda/play?platform=web",
+    "stationName": "Radio SKOVORODA",
+    "stationDescription": "Перше україномовне мандрівне онлайн-радіо.\nПрогресивне, відкрите, незалежне, створене командою досвідчених медіафахівців нового покоління.\nНаш музичний формат - легкий, приємний \"саундтрек життя\" у виконанні прогресивних indie pop, indie rock, deep house авторів + нова українська музика\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/10806.v4.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "deep house",
+      "indie",
+      "alternative",
+      "indie rock"
+    ]
+  },
+  {
+    "id": 1626263194331,
+    "stationStream": "https://myradio24.org/51020",
+    "stationName": "KEXXX Rocks",
+    "stationDescription": "\"KEKS FM Rock\" - популярная онлайн-радиостанция Украины.\n В эфире \"КЕКС ФМ Рок\" звучит классический западный рок 70-х и 80-х.\n Отличие станции - авторские передачи и обзор редчайших рок-альбомов.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/64064.v15.png",
+    "stationGenres": [
+      "rock",
+      "heavy metal",
+      "classic rock",
+      "blues",
+      "hard rock",
+      "rock'n'roll",
+      "metal"
+    ]
+  },
+  {
+    "id": 1626263194868,
+    "stationStream": "https://onlineradiobox.com/json/ua/sokalfm/play?platform=web",
+    "stationName": "Радіо Сокаль",
+    "stationDescription": "Радіо Сокаль - це музично-інформаційна станція. В ефірі: музика, регіональні новини міста Сокаль, вітання, цікаві передачі і реклама. Мовлення ведеться на частоті 101 FM. Гасло: Радіо Сокаль - з тобою поруч!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/419.v2.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263195404,
+    "stationStream": "https://streamvideol1.luxnet.ua/nostalgi/nostalgi.stream/playlist.m3u8",
+    "stationName": "Radio Nostalgie",
+    "stationDescription": "Радіо Nostalgie стане приємним супутником по дорозі на бізнес-зустріч, створить приємну атмосферу на відпочинку і підкреслить ваш статус в офісі.\nСлухайте лише якісне, дозвольте собі життя зі смаком!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/64952.v3.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop",
+      "entertainment"
+    ]
+  },
+  {
+    "id": 1626263195950,
+    "stationStream": "https://onlineradiobox.com/json/ua/dzvony/play?platform=web",
+    "stationName": "Радіо Дзвони",
+    "stationDescription": "Радіо «Дзвони» – це радіо, засноване у 1996 році єпископом Софроном Мудрим, ЧСВВ, разом з тоді ще отцем, а тепер владикою Миколою Сімкайлом.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/355.v11.png",
+    "stationGenres": [
+      "christian"
+    ]
+  },
+  {
+    "id": 1626263196656,
+    "stationStream": "https://onlineradiobox.com/json/ua/europaplas/play?platform=web",
+    "stationName": "Europa Plus",
+    "stationDescription": "Только Хиты! Только тщательно отобранные популярные композиции, заслужившие признание публики. Русскоязычная и зарубежная поп-музыка, новинки и проверенные временем хиты. Бодрящие и жизнеутверждающие мотивы.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/66293.v13.png",
+    "stationGenres": [
+      "top40",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263197554,
+    "stationStream": "https://myradio24.org/82192",
+    "stationName": "KEXXX FM Kiev",
+    "stationDescription": "BEST ELECTRONIC MIXES on KEXXX FM from Kiev\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/57900.v25.png",
+    "stationGenres": [
+      "electronic",
+      "trance",
+      "house",
+      "chill-out",
+      "drum'n'bass"
+    ]
+  },
+  {
+    "id": 1626263198429,
+    "stationStream": "https://myradio24.org/50904",
+    "stationName": "Радіо Українська Пісня",
+    "stationDescription": "Радіо Українська Пісня – перше і поки що єдине в світі інтернет-радіо пісенної класики України. В ефірі – українські народні пісні та україномовні естрадні пісні 50-х – 90-х років, сучасна традиційна естрада, а також інструментальні композиції вітчизняних композиторів.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/74352.v4.png",
+    "stationGenres": [
+      "folk",
+      "retro",
+      "90s",
+      "80s",
+      "70s",
+      "oldies",
+      "60s",
+      "50s",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263198960,
+    "stationStream": "https://onlineradiobox.com/json/ua/mamaodessa/play?platform=web",
+    "stationName": "Одесса Мама",
+    "stationDescription": "\"Одесса-Мама\" - самая одесская радиостанция. 106.0 FM \n\"Одесса-Мама\" – это песни о жизни, это песни для души! Это одесский колорит и традиции, дух старой и новой Одессы, её легенды, история и современность.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/426.v2.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "folk",
+      "chanson"
+    ]
+  },
+  {
+    "id": 1626263199672,
+    "stationStream": "https://onlineradiobox.com/json/ua/hromadskeradio/play?platform=web",
+    "stationName": "Громадське радіо",
+    "stationDescription": "«Громадське радіо» щодня подає останні й найважливіші новини та аналіз поточних подій, не профільтровані через інтереси влади, бізнесменів чи політиків.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/67861.v1.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263200204,
+    "stationStream": "https://onlineradiobox.com/json/ua/radiotrek/play?platform=web",
+    "stationName": "Радіо Трек",
+    "stationDescription": "\"Радіо Трек\" перша місцева і найпопулярніша FM-радіостанція на Рівненщині. Ми почали мовлення на 106.4 FM у липні 1997 року і з того часу міцно тримаємо лідерство у радіопросторі регіону. Музичний формат \"Радіо Трек\" – краща сучасна музика для дорослих – Hot AC.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/68.v5.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263201003,
+    "stationStream": "https://onlineradiobox.com/json/ua/armyfm/play?platform=web",
+    "stationName": "Армія FM",
+    "stationDescription": "Київська державна інформаційно-музична радіостанція, створена Міністерством оборони України, - перше в Україні військове радіо, яке створюють військові. \n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/51356.v8.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263201821,
+    "stationStream": "https://stream.zeno.fm/nkeaps48xg0uv",
+    "stationName": "Happy Radio",
+    "stationDescription": "Hit maker station #1\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/336.v52.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "deep house",
+      "club"
+    ]
+  },
+  {
+    "id": 1626263202621,
+    "stationStream": "https://onlineradiobox.com/json/ua/tretykanal/play?platform=web",
+    "stationName": "Третій канал \"Культура\"",
+    "stationDescription": "Українське Радіо \"Культура\" (Канал духовного відродження) складається з інформаційно-аналітичних, публіцистичних, культурно-мистецьких, науково-просвітницьких, розважальних і музичних програм, які висвітлюють події культури і розраховані на найширші кола слухачів.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/126.v12.png",
+    "stationGenres": [
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263203884,
+    "stationStream": "https://a2.radioheart.ru:9026/WM",
+    "stationName": "Wolf Music Deep House Radio",
+    "stationDescription": "\"Wolf Music\" is a place where you can enjoy the soft, dense and atmospheric sounding of the selected House and Deep House music genres. We meet every day Great tracks and new releases every week! «Wolf Music» is specially for you! Turn on and listen. Live easy. Fly. It's simple :)\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/74820.v2.png",
+    "stationGenres": [
+      "house",
+      "disco",
+      "deep house"
+    ]
+  },
+  {
+    "id": 1626263204421,
+    "stationStream": "https://onlineradiobox.com/json/ua/radiomaria/play?platform=web",
+    "stationName": "Радіо Марія",
+    "stationDescription": "«Радіо Марія» - всесвітня родина католицьких радіостанцій, що об'єднані у всесвітню мережу більше, ніж в 70 країнах світу на всіх континентах. «Радіо Марія» - це некомерційна станція, яка існує за рахунок пожертв своїх слухачів. І сьогодні це 24 години мовлення 7 днів на тиждень. В ефірі крім релігійних передач: програми соціальної спрямованості, дискусії, дитячі передачі. Відмінністю «Радіо Марія» є спрямованість на допомогу своїм слухачам. А саме: консультації в ефірі і поза ефіром, соціальна активність. \n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/356.v2.png",
+    "stationGenres": [
+      "christian"
+    ]
+  },
+  {
+    "id": 1626263204956,
+    "stationStream": "https://onlineradiobox.com/json/ua/klass/play?platform=web",
+    "stationName": "Классное радио",
+    "stationDescription": "Классне радіо (Радіо Клас)  - це локальна радіостанція , яка працює в місті Ізюмі (Харківської області), і охоплює своїм мовленням не тільки Ізюм, а й Ізюмський район. Вже 10 років ми стаблільно працюємо на радість наших слухачів та рекламодавців. І завжди раді бачити, як постійних клієнтів, так і нових.  Тільки в нас профі своєї справи, креативи від діджеїв, цікаві конкурси, розважальні програми, розіграші подарунків, найновіша і найпопулярніша музика України і всього світу, хіти минулого і сьогодення. І ще багато чого цікавого Ви знайдете на  хвилях Класного Радіо.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/16489.v6.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263205558,
+    "stationStream": "https://onlineradiobox.com/json/ua/radioterra/play?platform=web",
+    "stationName": "Радио Терра",
+    "stationDescription": "Радио Терра — региональная радиостанция вещающая на частоте 104,6 FM и покрывающая часть Харьковской области, в том числе населенные пункты: Лозовая, Павлоград, Барвенково и Кигичевка. Кроме музыки и региональных новостей в эфир приглашаются местные лидеры, творческие люди и солисты отечественных групп. Так же в эфир выходят интересные программы: \"РОК-Террапия\" посвященная лучшим рок-исполнителям, утреннее шоу \"Давай вставай\", а также программа \"АвтоПро\" для любителей современной техники.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/383.v10.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263206100,
+    "stationStream": "https://onlineradiobox.com/json/ua/stryifm/play?platform=web",
+    "stationName": "Стрий FM",
+    "stationDescription": "Музичний формат: композиції українських та іноземних виконавців за повної відсутності російськомовних творів. Окрім музичних блоків в ефірі лунають інформаційні випуски, метеозведення, вітальна програма \"Музичний поцілунок\" та інші проекти. Серед наших пісень ви почуєте як нові хіти вітчизняних та закордонних виконавців, так і пісні, що зворушують душу у старшого покоління слухачів. \n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/390.v1.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263206899,
+    "stationStream": "https://onlineradiobox.com/json/ua/bumblebeefm/play?platform=web",
+    "stationName": "BumbleBee",
+    "stationDescription": "Первая региональная международная музыкальная интернет радиостанция. \n24 часа в сутки с Вами лучшие и самые актуальные композиции мировой песенной культуры.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/5/185.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": 1626263207413,
+    "stationStream": "https://stream.mistofm.com.ua/deep-music",
+    "stationName": "Misto FM Deep",
+    "stationDescription": "The endless musical flow of the best compositions of deep house, tropical, nu disco and indie dance.\nIt's a perfect background music for work, relaxation and travelling.\n\nDeep - for those who need music like oxygen.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/74333.v3.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "downtempo",
+      "ambient",
+      "deep house",
+      "indie"
+    ]
+  },
+  {
+    "id": 1626263207941,
+    "stationStream": "https://onlineradiobox.com/json/ua/business.fm/play?platform=web",
+    "stationName": "Бизнес Радио",
+    "stationDescription": "Бизнес Радио – единственная в Украине радиостанция для самой активной и платежеспособной части населения – деловых людей с высоким уровнем дохода. Самый молодой, но уже безусловно успешный проект холдинга «Business Radio Group». Впервые позывные «Бизнес Радио» прозвучали на частоте 93.8. Это радиостанция формата mellow ac. Название этого радио-формата дословно переводится, как «мягкий», «бархатистый». «Бизнес» Радио - это поп-станция современной музыки (90% эфира - композиции 2000-х годов). Это музыкальные сливки для людей с отменным вкусом: The Queen, Madonna, The Beatles, Sting, Sade, Portishead, Jamiroquai и многие другие.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/10.v2.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop",
+      "blues"
+    ]
+  },
+  {
+    "id": 1626263208465,
+    "stationStream": "https://onlineradiobox.com/json/ua/tryzubfm/play?platform=web",
+    "stationName": "Тризуб ФМ",
+    "stationDescription": "Радио созданно, и работает исключительно на волонтерских, добровольных началах. Мы не специалисты и не проофи. Но мы стремимся к лучшему, чего и вам желаем.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/59659.v4.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263208988,
+    "stationStream": "https://rockradioua.online:8447/kuznya128",
+    "stationName": "Радіо GARTA",
+    "stationDescription": "Радіо GARTA - online-радіо українського металу. Black, death, doom, thrash metal та інші напрямки важкої музики у спільному проекті від РокРадіоUA та порталу Daily Metal\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/80865.v8.png",
+    "stationGenres": [
+      "death metal",
+      "black metal",
+      "thrash metal"
+    ]
+  },
+  {
+    "id": 1626263209585,
+    "stationStream": "https://onlineradiobox.com/json/ua/svitleradioemmanuel/play?platform=web",
+    "stationName": "Світле радіо \"Еммануїл\"",
+    "stationDescription": "Світле радіо «Еммануїл»– перша ефірна міжконфесійна музична радіостанція. Створена в 2005 році в Україні для того, щоб нести світло Божої любові для всієї родини.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/60331.v10.png",
+    "stationGenres": [
+      "talk",
+      "classic",
+      "gospel",
+      "instrumental",
+      "entertainment",
+      "ukrainian"
+    ]
+  },
+  {
+    "id": 1626263210096,
+    "stationStream": "https://onlineradiobox.com/json/ua/zpolus/play?platform=web",
+    "stationName": "Західний полюс",
+    "stationDescription": "Радіо «Західний полюс» - Івано-Франківська локальна FM-радіостанція. Якісна музика, оперативна інформація і радість у вуха кожному франківцю і не тільки!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/434.v2.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263210621,
+    "stationStream": "https://myradio24.org/82666",
+    "stationName": "Вечерний Бриз",
+    "stationDescription": "Чтобы весь рабочий день для Вас был лёгким и спокойным, как шум моря в звёздную летнюю ночь, мы подбираем только ту музыку, которая поможет вам снять стресс и плохое настроение в течении всего рабочего дня — с самого утра и до поздней ночи.\nТолько релакс.\nРекомендовано слушать во время работы.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/1729.v4.png",
+    "stationGenres": [
+      "lounge",
+      "relax",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626263211431,
+    "stationStream": "https://onlineradiobox.com/json/ua/magnit/play?platform=web",
+    "stationName": "Радіо Магніт",
+    "stationDescription": "Місцева розважально-інформаційна радіостанція.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/73401.v2.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263211956,
+    "stationStream": "https://onlineradiobox.com/json/ua/vanilladrumandbass/play?platform=web",
+    "stationName": "Vanilla Drum and Bass",
+    "stationDescription": "Good Old Drum And Bass 24/7 non-stop\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/60294.v2.png",
+    "stationGenres": [
+      "drum'n'bass"
+    ]
+  },
+  {
+    "id": 1626263212477,
+    "stationStream": "https://onlineradiobox.com/json/ua/aristocrats/play?platform=web",
+    "stationName": "Радио Аристократы",
+    "stationDescription": "Цифровая радиостанция, которая собирает в эфире лучших людей страны - аристократов нового времени. Только качественная музыка и авторские шоу.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/172.v1.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "rock",
+      "disco",
+      "pop",
+      "blues",
+      "lounge",
+      "jazz",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263212987,
+    "stationStream": "https://onlineradiobox.com/json/ua/vsru/play?platform=web",
+    "stationName": "Radio Ukraine International",
+    "stationDescription": "ТО \"Всесвітня служба радіомовлення України\" знайомить зарубіжного слухача з усім розмаїттям політичного, соціально-економічного та культурного життя України. Канал веде мовлення на закордон українською, російською, англійською, німецькою та румунською мовами.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/127.v14.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "culture"
+    ]
+  },
+  {
+    "id": 1626263213517,
+    "stationStream": "https://complex.in.ua/b128",
+    "stationName": "Богуслав-FM",
+    "stationDescription": "Богуслав має своє, рідне радіо і назва йому \"Богуслав-FM\". Будьте з нами і з мальовничою Богуславщиною, куди б Вас не занесло!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/68355.v22.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "folk",
+      "retro",
+      "ethnic"
+    ]
+  },
+  {
+    "id": 1626263214035,
+    "stationStream": "https://onlineradiobox.com/json/ua/rzk/play?platform=web",
+    "stationName": "RzK",
+    "stationDescription": "Радіо з Криївки - Музика Свободи\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/7/57.png",
+    "stationGenres": [
+      "rock",
+      "alternative",
+      "punk"
+    ]
+  },
+  {
+    "id": 1626263214799,
+    "stationStream": "https://cdn.vsnw.net:8943/kyiv_fm_128k",
+    "stationName": "Київ FM",
+    "stationDescription": "Перша міська радіостанція Київ Fm. Музичний формат CHR – сучасні зарубіжні та українські хіти. Усі новини Києва та програми про життя міста. Слоган: сучасна музика та новини Києва. Регіон мовлення – м. Київ та Київська область.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/64954.v11.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "pop",
+      "news",
+      "top40",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263215576,
+    "stationStream": "https://onlineradiobox.com/json/ua/renaissance/play?platform=web",
+    "stationName": "Ренессанс",
+    "stationDescription": "Радіо Ренесанс - це ціла історія успіху, досягнутого за рахунок унікального формату і орієнтації на саму важкодоступну аудиторію - високо-забезпечених людей. З'явившись уперше в 2002г., радіостанція на сьогодні не має аналогів в Україні. Унікальність музичного формату Радіо Ренесанс полягає в з'єднанні легкої музики різних стилів: від архаїчного народного блюзу, регтайму, нью-орлеандского джазу, диксиленду, свінгу, мейнстріму і бі-боп до соулу, блюзу, фьюжна, джаз-року, лаунжа фри-джаза і електронної музики.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/11.v4.png",
+    "stationGenres": [
+      "blues",
+      "lounge",
+      "acid jazz",
+      "jazz",
+      "downtempo"
+    ]
+  },
+  {
+    "id": 1626263216104,
+    "stationStream": "https://onlineradiobox.com/json/ua/narodnoefm/play?platform=web",
+    "stationName": "Народное Радио",
+    "stationDescription": "\"Народное Радио ®\" начало своё вещание в городе Одесса на частоте 103.2 FM 30 сентября 2003 года в 06:00.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/354.v5.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263216887,
+    "stationStream": "https://onlineradiobox.com/json/ua/holosfm/play?platform=web",
+    "stationName": "Holos.fm • Ukrainian Internet Radio",
+    "stationDescription": "Holos.fm — радіо з неприхованою національною цензурою. Цілодобово українською про Україну для Українців. Українське інтернет-радіо.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/37184.v6.png",
+    "stationGenres": [
+      "rock",
+      "news",
+      "talk",
+      "folk",
+      "ethnic"
+    ]
+  },
+  {
+    "id": 1626263217393,
+    "stationStream": "https://onlineradiobox.com/json/ua/tranceuphoria/play?platform=web",
+    "stationName": "TrancEuphoria",
+    "stationDescription": "«TrancEuphoria» - лучшее транс радио в Украине, одно из лучших в СНГ. Нашими слушателями являются жители многих стран мира. \n Первое интернет-радио с более чем 50-ти DJ разного уровня! Основные стили: Progressive Trance, Progressive House, Uplifting Trance, Vocal Trance. \n«TrancEuphoria» - мир глубже, чем кажется...\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/145.v4.png",
+    "stationGenres": [
+      "trance",
+      "psy trance",
+      "progressive house",
+      "progressive trance"
+    ]
+  },
+  {
+    "id": 1626263218198,
+    "stationStream": "https://onlineradiobox.com/json/ua/1ua/play?platform=web",
+    "stationName": "Radio1.UA",
+    "stationDescription": "Чітка ідеологія. Зрозуміла стратегія. Прозоре фінансування. Відкриті ініціатори проекту.\n\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/37524.v1.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263219457,
+    "stationStream": "https://cast108372.customer.uar.net/vgolos64",
+    "stationName": "Вголос FM",
+    "stationDescription": "Радіо \"Вголос ФМ\" - це хітові поп-рок композиції, які займали перші позиції світових та європейських чартів від 90-х років і до сьогодні та українські гурти й виконавці вже європейського рівня.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/192.v3.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": 1626263219981,
+    "stationStream": "https://a6.radioheart.ru:8013/live",
+    "stationName": "Патріотичне інтернет-радіо \"Вольниця\"",
+    "stationDescription": "Інтернет-радіо, де звучать пісні українською мовою.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/60358.v1.png",
+    "stationGenres": [
+      "rock",
+      "romantic",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263220767,
+    "stationStream": "https://a4.radioheart.ru:8048/live",
+    "stationName": "SunFM Ukraine",
+    "stationDescription": "Радио SunFM — это одна из ведущих Украинских Интернет-радиостанций.\nМы - создатели огромной семьи слушателей самой лучшей и популярной музыки в мире, по-настоящему лучший выбор для любителей хитов формата top 40.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/79869.v16.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263221287,
+    "stationStream": "https://onlineradiobox.com/json/ua/duzhefm/play?platform=web",
+    "stationName": "Дуже радіо-104,3",
+    "stationDescription": "Дуже радіо - прогресивна радіостанція проєвропейського зразка з сучасним, популярним музичним та програмним контентом.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/74778.v7.png",
+    "stationGenres": [
+      "r'n'b",
+      "pop",
+      "talk",
+      "reggaeton"
+    ]
+  },
+  {
+    "id": 1626263222075,
+    "stationStream": "https://onlineradiobox.com/json/ua/miami/play?platform=web",
+    "stationName": "Radio Miami",
+    "stationDescription": "Radio Miami - первая хип-хоп радиостанция в Украине.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/76181.v1.png",
+    "stationGenres": [
+      "r'n'b",
+      "hip-hop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263222588,
+    "stationStream": "https://onlineradiobox.com/json/ua/best1028/play?platform=web",
+    "stationName": "Best FM 102.8",
+    "stationDescription": "Слушая Best FM каждый слушатель всегда услышит свой любимый хит несмотря на возраст и социальный статус,музыкальная редакция нашей радиостанции планирует в эфир музыку из перечня самых популярных хитов и минимизирует разговоры ведущего за рамками тематических программ.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/68235.v7.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263223387,
+    "stationStream": "https://onlineradiobox.com/json/ua/usr/play?platform=web",
+    "stationName": "Urban Space Radio",
+    "stationDescription": "Urban Space Radio - мультимедійний проект урбаністичного спрямування. Музична концепція - українська музика: здебільшого інді та альтернатива останніх 10-ти років. В ефірі виключно власні програми. Радіо мовить з Івано-Франківська з 2015 року.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/24702.v2.png",
+    "stationGenres": [
+      "indie",
+      "alternative"
+    ]
+  },
+  {
+    "id": 1626263224179,
+    "stationStream": "https://stream.zenolive.com/5ky8e2uefseuv",
+    "stationName": "Файне радіо",
+    "stationDescription": "Лише кращі українські пісні 24/7\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/75258.v27.png",
+    "stationGenres": [
+      "variety"
+    ]
+  },
+  {
+    "id": 1626263224710,
+    "stationStream": "https://onlineradiobox.com/json/ua/rodynne/play?platform=web",
+    "stationName": "Родинне радіо",
+    "stationDescription": "Родинне радіо - єдина в світі літературна, україномовна радіостанція. Це справжнє сімейне та домашнє радіо. \n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/67240.v3.png",
+    "stationGenres": [
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263225231,
+    "stationStream": "https://onlineradiobox.com/json/ua/mix/play?platform=web",
+    "stationName": "mix-fm",
+    "stationDescription": "Танцевальное интернет радио MiX FM это молодая развивающаяся интернет радиостанция, ставящая своей целью продвижение электронной музыки и клубного движения на Украине. В нашем эфире звучит только качественная электронная музыка, и сеты лучших Ди-Джеев Украины и мира, развлекательные и новостные программы. Вещание ведется преимущественно на русском и украинском языках .однако некоторые проекты выходят в оригинальной версии, на английском языке.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/69243.v11.png",
+    "stationGenres": [
+      "dance",
+      "house"
+    ]
+  },
+  {
+    "id": 1626263225757,
+    "stationStream": "https://onlineradiobox.com/json/ua/supdajuice/play?platform=web",
+    "stationName": "Sup Da Juice Radio",
+    "stationDescription": "Многоформатная радиостанция, где играет только сочная музыка, подобранная со вкусом и от чистого сердца.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/7/31327.png",
+    "stationGenres": [
+      "blues",
+      "jazz",
+      "hip-hop",
+      "soul",
+      "funk",
+      "reggae"
+    ]
+  },
+  {
+    "id": 1626263226278,
+    "stationStream": "https://onlineradiobox.com/json/ua/radioatwork/play?platform=web",
+    "stationName": "Radio At Work",
+    "stationDescription": "Радіо що надихає на добру працю!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/5/24705.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263226803,
+    "stationStream": "https://onlineradiobox.com/json/ua/feel102/play?platform=web",
+    "stationName": "Радио Feel",
+    "stationDescription": "Радио Feel – первая одесская радиостанция в формате Soft AC. Фонотека радиостанции включает несколько тысяч произведений разных жанров, в основном, это музыка последних лет в стилях Smooth Jazz, Bossa Nova, Lounge, Soul, Funk, Chill Out и Intelligent Pop.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/353.v3.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263227343,
+    "stationStream": "https://onlineradiobox.com/json/ua/kalushfm/play?platform=web",
+    "stationName": "Калуш FM",
+    "stationDescription": "В ефірі радіо «Калуш FM» на 85% транслюється музика, решта – інформація та реклама. Серед музичних композицій переважають хіти сучасної зарубіжної естради і так звані «Хіти-80-х та 90-х». Велику увагу приділяємо українській естраді – як молодим виконавцям, так і авторитетним артистам. Цільова аудиторія – від 20 до 60 років.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/435.v3.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263228231,
+    "stationStream": "https://complex.in.ua/zfm",
+    "stationName": "Золочів ФМ",
+    "stationDescription": "Золочів ФМ – радіостанція божевільних ідей, найкращої музики та твого хорошого настрою! Зроблена золочів’янами для золочів’ян, вона зробить твій день. Переконатися легко – просто увімкни радіо з самого ранку! Радіо рідного міста.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/68374.v17.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "lounge"
+    ]
+  },
+  {
+    "id": 1626263228819,
+    "stationStream": "https://a2.radioheart.ru:9043/live",
+    "stationName": "RadioEx EDM",
+    "stationDescription": "Регион вещания RADIOEX – всемирная паутина.  Область, на которой реализуется вещание и ретрансляция, практически охватывает весь мир . Это дает возможность слушать радио онлайн на сайте RADIOEX с любой точки земного шара бесплатно и в режиме реального времени.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/21202.v4.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "trance"
+    ]
+  },
+  {
+    "id": 1626263229610,
+    "stationStream": "https://onlineradiobox.com/json/ua/kredenscafe/play?platform=web",
+    "stationName": "Kredens Cafe Radio",
+    "stationDescription": "Радіо гарного настрою від Kredens Cafe!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/7/24707.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263230140,
+    "stationStream": "https://onlineradiobox.com/json/ua/dani/play?platform=web",
+    "stationName": "Дани FM",
+    "stationDescription": "Радіо \"ДаніФм\" -  перше радіо  міста Балаклія.\nВ ефірі якісна музика українських та закордонних  виконавців.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/75674.v6.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263230658,
+    "stationStream": "https://onlineradiobox.com/json/ua/mousse/play?platform=web",
+    "stationName": "Mousse Radio",
+    "stationDescription": "Онлайн-радіо з вишуканою, легкою музикою у стилі smooth jazz, lounge, chill out.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/3/24703.png",
+    "stationGenres": [
+      "lounge",
+      "jazz",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626263231195,
+    "stationStream": "https://myradio24.org/odesradio",
+    "stationName": "Всемирное Одесское радио",
+    "stationDescription": "Всемирное Одесское радио - это информационно-музыкальная радиостанция, посвященная нашему городу Одессе, его истории, культуре. Музыкальная часть эфира представляет собой музыку, испытанную временем. Лучшая зарубежная и советская эстрада 70х-80х, классический блюз и рок-н ролл, и самое главное - традиционные Одесские песни. В эфире уже сейчас звучат информационные передачи \"Говорит Одесса\", \"Прогулка по литературной Одессе\", \"от Советского информбюро\". Готовятся к эфиру еще несколько интересных проектов, в.т.ч. прямые эфиры с известными Одесситами.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/81036.v10.png",
+    "stationGenres": [
+      "disco",
+      "pop",
+      "blues",
+      "retro",
+      "italian"
+    ]
+  },
+  {
+    "id": 1626263231990,
+    "stationStream": "https://radio.109fm.net:4580/radio",
+    "stationName": "109FM",
+    "stationDescription": "Танцевальная интернет станция. Рассчитана на широкую аудиторию с разными музыкальными предпочтениями электронного направления. В эфире звучат как авторские работы так и популярные треки, взятые из открытых источников.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/150.v3.png",
+    "stationGenres": [
+      "progressive",
+      "trance",
+      "house",
+      "techno"
+    ]
+  },
+  {
+    "id": 1626263232500,
+    "stationStream": "https://online.radiojazz.ua/RadioJazz",
+    "stationName": "Radio Jazz",
+    "stationDescription": "Бути собою\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/84452.v14.png",
+    "stationGenres": [
+      "jazz"
+    ]
+  },
+  {
+    "id": 1626263233056,
+    "stationStream": "https://onlineradiobox.com/json/ua/meydanfm/play?platform=web",
+    "stationName": "Meydan FM",
+    "stationDescription": "Единственная в мире крымскотатарская радиостанция. Языки вещания - крымскотатарский и русский. Формат - музыкально-развлекательный.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/46366.v4.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263233567,
+    "stationStream": "https://onlineradiobox.com/json/ua/radioec/play?platform=web",
+    "stationName": "Радио ЕС",
+    "stationDescription": "Перша rock-pop-news радіостанція в Україні\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/189.v1.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263234345,
+    "stationStream": "https://onlineradiobox.com/json/ua/egoisty/play?platform=web",
+    "stationName": "Radio EgoЇсти",
+    "stationDescription": "Одна з радіостанцій, що входить до групи інтернет-радіостанцій компанії MJoy Multimedia.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/9/48239.png",
+    "stationGenres": [
+      "rock",
+      "alternative",
+      "punk"
+    ]
+  },
+  {
+    "id": 1626263235604,
+    "stationStream": "https://onlineradiobox.com/json/ua/gold/play?platform=web",
+    "stationName": "Radio Gold",
+    "stationDescription": "Radio Gold - найкращі золоті хіти.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/92020.v1.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263236122,
+    "stationStream": "https://samcloud.spacial.com/api/listen?sid=90544&rid=164144&f=aac,any&br=64000,any&m=sc",
+    "stationName": "Radiokids.online",
+    "stationDescription": "Радіо, де діти зможуть почути пісні з мультфільмів, мюзиклів і не тільки багатьма мовами світу. Послухати цікаві казки, дитячі вірші сучасних письменників, почути звуки природи і багато іншого.\nДля батьків ми приготували багато чудових передач про дитячу психологію і розвиток дитини. А також ви зможете заколисати своє немовля під чудові українські колискові.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/74964.v3.png",
+    "stationGenres": [
+      "relax",
+      "classic",
+      "children"
+    ]
+  },
+  {
+    "id": 1626263236649,
+    "stationStream": "https://onlineradiobox.com/json/ua/andrewlviv/play?platform=web",
+    "stationName": "ABN Radio",
+    "stationDescription": "ABN RADIO - Internet Radio Station that plays the best of Dance, Trance, House, Techno, Electro Music and not only! Slogan: ABN Radio! You Will Love\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/2441.v2.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "techno"
+    ]
+  },
+  {
+    "id": 1626263237457,
+    "stationStream": "https://onlineradiobox.com/json/ua/svobodafm/play?platform=web",
+    "stationName": "SVOBODA.FM",
+    "stationDescription": "SVOBODA.FM - українська музика, розмови з цікавими людьми у студії на вільні теми.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/37193.v11.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626263237975,
+    "stationStream": "https://myradio24.org/9209",
+    "stationName": "ORadio",
+    "stationDescription": "ORadio - круглосуточная интернет радиостанция зарубежной музыки 70x - 10-x годов. Только музыка!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/165.v6.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263238502,
+    "stationStream": "https://onlineradiobox.com/json/ua/tvoeradio/play?platform=web",
+    "stationName": "Tvoe Radio FM",
+    "stationDescription": "«ТВОЄ РАДІО» (101,4 FM) — це музично-розважально-інформаційна FM-станція, яка здійснює цілодобове мовлення з міста Дрогобича. Музичне наповненння радіостанції – тільки улюблені іноземні та українські хіти для Вашого відпочинку та гарного настрою.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/64872.v6.png",
+    "stationGenres": [
+      "electronic",
+      "rock",
+      "pop",
+      "talk",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263239027,
+    "stationStream": "https://onlineradiobox.com/json/ua/vezha/play?platform=web",
+    "stationName": "Radio Vezha",
+    "stationDescription": "Радіо 107 FM - Музичний формат є мікс форматів Soft Contemporary Hit, Classic Rock Hits та Ukrainian Modern підібраний для української дорослої, інтелігентної та євро-орієтованої аудиторії.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/64870.v6.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "talk",
+      "classic",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263239540,
+    "stationStream": "https://stream.zenolive.com/vn4r1hp339duv",
+    "stationName": "Радіо Вільної України",
+    "stationDescription": "Гордий бути українцем, Ми - Радіо Вільної України.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/73896.v1.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "indie",
+      "alternative"
+    ]
+  },
+  {
+    "id": 1626263240056,
+    "stationStream": "https://a1.radioheart.ru:8008/radio-metal",
+    "stationName": "Radio Metal",
+    "stationDescription": "Online Radio Metal считает своей миссией борьбу с засильем \"попсы\" на радио и телевидении. Здесь нет \"сладких\" голосов и тошнотворных звуков, на Radio Metal лишь тяжелая музыка!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/64.v15.png",
+    "stationGenres": [
+      "metal",
+      "alternative"
+    ]
+  },
+  {
+    "id": 1626263240873,
+    "stationStream": "https://s01.radio-tochka.com:5100/stream",
+    "stationName": "Music History Radio",
+    "stationDescription": "Music History Radio - the Best music of all time!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/84152.v7.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "pop",
+      "retro"
+    ]
+  },
+  {
+    "id": 1626263241391,
+    "stationStream": "https://myradio24.org/viasssr",
+    "stationName": "ВИА СССР",
+    "stationDescription": "Вокально-инструментальные ансамбли и группы СССР\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/78383.v2.png",
+    "stationGenres": [
+      "rock",
+      "jazz",
+      "folk",
+      "retro",
+      "oldies",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263241898,
+    "stationStream": "https://cast2.more.fm:8443/lounge",
+    "stationName": "MORE Lounge",
+    "stationDescription": "Легкость, релакс, камерность и полный кайф. Другими словами - MORE LOUNGE.\nРасслабляйтесь на здоровье!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/66537.v11.png",
+    "stationGenres": [
+      "lounge"
+    ]
+  },
+  {
+    "id": 1626263242413,
+    "stationStream": "https://onlineradiobox.com/json/ua/blogerfm/play?platform=web",
+    "stationName": "Bloger.FM",
+    "stationDescription": "Мы – украинское независимое интернет-радио. В принципе, этим сказано все, если делать значимым каждое слово столь емкого определения, и именно в такой последовательности мы расставляем наши приоритеты. Для нас очень важно акцентировать, что Блогер ФМ является украинским проектом. \n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/3/45453.png",
+    "stationGenres": [
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263243191,
+    "stationStream": "https://onlineradiobox.com/json/ua/versiya/play?platform=web",
+    "stationName": "Версія ФМ",
+    "stationDescription": "\"Версія ФМ\" — відома радіостанція м. Ужгорода, в ефірі якої звучать найяскравіші та найзапальніші хіти світової музики.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/25238.v3.png",
+    "stationGenres": [
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263243716,
+    "stationStream": "https://complex.in.ua/buskfm",
+    "stationName": "Буське радіо",
+    "stationDescription": "Буська районна радіостанція. Радіо лелечого краю. Інформаційний пульс Буського району.\nПризнаваймося, єднаймося, тримаймося!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/76203.v10.png",
+    "stationGenres": [
+      "rock",
+      "folk",
+      "hits",
+      "поп"
+    ]
+  },
+  {
+    "id": 1626263244230,
+    "stationStream": "https://onlineradiobox.com/json/ua/hype/play?platform=web",
+    "stationName": "Hype radio",
+    "stationDescription": "Hype Radio EDM - сучасне радіо сучасної електронної музики в Україні. Саме ми в ефірі першого цифрового мультиплексу в форматі DAB+ в Україні, і ми з Вами! Ми абсолютно цифрові!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/72934.v13.png",
+    "stationGenres": [
+      "dance",
+      "progressive",
+      "electronic",
+      "trance",
+      "house",
+      "r'n'b",
+      "pop",
+      "club",
+      "drum'n'bass"
+    ]
+  },
+  {
+    "id": 1626263244758,
+    "stationStream": "https://onlineradiobox.com/json/ua/ekoradio/play?platform=web",
+    "stationName": "ЕкоРадіо",
+    "stationDescription": "Щодня о 22.00 у нашому ефірі популярні пісні 60-80-х рр. у програмі «Українське ретро».\nЩосуботи і неділі – з 19.00 до 22.00 – легендарна програма «ЕкоРадіо» «Українська дискотека».\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/92.v4.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263245556,
+    "stationStream": "https://onlineradiobox.com/json/ua/trkrai/play?platform=web",
+    "stationName": "Радіо РАІ",
+    "stationDescription": "РАІ радіо транслюється в: м. Бурштин та Галицькому районі на частоті 101.6 FM, смт. Верховина та Верховинському районі на частоті 105,6 FM, м.Косів та Косівському районі на частоті 106.6 FM, м.Долина та Долинському районі.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/384.v2.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment",
+      "information"
+    ]
+  },
+  {
+    "id": 1626263246062,
+    "stationStream": "https://onlineradiobox.com/json/ua/magnolia/play?platform=web",
+    "stationName": "Магнолия",
+    "stationDescription": "Будьте в курсе самых резонансных и чрезвычайных событий дня с Радио \"Магнолия\".\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/428.v1.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263246603,
+    "stationStream": "https://onlineradiobox.com/json/ua/radio10/play?platform=web",
+    "stationName": "Радіо 10",
+    "stationDescription": "Почуй не тільки чим живуть Чернівці, де в цю секунду затори на дорогах та як провести своє дозвілля. Почуй десять компліментів за день, почуй класний хіт, що нагадає тобі про десять причин для щастя. Не обмежуй себе – Почуй усе! Усе, що потрібно сучасному мешканцю маленького європейського містечка з великими амбіціями! Радіо 10 – місцеве, але не містечкове радіо і легко намалює тобі картину нашої красивої країни і такої різної планети зі своїми інноваціям. \n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/60539.v1.png",
+    "stationGenres": [
+      "rock",
+      "r'n'b",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263247374,
+    "stationStream": "https://onlineradiobox.com/json/ua/tank/play?platform=web",
+    "stationName": "Радіо Такт",
+    "stationDescription": "Найстаріша FM-станція Вінниці. Легкий мелодійний рок, поп-рок.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/45454.v5.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263248160,
+    "stationStream": "https://onlineradiobox.com/json/ua/radioshlager/play?platform=web",
+    "stationName": "Радио Шлягер",
+    "stationDescription": "Все песни, в которых есть музыка и слова... Все то, что ласкает наш слух!\nЧастота вещания 107 FM!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/69874.v3.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263248684,
+    "stationStream": "https://onlineradiobox.com/json/ua/mgreatest/play?platform=web",
+    "stationName": "Greatest Songs Radio",
+    "stationDescription": "Кращі хіти усіх часів!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/4/24704.png",
+    "stationGenres": [
+      "pop",
+      "top40",
+      "oldies"
+    ]
+  },
+  {
+    "id": 1626263249204,
+    "stationStream": "https://onlineradiobox.com/json/ua/guliay/play?platform=web",
+    "stationName": "Гуляй Радіо",
+    "stationDescription": "Українська радіостанція, що пропонує велику кількість різноманітної музики.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/83156.v4.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263249695,
+    "stationStream": "https://onlineradiobox.com/json/ua/sportua/play?platform=web",
+    "stationName": "Radio Sport",
+    "stationDescription": "Радио Спорт, на сегодняшний день – это единственное Радио в Украине, имеющее чётко выраженную спортивную тематику и концепцию. В данный момент радио вещает в цифровом формате.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/2/45452.png",
+    "stationGenres": [
+      "talk",
+      "sports"
+    ]
+  },
+  {
+    "id": 1626263251020,
+    "stationStream": "https://myradio24.org/73212",
+    "stationName": "Sraka Radio",
+    "stationDescription": "Радіо Срака — то є радіо моєї улюбленої музики, і ржачних вставок у вигляді псевдореклами і псевдоспічів відомих людей :)\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/85864.v3.png",
+    "stationGenres": [
+      "new wave",
+      "romantic"
+    ]
+  },
+  {
+    "id": 1626263251539,
+    "stationStream": "https://7rays.stream.laut.fm/7rays",
+    "stationName": "7 Rays Radio",
+    "stationDescription": "Ambient and Deep Space music, New Age and Spiritual music for connecting with Higher Self, Chill-out and Healing music. Seven Rays Radio.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/70037.v4.png",
+    "stationGenres": [
+      "ambient",
+      "new age",
+      "meditation"
+    ]
+  },
+  {
+    "id": 1626263252061,
+    "stationStream": "https://onlineradiobox.com/json/ua/rockstone/play?platform=web",
+    "stationName": "Rockstone Radio - Old Stuff",
+    "stationDescription": "Rockstone Radio was founded in 2013 as the best digital rock radio station. We play music that helps you to train, work, fight, think and relax!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/51801.v19.png",
+    "stationGenres": [
+      "rock",
+      "blues",
+      "hard rock",
+      "alternative"
+    ]
+  },
+  {
+    "id": 1626263252589,
+    "stationStream": "https://onlineradiobox.com/json/ua/izyum/play?platform=web",
+    "stationName": "Радіо - Ізюм",
+    "stationDescription": "Ізюмська розважальна інформаційна радіостанція.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/75473.v5.png",
+    "stationGenres": [
+      "rock",
+      "disco",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263253114,
+    "stationStream": "https://onlineradiobox.com/json/ua/emigrant/play?platform=web",
+    "stationName": "Емігрантське радіо",
+    "stationDescription": "Емігрантський радіо - це українське радіо для українського суспільства, їх сімей та друзів, де Ви можете послухати українську музику, а також обговорення найактуальніщих суспільно - політичних подій України та світу. \n \n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/76493.v4.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "culture",
+      "entertainment",
+      "information"
+    ]
+  },
+  {
+    "id": 1626263253619,
+    "stationStream": "https://onlineradiobox.com/json/ua/gradleva/play?platform=web",
+    "stationName": "Радіо ГРАД ЛЕВА",
+    "stationDescription": "Наша редакція посилено працює над створенням різноманітних програм і сподіваємося вже найближчими днями запропонувати Вам багато пізнавального та цікавого.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/68991.v6.png",
+    "stationGenres": [
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626263254318,
+    "stationStream": "https://onlineradiobox.com/json/ua/flyfm/play?platform=web",
+    "stationName": "Radio FLYFM",
+    "stationDescription": "Радио «FLYFM» — круглосуточная интернет-радиостанция вещающая из Харькова. Музыкальное наполнение — поп, евроденс, электро, хиты 90-х. Начало вещания — июнь 2004 года. Присоединяйтесь к нам и Вы не пожалеете.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/71872.v2.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "90s",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263254834,
+    "stationStream": "https://onlineradiobox.com/json/ua/luga/play?platform=web",
+    "stationName": "Radio Luga Online",
+    "stationDescription": "Luga Radio- активно развивающаяся радиостанция, которая была образована в 2005 году при участии Луганского интернет провайдера Luga.Net. \nСегодня на волнах Luga Radio вы можете услышать только самые трендовые направления танцевальной сцены: House, Trance, Progressive и Electro. Радиостанция вещает без перерывов 7 дней в неделю. С непрекращающимся ростом числа радиослушателей станция вышла на международный уровень.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/64876.v8.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house"
+    ]
+  },
+  {
+    "id": 1626263255359,
+    "stationStream": "https://onlineradiobox.com/json/ua/ukhradio/play?platform=web",
+    "stationName": "УХ радіо",
+    "stationDescription": "УХ радіо – Твоє. Рідне. Українське! «Ух-радіо» – єдина Тернопільська місцева радіостанція.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/91315.v2.png",
+    "stationGenres": [
+      "pop",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626263255879,
+    "stationStream": "https://onlineradiobox.com/json/ua/103fm/play?platform=web",
+    "stationName": "Житомирська хвиля",
+    "stationDescription": "«Житомирська хвиля» - перша Fm-радіостанція в Житомирі та області.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/158.v7.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop",
+      "pop-rock"
+    ]
+  },
+  {
+    "id": 1626263256392,
+    "stationStream": "https://stream.sequence.com.ua/srs128",
+    "stationName": "Sequence Radio",
+    "stationDescription": "Це молода не комерційна, цифрова, інтернет радіо станіція, що веде своє мовлення з територіїї Незалежної Української держави, для молоді та населлення, що проживає на її тариторії та за її межами. Проект створено на кошти однодумців, поціновувачів якісної електронної музики та фахівців в своїх основних напрямах діяльності.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/57217.v9.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "progressive trance",
+      "drum'n'bass"
+    ]
+  },
+  {
+    "id": 1626263257181,
+    "stationStream": "https://radio.freeradio.com.ua/stream.mp3",
+    "stationName": "Вільне радіо",
+    "stationDescription": "«Вільне радіо» – це проект, який покликаний забезпечити функціонування повністю незалежної радіостанції, що мовить в зоні ООС (АТО). Ініціатива має на меті дати відповідь на національні виклики, створивши противагу інформаційному вакууму та пропаганді, і сприяти розвитку громадянського суспільства через діяльність місцевої радіостанції з FM- та online-мовленням, мультимедійного сайту.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/74006.v3.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263257964,
+    "stationStream": "https://onlineradiobox.com/json/ua/syaivo/play?platform=web",
+    "stationName": "Radio Syaivo",
+    "stationDescription": "\"Ви на хвилі 106.8 FM\" - ви на сонячній хвилі! Залишайтесь завжди з нами і ми поділимося з Вами нашим Сяйвом!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/64871.v3.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263258768,
+    "stationStream": "https://onair.gorodfm.com.ua/OnAir",
+    "stationName": "Gorod FM 105.2",
+    "stationDescription": "Город FM 105.2 – Была образованна в 2014 году (г. Кривой Рог) и сразу завоевала музыкальные сердца радиослушателей. Главным музыкальным критерием для нас является подбор качественного музыкального контента современности включая песни разных лет и поколений. Аудитория нашей волны многогранна тем самым каждый для себя определяет почему его приемник настроен именно на Город FM.Мы хотим быть ближе к нашим слушателям и ценим каждого кто предан нам, ведь быть главной волной Кривого Рога почетно и ответственно.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/67618.v3.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "enterntainment"
+    ]
+  },
+  {
+    "id": 1626263259627,
+    "stationStream": "https://fps6.listen2myradio.com:2199/listen.php?ip=78.129.237.53&port=10727",
+    "stationName": "Dj Makellos",
+    "stationDescription": "Pop | Dance | Lounge | Relax — Music. Non commercial radio. Without ads. Only music.\n1 hour - Pop Dance Hour / 1 - Relax Music Hour.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/74202.v13.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "lounge",
+      "relax"
+    ]
+  },
+  {
+    "id": 1626263260174,
+    "stationStream": "https://online.fainemisto.tv:8443/faine.ogg",
+    "stationName": "Радіо Файне місто",
+    "stationDescription": "Музика, новини, настрій - вмикай радіо «Файне місто»! 106.8\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/91314.v1.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626263260722,
+    "stationStream": "https://onlineradiobox.com/json/ua/pulzus921/play?platform=web",
+    "stationName": "Pulzus FM - Радіо Пульс ФМ",
+    "stationDescription": "Kárpátalja egyetlen kétnyelvű 24 órás Rádiója!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/79365.v5.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop",
+      "news",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263261249,
+    "stationStream": "https://stream.freshrock.net/128.mp3",
+    "stationName": "Fresh Rock",
+    "stationDescription": "Fresh Rock Internet Radio — это международная некоммерческая радиостанция, ведущая вещание преимущественно в стиле рок, которая даёт возможность молодым коллективам и рок-исполнителям ознакомить со своим творчеством и стать известнее среди любителей жанра.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/46875.v1.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263261755,
+    "stationStream": "https://onlineradiobox.com/json/ua/more/play?platform=web",
+    "stationName": "Радио Море",
+    "stationDescription": "Крымское радио. Муз.формат - CHR. \"Море приветов\" на 20-й минуте каждого часа.\tРадио \"Море\"- приветы находятся в обсуждениях!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/24215.v3.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263262277,
+    "stationStream": "https://onlineradiobox.com/json/ua/oldfashioned/play?platform=web",
+    "stationName": "Old Fashioned Radio - Rock",
+    "stationDescription": "Old Fashioned Radio - онлайн радио из Киева об искусстве и стиле жизни. Джаз, блюз, фанк, соул, ню-джаз, авторские шоу о кино, моде, литературе, чувствах и опытах.\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/46082.v2.png",
+    "stationGenres": [
+      "rock",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263263075,
+    "stationStream": "https://onlineradiobox.com/json/ua/canalblagodat/play?platform=web",
+    "stationName": "Радіо Канал Благодаті",
+    "stationDescription": "інтернет радіо на будь-який добрий смак!\nГарний настрій і добрі думки вам ґарантовані, якщо ви слухаєте Радіо Канал Благодаті. Стало важко? Вмикайте РКБ!\nВ наш цілодобовий ефір потрапляють твори не на основі певного стилю, як на більшості радіостанцій. Головним критерієм для ротації на РКБ є натхненність композиції Богом. А це - якість, зміст і дух. Отож, частина композицій обов’язково буде вам до смаку. У фонотеці кілька тисяч творів різноманітних гуртів, переважно українських. Тому нова музика — кожного дня.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/66992.v5.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "jazz",
+      "classic",
+      "hip-hop",
+      "christian",
+      "instrumental",
+      "christian contemporary"
+    ]
+  },
+  {
+    "id": 1626263263633,
+    "stationStream": "https://stream.radio.co/s4360dbc20/listen",
+    "stationName": "Coma.fm",
+    "stationDescription": "Just Beat!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/71856.v12.png",
+    "stationGenres": [
+      "blues",
+      "jazz",
+      "rockabilly"
+    ]
+  },
+  {
+    "id": 1626263264437,
+    "stationStream": "https://onlineradiobox.com/json/ua/vtsu/play?platform=web",
+    "stationName": "Radio VTSU",
+    "stationDescription": "VTSU - единственная в городе Харьков молодежная музыкально-развлекательная радиостанция, создает позитивный настрой на весь день.\nМузыкальный формат: dance-hit radio.\nКроме музыкальных блоков в эфире звучат различные развлекательные и познавательные программы.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/66330.v8.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263265291,
+    "stationStream": "https://starfm.com.ua:8080/live",
+    "stationName": "Star FM",
+    "stationDescription": "STAR FM - одесская сетевая радиостанция, запущенная 4 октября 2004 года, вместо другой одесской сетевой радиостанции - \"AVTO.FM\", во время периода так называемого reSTARта.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/83654.v10.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "deep house",
+      "club"
+    ]
+  },
+  {
+    "id": 1626263265813,
+    "stationStream": "https://online.radioplayer.ua/FlashRadio",
+    "stationName": "Flash Radio",
+    "stationDescription": "Flash Radio - найкраща танцювальна радіомережа.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/87354.v7.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263267552,
+    "stationStream": "https://myradio24.org/2724",
+    "stationName": "Бриз Души",
+    "stationDescription": "... Звуки Вселенной и аромат Ветров... Шёпот Звезд и пение Луны... Шелест Листьев и лёгкий Бриз... Радио Бриз – это не просто музыка, а музыка вашей души. Когда бы не включили радио Бриз – вы обязательно улыбнетесь! Наши радиодиджеи , находясь в эфире, выполнят ваши заказы, порадуют хорошей музыкой и подарят праздничное настроение!!!\nОставайтесь с нами на волне позитивного радио Бриз !!!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/77427.v6.png",
+    "stationGenres": [
+      "trance",
+      "techno",
+      "90s",
+      "80s",
+      "dj",
+      "disc",
+      "o dance"
+    ]
+  },
+  {
+    "id": 1626263268304,
+    "stationStream": "https://100.cv.ua:8443/play",
+    "stationName": "Radio BukWave FM",
+    "stationDescription": "Інформуємо, долучаємо, розважаємо! Актуальні новини, прямі ефіри, відбірна музика, живі виступи гуртів. Ми європейці - ми Буковинська Хвиля!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/64873.v6.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "folk",
+      "ukrainian"
+    ]
+  },
+  {
+    "id": 1626263268798,
+    "stationStream": "https://myradio24.org/8134",
+    "stationName": "Radiohit24",
+    "stationDescription": "Интернет Радиостанция Radiohit24 Вещание Происходит 24/7.\nВ эфире звучит музыка последнего десятилетия а также ретро 90-х, прошедшее проверку временем на актуальность и популярность не одним поколением слушателей. Вся ваша любимая музыка доступна вам на одной волне.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/65287.v4.png",
+    "stationGenres": [
+      "retro",
+      "90s",
+      "00s",
+      "10s"
+    ]
+  },
+  {
+    "id": 1626263269599,
+    "stationStream": "https://myradio24.org/3979",
+    "stationName": "Импульс FM",
+    "stationDescription": " Если вы тот человек, одним из главных аксессуаров которого являются наушники, а ваша любовь к музыке не знает границ, то для вас идеально подойдёт наше радио - ИмпульсFM! Благодаря разносторонним диджеям вы обязательно услышите песни по своему вкусу, а также познакомитесь с музыкальными новинками! \nНаши эфиры отличаются тёплой и позитивной атмосферой, которую создают ведущие и вы, наши дорогие радиослушатели, делая заказы и передавая привет своим родным и близким. \nВ каком бы дурном расположении духа вы ни слушали наше радио, мы гарантируем вам хорошее настроение и душевную гармонию) \nПомимо обычных программ, вас также ожидают праздничные и тематические эфиры, где вы можете узнать много интересного; игры, которые помогут вам отвлечься от рутинных будней и отдохнуть в весёлой компании наших диджеев! \nМы ждём вас и обещаем подарить всем вам дружеское общение, прекрасную музыку и отличное настроение! \nРадио ИмпульсFM - мы всегда рады новым гостям!))))\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/74322.v3.png",
+    "stationGenres": [
+      "trance",
+      "rock",
+      "pop",
+      "club",
+      "rap",
+      "drum'n'bass",
+      "hause"
+    ]
+  },
+  {
+    "id": 1626263270293,
+    "stationStream": "https://onlineradiobox.com/json/ua/voskresinja/play?platform=web",
+    "stationName": "Радіо Воскресіння",
+    "stationDescription": "«Воскресіння. Живе радіо» ‒ це цілодобова інтернет-радіостанція, мовлення якої спрямоване на спілкування з аудиторією на будь-які теми, які цікавлять сучасну людину, але з позицій людини воцерковленої.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/68954.v3.png",
+    "stationGenres": [
+      "electronic",
+      "lounge",
+      "jazz",
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626263270995,
+    "stationStream": "https://myradio24.org/hyperadio",
+    "stationName": "Хайп Радио",
+    "stationDescription": "Новинки EDM и популярной музыки онлайн на HYPE RADIO. Слушай радио онлайн бесплатно и без рекламы.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/85522.v2.png",
+    "stationGenres": [
+      "dance",
+      "trance",
+      "pop",
+      "lounge",
+      "deep house"
+    ]
+  },
+  {
+    "id": 1626263271713,
+    "stationStream": "https://onlineradiobox.com/json/ua/yaskrave/play?platform=web",
+    "stationName": "Yaskrave Radio FM",
+    "stationDescription": "Яскраве Радіо – інтернет-радіо для тих, хто любить якісний український продукт. Будь яскравим та активним разом з нами! «Яскраве» - це одна з найпопулярніших нових радіостанцій, яка втілює новітній тренд − ротацію виключно україномовних пісень. Ідея створення та засновництво з 2007 року - київський поет Євгеній Юхниця. Слухайте \"Яскраве радіо\" в Інтернеті за посиланням: yaskraveradio.fm: у Києві на хвилі - 69,02; у Вінниці на хвилі 72,47\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/64874.v16.png",
+    "stationGenres": [
+      "rock",
+      "r'n'b",
+      "pop",
+      "talk",
+      "ukrainian"
+    ]
+  },
+  {
+    "id": 1626263272510,
+    "stationStream": "https://stream.mistonadbugom.com.ua/radiomistonadbugom",
+    "stationName": "Місто над Бугом",
+    "stationDescription": "З любов’ю до Вінниці! Живе міське радіо. Місцевий контент та актуальна музика.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/82785.v8.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263273288,
+    "stationStream": "https://onlineradiobox.com/json/ua/pershemiske/play?platform=web",
+    "stationName": "Перше міське радіо",
+    "stationDescription": "Об'єктивна, детальна і насичена картина дня очима наших кореспондентів. Основні міські події, актуальні прогнози, ясна аналітика: коротко, доступно, інформативно. Ви першими дізнаєтесь про все, що відбувається в нашому місті.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/78637.v3.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263274058,
+    "stationStream": "https://onlineradiobox.com/json/ua/radekhiv/play?platform=web",
+    "stationName": "Радіо Радехів",
+    "stationDescription": "До інформаційної мережі Радіо Радехів входять Радехівський, Кам'янка-Бузький, Перемишлянський та сусідні  з ними райони. Формат  розважально-інформаційний. Це те радіо де кожен  для себе знайде потрібну інформацію і музику до душі.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/76572.v5.png",
+    "stationGenres": [
+      "talk",
+      "children",
+      "culture",
+      "education",
+      "entertainment"
+    ]
+  },
+  {
+    "id": 1626263274626,
+    "stationStream": "https://onlineradiobox.com/json/ua/tyasmin/play?platform=web",
+    "stationName": "Радіо Тясмин",
+    "stationDescription": "Новини про Смілу та смілян: факти, коментарі, актуальні інтерв’ю, обговорення,  та багато іншого.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/73825.v2.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ]
+  },
+  {
+    "id": 1626263275417,
+    "stationStream": "https://myradio24.org/20874",
+    "stationName": "Шлягер Одесса",
+    "stationDescription": "Радио Для вас и Вашеи семьи\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/81674.v47.png",
+    "stationGenres": [
+      "trance",
+      "chanson",
+      "drum'n'bass",
+      "dance techno"
+    ]
+  },
+  {
+    "id": 1626263276210,
+    "stationStream": "https://radio-bar.com.ua:8000/radiobar",
+    "stationName": "RadioBar",
+    "stationDescription": "Кращі музичні коктейлі на RadioBar - відчуй справжній смак музики!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/89288.v5.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263276724,
+    "stationStream": "https://air.puree.io/puree",
+    "stationName": "Радио ПЮРЕ",
+    "stationDescription": "Независимое онлайн-радио с ироничным взглядом на популярную культуру и альтернативным видением современной музыки.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/73525.v2.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop",
+      "indie"
+    ]
+  },
+  {
+    "id": 1626263277241,
+    "stationStream": "https://stream.topradio.in.ua/topradio.mp3",
+    "stationName": "TopRadio",
+    "stationDescription": "TopRadio – радіо твого міста!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/87938.v8.png",
+    "stationGenres": [
+      "pop",
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626263278024,
+    "stationStream": "https://myradio24.org/1632",
+    "stationName": "Радио Пляж",
+    "stationDescription": "Круглосуточно новая музыка, в стиле edm-deep pop, интересные передачи, веселые и модные ведущие. Радио звучит везде, где есть интернет, работает с 2013 года всегда.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/85035.v1.png",
+    "stationGenres": [
+      "deep house",
+      "pop.talk",
+      "edm"
+    ]
+  },
+  {
+    "id": 1626263278543,
+    "stationStream": "https://onlineradiobox.com/json/ua/cityua/play?platform=web",
+    "stationName": "Radio City UA",
+    "stationDescription": "Radio City UA інтернет радіо з позивним \"музика твого міста\", 24 години на добу, транслює світові хіти і композиції випробувані часом.\nОсновною вимогою до композиції, яка потрапляє в плейлист - її мелодійність ...\nКоманда Радіо Сіті, постійно працює над тим, що б наше радіо відповідало всім Вашим очікуванням.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/73860.v2.png",
+    "stationGenres": [
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626263279336,
+    "stationStream": "https://onlineradiobox.com/json/ua/radioclassic/play?platform=web",
+    "stationName": "Радіо Класика",
+    "stationDescription": "Легке та спокійне радіо Радіо Класика. Актуальність поза часом.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/90820.v1.png",
+    "stationGenres": [
+      "classic"
+    ]
+  },
+  {
+    "id": 1626263279851,
+    "stationStream": "https://myradio24.org/95451",
+    "stationName": "Радио Респект",
+    "stationDescription": "Радио Респект - это развлекательный украинский радио проект, который был создан 02 ноября 2009 года. Каждый день команда станции работает над уникальным и продуманным наполнением эфира. В котором вы можете услышать песни и композиции в стилях Top-40, House, Pop, Dance.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/85095.v11.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "house",
+      "r'n'b",
+      "pop",
+      "latin"
+    ]
+  },
+  {
+    "id": 1626263280421,
+    "stationStream": "https://onlineradiobox.com/json/ua/nerus/play?platform=web",
+    "stationName": "Нерусское Радио Украина",
+    "stationDescription": "Нерусское Радио Украина – модная и популярная музыка, интервью со звёздами, шоу от души! Нерусское Радио Украина – настроение и треки, которые хотят.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/82884.v7.png",
+    "stationGenres": [
+      "pop",
+      "russian",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263280914,
+    "stationStream": "https://onlineradiobox.com/json/ua/radiom/play?platform=web",
+    "stationName": "Radio M",
+    "stationDescription": "Радіо М це:\n- незалежна українська радіостанція інформаційно - розважального напрямку;\n- простір, де обговорюються питання, з яких складається наше життя;\n- різноманітна і актуальна інформація;\n- цікаві гості: лікарі, спортсмени, волонтери, працівники культури, представники релігійних організацій;\n- цікаві авторські проекти;\n- багато музики різних жанрів.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/59660.v3.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment"
+    ]
+  },
+  {
+    "id": 1626263281777,
+    "stationStream": "https://onlineradiobox.com/json/ua/wanda/play?platform=web",
+    "stationName": "Радио Ванда FM",
+    "stationDescription": "Любимое, родное, доброе, волшебное, каждому слушателю радое. Команда радио \"Ванда-FM\" старается для того, чтобы радиостанция развивалась и приносила пользы тому, кто ее заслуживает. 24 часа на сутки, 7 дней в неделю мы работаем для того, чтобы радовать каждого слушателя. Отборные хиты на волшебном радио\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/71029.v36.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263282522,
+    "stationStream": "https://onlineradiobox.com/json/ua/pulsfm/play?platform=web",
+    "stationName": "Радио Пульс FM",
+    "stationDescription": "Единственный областной радиоканал, на волнах которого мы слышим только исключительно российский и украинский рок, а также творчество луганских рок-групп. \n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/59661.v2.png",
+    "stationGenres": [
+      "rock",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263283038,
+    "stationStream": "https://onlineradiobox.com/json/ua/planetafm/play?platform=web",
+    "stationName": "Радіо Планета ",
+    "stationDescription": "На хвилі 102,8 можна завжди почути цікаві події у світі політики, економіки та спорту, зокрема про досягнення наших місцевих спортсменів. В студії в прямому ефірі проводяться розмови з гостями — естрадними акторами, котрі влаштовують концерти у нашому місті. \n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/23535.v3.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263283551,
+    "stationStream": "https://onlineradiobox.com/json/ua/blysk/play?platform=web",
+    "stationName": "Blysk FM",
+    "stationDescription": "Найкращі хіти усіх часів на хвилі блискучого радіо!\nМузика, яка створює настрій!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/82784.v1.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263285499,
+    "stationStream": "https://stream.rockfm.in.ua:8000/rockfm",
+    "stationName": "Rock FM",
+    "stationDescription": "Для поціновувачів справжнього року, раді представити онлайн-радіостанцію Rock FM, в ефірі якої цілодобово звучить краща рок-музика. Звучать культові рок-хіти які почали завойовувати світ ще з 60-х років. \nЕфір радіостанції в основному здійснює мовлення в жанрах: Rock, Classic Rock, Hard Rock, Metal. Щодня на хвилі Rock FM Ви почуєте такі легендарні групи, як The Rolling Stones, AC/DC, The Doors, Deep Purple, ZZ Top, U2, The Beatles, Led Zeppelin... \nТакож ефір наповнений інформаційно-розважальними передачами про історію розвитку рок-культури, історії виникнення популярних рок-груп.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/89862.v15.png",
+    "stationGenres": [
+      "rock",
+      "classic rock",
+      "hard rock",
+      "metal"
+    ]
+  },
+  {
+    "id": 1626263286194,
+    "stationStream": "https://onlineradiobox.com/json/ua/dobre/play?platform=web",
+    "stationName": "Добре Pадіо 105.4 FM",
+    "stationDescription": "Тростянецкая коммунальная информационно-музыкальная радиостанция. Доброе радио: 8:00-9:00; 13:00-14:20; 17:00-18:00. В эфире программы Украинского радио \"Проминь\".\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/77121.v10.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263286716,
+    "stationStream": "https://onlineradiobox.com/json/ua/lada/play?platform=web",
+    "stationName": "Lada.FM",
+    "stationDescription": "Інформаційний портал про події у місті Ладижин (Вінницька область).\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/70357.v6.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263287506,
+    "stationStream": "https://onlineradiobox.com/json/ua/radioitaliana/play?platform=web",
+    "stationName": "Radio Italiana",
+    "stationDescription": "Radio Italiana - найкращі хіті італійської музики.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/92021.v2.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263288355,
+    "stationStream": "https://onlineradiobox.com/json/ua/shans/play?platform=web",
+    "stationName": "Радіо ШАНС",
+    "stationDescription": "РадіоШАНС – місцеве, але не містечкове радіо і легко намалює тобі картину нашої красивої країни і такої різної планети зі своїми інноваціям. А ще, покаже дещо і обдарує крутими призами.\n\nРадіоШАНС – це радіо європейського міста, що звучить сучасною, актуальною західною музикою із топових хіт парадів та українською музикою нового покоління. Тут кожен знайде своє, а отже влучить у самісіньку десятку. Налаштуйте приймачі на 104 FM і почуйте!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/78970.v2.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263288876,
+    "stationStream": "https://stream.zenolive.com/y1ckzttu1ceuv",
+    "stationName": "Radio Muzon4ik",
+    "stationDescription": "Radio Muzon4ik - The best music\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/71240.v13.png",
+    "stationGenres": [
+      "variety"
+    ]
+  },
+  {
+    "id": 1626263289402,
+    "stationStream": "https://onlineradiobox.com/json/ua/luther/play?platform=web",
+    "stationName": "VDVO",
+    "stationDescription": "\"Вікна й двері вашої оселі\" - фан-інтернет-радіо для справжніх поціновувачів якості у всьому!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/74207.v27.png",
+    "stationGenres": [
+      "dance",
+      "r'n'b",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263289942,
+    "stationStream": "https://stream.m4u-radio.com.ua:8015/stream",
+    "stationName": "M4U Radio - Online Radio",
+    "stationDescription": "M4U (Music for You, Music for the Universe!) RADIO Ukraine — Online Radio — це молода, що динамічно розвивається інтернет радіостанція, метою якої є популяризація електронної музики і клубного руху як в Україні, так і за її межами. В ефірі інтернет радіо звучить якісна електронна музика, сети кращих DJ України та світу, розважальні програми, а так само живі виступи.\n\nОсновні стилі музики в ротації на M4U RADIO Ukraine — Progressive House, Tech House, Melodic House, Deep House, House, Electro House, Afro House, Indie Dance Tech House, Techno, PsyTrance, Progressive Trance.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/95966.v18.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "house",
+      "techno",
+      "progressive house",
+      "deep house",
+      "electro house",
+      "club",
+      "dj"
+    ]
+  },
+  {
+    "id": 1626263290444,
+    "stationStream": "https://onlineradiobox.com/json/ua/yalta/play?platform=web",
+    "stationName": "Радио Ялта FM ",
+    "stationDescription": "\"Ялта ФМ\" - радио твоего города! -- это единственная информационно-развлекательная радиостанция, которая ведет вещание из Ялты. В прямом эфире мы говорим о жизни города, об актуальных новостях Ялты, Крыма, а также радуем слушателей качественной музыкальной подборкой вот уже 16 лет. Мы популярны, как среди студентов, которые находятся в вечном поиске драйвовой музыки, которая бы отражала их жизненные взгляды, так и среди зрелых людей, которые держат руку на пульсе жизни города, полуострова\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/24220.v1.png",
+    "stationGenres": [
+      "rock",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263290972,
+    "stationStream": "https://onlineradiobox.com/json/ua/pravoslavtv/play?platform=web",
+    "stationName": "Православ ТВ",
+    "stationDescription": "Вещание Херсонской епархии Украинской Православной Церкви Киевского Патриархата.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/71703.v1.png",
+    "stationGenres": [
+      "talk",
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626263291687,
+    "stationStream": "https://onlineradiobox.com/json/ua/orange/play?platform=web",
+    "stationName": "Orange Radio",
+    "stationDescription": "Hits only!\nНОВИНКА УКРАЇНСЬКОГО РАДІОЕФІРУ!!! Максимум якісної закордонної музики і тільки найкращі українські хіти!!! Для нас не існує поняття \"ТА ТАКОЄ\", ми обираємо музику з незабутнім ОRANGEуванням! Ви її запам'ятаєте надовго! Також ми не відволікаємо Вас на безглузді розмови. Ми любимо тільки МУЗИКУ. Ми любимо ORANGE) \n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/35223.v1.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263292514,
+    "stationStream": "https://onlineradiobox.com/json/ua/borzna/play?platform=web",
+    "stationName": "РАДІО БОРЗНА",
+    "stationDescription": "Радіо Борзна - найближча станція з улюбленими хітами нашої країни! Щосуботи з 15:00 передавайте привіти та поздоровлення в програмі \"Поцілунок з привітом\", (телефон прямого ефіру - 098 097 18 83 - ТІЛЬКИ ПІД ЧАС ПРОГРАМИ, також скеровуйте свої вітання у вайбер або телеграм).\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/88499.v29.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263293021,
+    "stationStream": "https://onlineradiobox.com/json/ua/mri/play?platform=web",
+    "stationName": "Обрії FM",
+    "stationDescription": "«Обрії FM» - 100% Super Hits – це музично-інформаційна радіостанція, що мовить у м. Сміла та Смілянському районі  на частоті 102 МГц.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/74460.v21.png",
+    "stationGenres": [
+      "adult contemporary",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263293799,
+    "stationStream": "https://onlineradiobox.com/json/ua/indieua/play?platform=web",
+    "stationName": "Радіо Інді.UA",
+    "stationDescription": "Радіостанція україномовної музики.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/90819.v3.png",
+    "stationGenres": [
+      "rock",
+      "r'n'b",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263294599,
+    "stationStream": "https://onlineradiobox.com/json/ua/svoye/play?platform=web",
+    "stationName": "Своє радіо",
+    "stationDescription": "\"Своє радіо\" - це реалізований у Гусятинській ОТГ проект \"Голос громади\". Його втілення стало можливим завдяки співпраці з Програмою USAID DOBRE, що виконується організацією Global Communities та фінансується Агенством США з міжнародного розвитку (USAID)\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/81621.v2.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263295291,
+    "stationStream": "https://c18.radioboss.fm:18146/stream",
+    "stationName": "20ft Radio",
+    "stationDescription": "Independent radio station that broadcasts music from a 20 ft container situated beside the weaving factory in Kiev.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/64200.v1.png",
+    "stationGenres": [
+      "electronic",
+      "dj"
+    ]
+  },
+  {
+    "id": 1626263296087,
+    "stationStream": "https://stream.blits-fm.ua/stream320",
+    "stationName": "Бліц-FM",
+    "stationDescription": "Бліц-FM місцева танцювальна радіостанція! \nНовини Білої Церкви, знайомства з яскравими персонажами, кур'йози, і море призів.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/82891.v5.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263296778,
+    "stationStream": "https://onlineradiobox.com/json/ua/kotelva/play?platform=web",
+    "stationName": "Котельва FM",
+    "stationDescription": "Bсебічне і оперативне висвітлення подій, інформування про політичне, соціально-економічне життя району. Культура, мистецтво, кримінальна хроніка, спорт, релігійні заходи, соціально - економічне життя району, зміни в законодавстві, інтерв'ю з видатними особистостями - все це являється складовою наших програм.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/75323.v3.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "health"
+    ]
+  },
+  {
+    "id": 1626263297472,
+    "stationStream": "https://host.gazduirehost-web.de/8006/stream",
+    "stationName": "Radio Folclor Moldovenesc (Cernăuți)",
+    "stationDescription": "Radio Folclor Moldovenesc (Cernăuți) - un post de radio online dedicat tuturor celor care doresc să păstrează frumusețea tradițiilor, cântecul și dansul popular românesc!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/83561.v12.png",
+    "stationGenres": [
+      "folk",
+      "ethnic",
+      "instrumental"
+    ]
+  },
+  {
+    "id": 1626263297991,
+    "stationStream": "https://onlineradiobox.com/json/ua/tysa/play?platform=web",
+    "stationName": "Тиса FM",
+    "stationDescription": "Тиса FM – музично-інформаційна радіостанція, що відповідає запитам сучасного радіослухача, надаючи якісний інформаційний та музичний продукт.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/86870.v7.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263298688,
+    "stationStream": "https://onlineradiobox.com/json/ua/azovcapital/play?platform=web",
+    "stationName": "Azov Capital",
+    "stationDescription": "Жемчужина Приазовья – Мариуполь – представляет деловое радио «Азовская столица».\n \n Мы ориентированы на деловых людей без региональной привязки. Нас с удовольствием слушает Украина, Россия, Казахстан, Грузия, Болгария, Германия, США.\n Микс из свежей и актуальной информации придется по вкусу абсолютно всем – и доброжелательным слушателям, и серьёзным инвесторам.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/41104.v4.png",
+    "stationGenres": [
+      "business"
+    ]
+  },
+  {
+    "id": 1626263299199,
+    "stationStream": "https://onlineradiobox.com/json/ua/nikvesti/play?platform=web",
+    "stationName": "NIKVESTI.FM",
+    "stationDescription": "nikvesti.fm – це музичний бекграунд та найсвіжіші новини, найкращі ведучі та цікаві співрозмовники.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/66629.v2.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "lounge",
+      "jazz",
+      "downtempo",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626263299994,
+    "stationStream": "https://c4.radioboss.fm:18064/stream",
+    "stationName": "Радіо Лютер",
+    "stationDescription": "Радіо Лютер - незалежне радіо, яке служить суспільству крізь призму Біблії. Згідно Конституції України, кожна людина має право на думку та позицію. \nЗгідно філософії Радіо Лютер - зуміти достукатися до людей та донести до них Біблійну точку зору в життєво-руйнівних ситуаціях. \nРадіо «Лютер» - це радіо, яке любить людей.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/80390.v4.png",
+    "stationGenres": [
+      "talk",
+      "christian",
+      "variety"
+    ]
+  },
+  {
+    "id": 1626263300520,
+    "stationStream": "https://onlineradiobox.com/json/ua/49parallel/play?platform=web",
+    "stationName": "49 параллель",
+    "stationDescription": "Радио 49'параллель – это независимая компания. Наша миссия заключается в продвижении украинской культуры. Через музыку мы хотим достучаться до сердец слушателей и зародить в них зерно любви к Родине. В новостных блоках мы освещаем жизнь Луганщины, Украины и мира в целом, делая акцент на позитивных изменениях. \n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/74806.v1.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263301219,
+    "stationStream": "https://onlineradiobox.com/json/ua/akkerman/play?platform=web",
+    "stationName": "Akkerman",
+    "stationDescription": "ВСЕГДА С ТОБОЙ! Радио Аккерман 102.9 FM - единственное эфирное средство массовой информации вне областного центра Одесского региона, которое вещает КРУГЛОСУТОЧНО.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/73236.v1.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263302922,
+    "stationStream": "https://onlineradiobox.com/json/ua/active/play?platform=web",
+    "stationName": "Radio Active",
+    "stationDescription": "Radio Active - это первое радио с рок/металл уклоном для украинских слушателей! Здесь как зарубежная музыка так и российская метал-сцена. На нашем радио вы услышите много хорошей и интересной музыки в данном направлении.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/78791.v1.png",
+    "stationGenres": [
+      "rock",
+      "metal"
+    ]
+  },
+  {
+    "id": 1626263303618,
+    "stationStream": "https://onlineradiobox.com/json/ua/kruchi/play?platform=web",
+    "stationName": "Радіо \"Кручі\"",
+    "stationDescription": "Радіо Канівських та обласних авторів та виконавців\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/74452.v3.png",
+    "stationGenres": [
+      "electronic",
+      "rock",
+      "blues",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626263304135,
+    "stationStream": "https://s3.radio.co/s61213333a/listen",
+    "stationName": "GMG Radio",
+    "stationDescription": "GMG Radio - Первая онлайн станция без рекламы, музыка в стилях Hip Hop, Afro, Pop.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/78933.v6.png",
+    "stationGenres": [
+      "r'n'b",
+      "rap",
+      "hip-hop",
+      "african"
+    ]
+  },
+  {
+    "id": 1626263304829,
+    "stationStream": "https://195.78.93.22:8000/oreshki",
+    "stationName": "ОРЕШКИ.FM",
+    "stationDescription": "Ивент радио Одессы\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/68066.v2.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "talk",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263305330,
+    "stationStream": "https://onlineradiobox.com/json/ua/una/play?platform=web",
+    "stationName": "Радіо УНА",
+    "stationDescription": "\"Радіо УНА\".Перша українська націоналістична хвиля. Частота: Радехів 99,1 FM, Гірник 100, 0FM, Бердичів 97,5 FM.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/88559.v1.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263305886,
+    "stationStream": "https://onlineradiobox.com/json/ua/goldenage/play?platform=web",
+    "stationName": "Радіо Симфонія",
+    "stationDescription": "Радіо \"Симфонія\" - це тематична радіостанція, яка була заснована командою радіо \"Ванда-FM Україна\" та \"Первого сетевого канала\".\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/85717.v9.png",
+    "stationGenres": [
+      "classic"
+    ]
+  },
+  {
+    "id": 1626263306747,
+    "stationStream": "https://stream.zeno.fm/mbx1q0e2ctzuv",
+    "stationName": "Radio Felichita Ukrein",
+    "stationDescription": "Radio Felichita  - конечно же, радио о любви и счастья. Его девиз звучит так: все века покорны любви.Здесь вы найдете все о любви. Каждый человек должны посетить это романтическое состояние. Вы не только будете наслаждаться несравненной музыкой , но и сами песни не оставят вас равнодушными. Radio Felita-это онлайн радио, которое посвящено душе человека, ведь именно она поет. Кроме того, интернет-радио всегда помогает нам забыть о заботах и проблемах.Украина Киев\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/85237.v45.png",
+    "stationGenres": [
+      "pop",
+      "italian"
+    ]
+  },
+  {
+    "id": 1626263307297,
+    "stationStream": "https://onlineradiobox.com/json/ua/hviljagir/play?platform=web",
+    "stationName": "Хвиля Гір",
+    "stationDescription": "Pадіо \"Хвиля Гір\" 106,2 fm\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/97790.v8.png",
+    "stationGenres": [
+      "dance",
+      "r'n'b",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263308115,
+    "stationStream": "https://complex.in.ua/live",
+    "stationName": "Вільне Радіо  Жовква",
+    "stationDescription": "«Вільне РАДІО королівського міста» – це цілодобове онлайн – радіо та система вуличних гучномовців розміщених у центральній частині міста. Проект створений для забарвлення Жовківського району у особливу атмосферу тепла та доступу жителів району до важливої і актуальної інформації щодня. Кожен слухач буде поінформований про важливі події регіону, починаючи від оголошеннь про мистецькі чи наукові заходи і закінчуючи повідомленнями про планові відключення електроенергії, води чи знайдені речі. Трансляції соціальних та комерційних роликів, можливість живого спілкування, ретрансляція культурно — масових заходів, ефіри тематичних та авторських програм, важливі коментарі, цікаві інтерв’ю, мегапопулярна тематична музика — це все простір «Вільного РАДІО»! Любимо Вас! До зустрічі на регіональній хвилі Жовківщини!\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/84163.v4.png",
+    "stationGenres": [
+      "pop",
+      "lounge",
+      "ethnic"
+    ]
+  },
+  {
+    "id": 1626263308643,
+    "stationStream": "https://stream.zeno.fm/ug59eq099yzuv",
+    "stationName": "Liqui Radio",
+    "stationDescription": "Liqui Radio - перша українська інтернет-радіостанція, в ефірі якої грає музика в стилі liquid drum & bass, atmospheric drum & bass, класичний drum & bass, chillstep та dubstep.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/87978.v4.png",
+    "stationGenres": [
+      "drum'n'bass"
+    ]
+  },
+  {
+    "id": 1626263309341,
+    "stationStream": "https://myradio24.org/84802",
+    "stationName": "RadioBackground",
+    "stationDescription": "RadioBackground — це аматорське, некомерційне інтернет-радіо, яке орієнтується переважно на ритмічну іноземну музику. Радіо створене для прослуховування вдома, в офісі та на відпочинку. Також ви можете почути нас за допомогою мобільного додатку. Дякую, що ви з нами.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/102267.v3.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "club"
+    ]
+  },
+  {
+    "id": 1626263309900,
+    "stationStream": "https://onlineradiobox.com/json/ua/afm/play?platform=web",
+    "stationName": "Радiо-AFM",
+    "stationDescription": "Радио-AFM - Первое радио города!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/77136.v2.png",
+    "stationGenres": [
+      "news",
+      "variety"
+    ]
+  },
+  {
+    "id": 1626263310622,
+    "stationStream": "https://onlineradiobox.com/json/ua/obozrevatelmolode/play?platform=web",
+    "stationName": "Молоде радіо",
+    "stationDescription": "\"Молоде радіо\" - онлайн-радіостанція, що працює у форматі сучасної української музики. У цілодобовому інтернет-ефірі україномовна музика різних стилів та часів, легенди та молоді виконавці, яких Ти не почуєш більше ніде. Це поп, рок, фольк, шансон, техно, реп, реггі, ска і багато всього іншого.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/433.v5.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263311172,
+    "stationStream": "https://stream.zeno.fm/sd0ra0t06qzuv",
+    "stationName": "Radio Paris fm",
+    "stationDescription": "Radio Paris  fm - конечно же, радио о любви и счастья. Его девиз звучит так: все века покорны любви. Здесь вы найдете все о любви. Каждый человек должны посетить это романтическое состояние. Вы не только будете наслаждаться несравненной музыкой , но и сами песни не оставят вас равнодушными.  это онлайн радио, которое посвящено душе человека, ведь именно она поет. Кроме того, интернет-радио всегда помогает нам забыть о заботах и проблемах.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/94729.v11.png",
+    "stationGenres": [
+      "oldies"
+    ]
+  },
+  {
+    "id": 1626263311671,
+    "stationStream": "https://radioformat.pp.ua/radio1",
+    "stationName": "Формат FM",
+    "stationDescription": "Формат FM. Запорізьке радіо— єдина немережева регіональна радіостанція, мовить у 7 містах Запорізької області - Бердянськ, Приморськ, Мелітополь, Токмак, Пологи, Гуляйполе, Орехів і в районах області, забезпечуючи 70%-ве покриття Запорізької області.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/100220.v2.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263312458,
+    "stationStream": "https://onlineradiobox.com/json/ua/pershiymynicipalnii/play?platform=web",
+    "stationName": "Перший Муніципальний Інтернет-радіоканал",
+    "stationDescription": "Інтернет-радіоканал КП Радіостудії \"Новий двір\" м.Червоноград\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/94527.v4.png",
+    "stationGenres": [
+      "pop",
+      "news"
+    ]
+  },
+  {
+    "id": 1626263313165,
+    "stationStream": "https://onlineradiobox.com/json/ua/city/play?platform=web",
+    "stationName": "Radio City",
+    "stationDescription": "Радио городских ритмов. Мы создали Radio CITY для современных слушателей, для тех, кто любит качественную музыку, в том числе открывает для себя новые украинские имена. Так звучит современная Одесса!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/97121.v2.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263313699,
+    "stationStream": "https://stream.zeno.fm/z9x8zy7747zuv",
+    "stationName": "Кристал FM",
+    "stationDescription": "Кристал FM - новый радиоканал Украины из Волынской области. Тут современных хитов мало. В основном есть старая музыка нулевых и не только. Создано интернет-каналом \"Кристал\". Слушай радио с пользой\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/92864.v8.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263314213,
+    "stationStream": "https://garmonia-stream.fakel.com.ua/1",
+    "stationName": "Гармония мира",
+    "stationDescription": "Радиостанция «Гармония мира» впервые вышла в эфир 19 августа 1996 года, оставаясь до недавних пор локальным культурологическим феноменом, услышать который можно было в Одессе и одесской области. Однако теперь слушать эфир радиостанции могут все желающие в режиме онлайн.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/5/91935.png",
+    "stationGenres": [
+      "talk",
+      "reading"
+    ]
+  },
+  {
+    "id": 1626263314888,
+    "stationStream": "https://onlineradiobox.com/json/ua/karantin/play?platform=web",
+    "stationName": "Radio Карантин",
+    "stationDescription": "Radio Карантин - лучшые хиты для Вас\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/90598.v2.png",
+    "stationGenres": [
+      "rock",
+      "oldies",
+      "indie rock"
+    ]
+  },
+  {
+    "id": 1626263315411,
+    "stationStream": "https://myradio24.org/86785",
+    "stationName": "Style FM",
+    "stationDescription": "Музыкальная редакция RADIO STYLE FM — это люди, которые оценивают музыку с первых аккордов и прислушиваются к мнению остальных изысканных ценителей.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/87160.v2.png",
+    "stationGenres": [
+      "electronic",
+      "lounge",
+      "deep house",
+      "nu disco",
+      "vocal",
+      "soul",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626263316180,
+    "stationStream": "https://s3.radio.co/sa3e464c40/listen",
+    "stationName": "Радіо Ісландія",
+    "stationDescription": "На хвилях українських інтернет-радіостанцій майже немає класики. Тепер виключно таку музику можна цілодобово слухати на «Радіо Ісландія».\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/93208.v3.png",
+    "stationGenres": [
+      "classic"
+    ]
+  },
+  {
+    "id": 1626263316969,
+    "stationStream": "https://liberlandfm.s02.radio-tochka.com:4415/stream",
+    "stationName": "Liberland FM",
+    "stationDescription": "Первое радио криптостраны Liberland.\n\n\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/77550.v3.png",
+    "stationGenres": [
+      "pop",
+      "relax",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263317467,
+    "stationStream": "https://myradio24.org/5287",
+    "stationName": "Привокзальное Радио",
+    "stationDescription": "Только хорошая музыка\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/82390.v5.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "rap"
+    ]
+  },
+  {
+    "id": 1626263318318,
+    "stationStream": "https://onlineradiobox.com/json/ua/voicehorodyshche/play?platform=web",
+    "stationName": "Голос Городищини",
+    "stationDescription": "Радіостанція \"Голос Городищини\" - Все, що вам потрібно на одній хвилі\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/92915.v3.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263319575,
+    "stationStream": "https://listen.myrh.ru/lisfm",
+    "stationName": "LisFm",
+    "stationDescription": "Радиостанция онлайн, 24 часа в сутки и 7 дней в неделю. Радио одного позитива и хорошего настроения ))) Зажигайте по полной вместе с нами.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/79991.v5.png",
+    "stationGenres": [
+      "trance",
+      "disco"
+    ]
+  },
+  {
+    "id": 1626263320357,
+    "stationStream": "https://onlineradiobox.com/json/ua/prischepkin/play?platform=web",
+    "stationName": "Радіо Прищепкін",
+    "stationDescription": "«Radio Прищепкін» – Ukrainian TOP-40\nЗалишайся завжди «свіжим» - слухай сучасну українську популярну музику на інтернет радіостанції відомого івентмейкера, шоумена та радіоведучого Єгора Прищепкіна.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/96364.v4.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626263321069,
+    "stationStream": "https://onlineradiobox.com/json/ua/umpako/play?platform=web",
+    "stationName": "Умпако Радио",
+    "stationDescription": "Независимый сетевой лейбл экспериментальной музыки.\nЭксперимент всегда будет открытием НОВОГО!\nВ данном случае концепция МУЗЫКИ является переменной величиной.\nБеспредельная тотальность выражения момента-истины-бытия.\nВозможность креативного эксперимента - выражать грани уникального-кристалла-артиста. \n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/4/51344.png",
+    "stationGenres": [
+      "dubstep",
+      "pop",
+      "ambient",
+      "chill-out",
+      "alternative",
+      "industrial"
+    ]
+  },
+  {
+    "id": 1626263321807,
+    "stationStream": "https://myradio24.org/46801;stream.nsv",
+    "stationName": "Music Planet.fm",
+    "stationDescription": "Коммерческая музыкальная радиостанция, одна из самых популярных радиостанций в России, Приднестровья, Украины, Белоруссии, Молдавии, Латвии и Казахстана: входит в золотой ТОП-5 лучших и популярных станций. Формат –Music Planet . В эфире звучит советская/российская и зарубежная музыка c 1970-х и посей день. Радиостанция имеет как Music Planet Как целевую аудиторию станции - успешные люди разных возрастов. Они составляют большую часть наших слушателей..\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/75571.v15.png",
+    "stationGenres": [
+      "dance",
+      "club",
+      "retro",
+      "drum'n'bass",
+      "schanson"
+    ]
+  },
+  {
+    "id": 1626263322588,
+    "stationStream": "https://onlineradiobox.com/json/ua/sferamusic/play?platform=web",
+    "stationName": "Радио \"Sfera Music\"",
+    "stationDescription": "Radio Sfera Music - первая Международная коммерческая радиостанция, которая начала свое  вещание   17 октября 2018 года.\n Слушать  Radio Sfera Music можно  во  всех  городах  и  странах  мира,  без ограничений, 24  часа  в  сутки и  365  дней  в  году.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/85070.v2.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "disco"
+    ]
+  },
+  {
+    "id": 1626263323375,
+    "stationStream": "https://onlineradiobox.com/json/ua/nora/play?platform=web",
+    "stationName": "Радіо Nora",
+    "stationDescription": "Радио Nora - Ідеальна станція для прослуховування вдома, під час роботи, в дорозі та під час відпочинку. Гармонія музики і нічого зайвого\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/93800.v2.png",
+    "stationGenres": [
+      "relax"
+    ]
+  },
+  {
+    "id": 1626263323876,
+    "stationStream": "https://onlineradiobox.com/json/ua/aktivnost/play?platform=web",
+    "stationName": "Радио Активность",
+    "stationDescription": "Недержавна музично-інформаційна радіостанція. Музичний формат: у плей-листі - динамічна танцювальна музика. Окрім музичних блоків в ефірі лунають інформаційні блоки від \"Української служби новин\" та порталу \"Обозреватель\", вітальні, проект \"World Radio Chart\" , \"Top Ten\" , вітальні, розважальні та інші програми. Slogan: \"Максимальне прискорення\". Існує як ефірна станція з грудня 2012 року.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/54614.v9.png",
+    "stationGenres": [
+      "dance",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263324389,
+    "stationStream": "https://stream.zeno.fm/0fwnvhuhdwzuv",
+    "stationName": "Радио КарантиН",
+    "stationDescription": "Радио КарантиН - слушай дома!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/93805.v2.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263324899,
+    "stationStream": "https://pub0102.101.ru:8443/stream/reg/mp3/128/region_humor_165",
+    "stationName": "Юмор ФМ",
+    "stationDescription": "«Юмор FM» - это первая и единственная на сегодняшний день радиостанция, основу формата которой составляет качественный юмор.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/101669.v3.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263325415,
+    "stationStream": "https://fikuslv.s02.radio-tochka.com:4735/stream",
+    "stationName": "Радіо Hop",
+    "stationDescription": "Радіо Хоп - живи  заХОПливо\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/85544.v10.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "rock",
+      "pop",
+      "hip-hop"
+    ]
+  },
+  {
+    "id": 1626263325930,
+    "stationStream": "https://online.starfm.pp.ua:8103/air_128",
+    "stationName": "Star FM 104.0 FM",
+    "stationDescription": "Star FM Это станция, в эфире которой звучат топовые исполнители современной электронной музыки,ежедневные радиошоу ведущих диджеев мира подкасты и викторины\nКроме того для наших слушателей мы постоянно расширяем эфир и добавляем станции с различными стилями электронной музыки\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/88309.v6.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "progressive trance",
+      "drum'n'bass"
+    ]
+  },
+  {
+    "id": 1626263326618,
+    "stationStream": "https://onlineradiobox.com/json/ua/cherepakha/play?platform=web",
+    "stationName": "Полосатая Черепаха",
+    "stationDescription": "Радио Полосатая Черепаха слушают те, кому не интересна массовая музыка.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/74493.v10.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "alternative",
+      "punk",
+      "comedy"
+    ]
+  },
+  {
+    "id": 1626263327104,
+    "stationStream": "https://onlineradiobox.com/json/ua/itradio/play?platform=web",
+    "stationName": "ITRADIO",
+    "stationDescription": "IT-RADIO — это первая радиостанция, которая объединяет в себе музыкальное наполнение и новости, конференции и программы из мира IT-технологий.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/77138.v5.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626263327636,
+    "stationStream": "https://m.dreamradiostation.ru:8000/drfm?hash=1615212077557.mp3",
+    "stationName": "Dream Radio Station",
+    "stationDescription": "Только прекрасная музыка, которая заставит ваши уши наслаждаться, а сердце биться чаще...\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/83214.v6.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263328139,
+    "stationStream": "https://onlineradiobox.com/json/ua/zradio/play?platform=web",
+    "stationName": "Z-Radio",
+    "stationDescription": "Z-Radio. Житомир 106.1FM. С шансоном по жизни.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/5/91465.png",
+    "stationGenres": [
+      "chanson"
+    ]
+  },
+  {
+    "id": 1626263328662,
+    "stationStream": "https://onlineradiobox.com/json/ua/respectua/play?platform=web",
+    "stationName": "Respect UA",
+    "stationDescription": "Радіо RESPECT UA - українська онлайн радіостанція, яка транслюється в інтернет-мережі 24/7.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/99189.v2.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "top40",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263329448,
+    "stationStream": "https://onlineradiobox.com/json/ua/christianlive/play?platform=web",
+    "stationName": "Christian Live",
+    "stationDescription": "Christian live Station\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/87867.v3.png",
+    "stationGenres": [
+      "christian",
+      "soft rock"
+    ]
+  },
+  {
+    "id": 1626263329956,
+    "stationStream": "https://stream.volnorez.com/live-app/197221",
+    "stationName": "Радио Пале-Рояль",
+    "stationDescription": "Радио Пале-Рояль - Хорошие песни для хороших людей!\nРадио Пале-Рояль - Самое Одесское радио, которое вещает на весь Мир!\nПрямые эфиры: пн. ср. птн. с 20:30 до 22:00\nУ микрофона Витя Сапожник.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/96061.v4.png",
+    "stationGenres": [
+      "chanson"
+    ]
+  },
+  {
+    "id": 1626263330664,
+    "stationStream": "https://onlineradiobox.com/json/ua/kuresh/play?platform=web",
+    "stationName": "Радіо \"Куреш\"",
+    "stationDescription": "Радіо Куреш, це перше громадське кримськотатарське радіо та прокакшн студія.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/75944.v2.png",
+    "stationGenres": [
+      "folk",
+      "culture",
+      "politics"
+    ]
+  },
+  {
+    "id": 1626263331167,
+    "stationStream": "https://stream.zeno.fm/sb0v1ne2w7zuv",
+    "stationName": "Radio Felichita Рай на двоих",
+    "stationDescription": "у нас прекрасная музыка которая вас поднимет настроение на отдыхе и дома и в работе\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/92467.v8.png",
+    "stationGenres": [
+      "pop",
+      "retro",
+      "chanson"
+    ]
+  },
+  {
+    "id": 1626263331858,
+    "stationStream": "https://fm.1tvcrimea.ru:19000/stream.mp3",
+    "stationName": "Радио Крым 100.1",
+    "stationDescription": "Все про жизнь полуострова. Нас слушает весь Крым в FM.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/101647.v2.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263332655,
+    "stationStream": "https://onlineradiobox.com/json/ua/vintag/play?platform=web",
+    "stationName": "Vintage Radio Ukraine",
+    "stationDescription": "Радио \"ВИНТАЖ\" - это радио, на которой вы услышите винтажную музыку, которая знакомая только истинным меломанам. Только на радио \"ВИНТАЖ\" вы услышите лучшую музыку, которая хоть где-то попадалась в коллекции\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/86003.v7.png",
+    "stationGenres": [
+      "variety"
+    ]
+  },
+  {
+    "id": 1626263333163,
+    "stationStream": "https://retrosonic.pp.ua/radio/8010/grooves.mp3",
+    "stationName": "RetroSonic Grooves",
+    "stationDescription": "RetroSonic Grooves - A unique selection of Funk, Soul, Disco, Afrobeat, Fusion, AOR and Rare Grooves.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/83849.v6.png",
+    "stationGenres": [
+      "disco",
+      "jazz",
+      "soul",
+      "funk",
+      "groove"
+    ]
+  },
+  {
+    "id": 1626263333678,
+    "stationStream": "https://minatrix.fm/stream/",
+    "stationName": "Minatrix.FM",
+    "stationDescription": "Minatrix.FM представляет собой современный прогрессивный проект онлайн радио в музыкально-развлекательном формате. Здесь вы услышите авторские программы самых популярных отечественных и зарубежных ди-джеев, прямые трансляции клубов города.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/89535.v3.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "trance",
+      "house",
+      "dubstep",
+      "techno",
+      "progressive house",
+      "deep house",
+      "electro house",
+      "club",
+      "drum'n'bass",
+      "dj",
+      "mash-up"
+    ]
+  },
+  {
+    "id": 1626263334187,
+    "stationStream": "https://onlineradiobox.com/json/ua/hristadelfiane/play?platform=web",
+    "stationName": "Христадельфиане",
+    "stationDescription": "Библейская радиостанция, вещающая для всех русско-говорящих христадельфиан.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/9/74089.png",
+    "stationGenres": [
+      "talk",
+      "gospel"
+    ]
+  },
+  {
+    "id": 1626263335592,
+    "stationStream": "https://onlineradiobox.com/json/ua/dradio/play?platform=web",
+    "stationName": "D-Radio",
+    "stationDescription": "WELCOME!\nOnly nice & good quality music from whole world and interesting radioshow's - made to impress you're feelings!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/64926.v2.png",
+    "stationGenres": [
+      "r'n'b",
+      "pop",
+      "talk",
+      "club"
+    ]
+  },
+  {
+    "id": 1626263336087,
+    "stationStream": "https://pub0102.101.ru:8443/stream/reg/mp3/128/region_humor_163",
+    "stationName": "Юмор ФМ",
+    "stationDescription": "«Юмор FM» - это первая и единственная на сегодняшний день радиостанция, основу формата которой составляет качественный юмор.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/101668.v3.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263336585,
+    "stationStream": "https://heroic-strike-radio.co.ua/sstream",
+    "stationName": "Heroic Strike Radio",
+    "stationDescription": "Epic Music Radio Station For Gamers By Gamers!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/96486.v2.png",
+    "stationGenres": [
+      "dubstep",
+      "games music"
+    ]
+  },
+  {
+    "id": 1626263337092,
+    "stationStream": "https://onlineradiobox.com/json/ua/sumdu/play?platform=web",
+    "stationName": "Радіо СумДУ",
+    "stationDescription": "Інтернет радіо Сумського державного університету\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/85706.v2.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263337788,
+    "stationStream": "https://myradio24.org/kvartirnik",
+    "stationName": "Радио Квартирник",
+    "stationDescription": "Радио \"Квартирник\" - радио Славянских музыкантов, их друзей и друзей их друзей)\nПесни в акустическом исполнении.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/93090.v3.png",
+    "stationGenres": [
+      "rock",
+      "bard"
+    ]
+  },
+  {
+    "id": 1626263338320,
+    "stationStream": "https://onlineradiobox.com/json/ua/svoe/play?platform=web",
+    "stationName": "Свое Radio Краматорськ",
+    "stationDescription": "Наша місія: вдихнути нове життя в Краматорськ, наповнити його новими сенсами, сприяти культурному, творчому і економічному розвитку міста.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/94982.v6.png",
+    "stationGenres": [
+      "pop",
+      "culture",
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 1626263339011,
+    "stationStream": "https://onlineradiobox.com/json/ua/hitladgin/play?platform=web",
+    "stationName": "Хіт FM Ладижин 101,1",
+    "stationDescription": "Ладижинська недержавна розважально-інформаційна радіостанція.\nРетранслює програми одноіменної станції з Києва, до яких додаються місцеві включення (рекламні блоки).\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/101611.v4.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "r'n'b",
+      "disco",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263339523,
+    "stationStream": "https://onlineradiobox.com/json/ua/vatansedasi/play?platform=web",
+    "stationName": "Ватан Седасы",
+    "stationDescription": "Ватан седасы керчектенде Къырымнынъ гурь сеси! Бутюн кунь девамында шенъ алыпбарыджылар кейфлеринизнинъ яхшы олмасы огърунда чалышаджакълар. Сизлерни аджайип рубрикалар, Къырымнынъ энъ белли инсанлары иле меракълы суббетлер, беклей. Ватанымызнынъ бутюн кошелеринде къырымтатар сеси янъгъыраджакъ! Мытлакъкъа радиомызны динъленъиз, биз сизлер ичюн чалышамыз! 99,5 далгъасында къырымтатар музыка ве нагъмелерни эшите билесинъиз!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/101665.v4.png",
+    "stationGenres": [
+      "news",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626263340043,
+    "stationStream": "https://onlineradiobox.com/json/ua/bibliowave/play?platform=web",
+    "stationName": "BiblioWave - музика для читання",
+    "stationDescription": "Бібліотечне радіо – це чудовий простір для популяризації нової літератури, бібліотечних послуг, а також реальна можливість для піару молодих авторів.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/101440.v2.png",
+    "stationGenres": [
+      "talk",
+      "relax",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 1626263340538,
+    "stationStream": "https://avers.pp.ua/hls_radio/efir.m3u8",
+    "stationName": "Аверс FM",
+    "stationDescription": "Телекомпанія \"Аверс\"\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/105500.v1.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263341321,
+    "stationStream": "https://video1.getstreamhosting.com:8298/stream",
+    "stationName": "Радіо 7",
+    "stationDescription": "Радіо 7 - завжди добре налаштоване радіо на хвилях 91,5/88,6 Fm\nДобра музика, актуальні новини, цікаві програми - це Радіо7!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/101417.v2.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263341810,
+    "stationStream": "https://sndria.gcdn.co/voicesym",
+    "stationName": "Спутник в Крыму",
+    "stationDescription": "Новости Крыма, России и мира\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/101640.v4.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263342502,
+    "stationStream": "https://onlineradiobox.com/json/ua/poleznoye/play?platform=web",
+    "stationName": "Полезное радио",
+    "stationDescription": "Первая Хитовая развлекательная радиостанция в Юго Восточном Крыму.\nПервая станция в городе Феодосии. И по возрасту и по рейтингу. Высокое доверие аудитории.\nПолностью МЕСТНОЕ круглосуточное вещание 24 часа в сутки. \nНовости которые рядом,\nМестная погода текущая и прогноз - самые точные, \nМузыка которая улучшает настроение , \nГороскоп - ну куда же без него , \nсобственные авторские программы - посмотрите нашу сетку вещания. \nДинамика ,Темп и ХОРОШЕЕ настроение - поэтому радио и ПОЛЕЗНОЕ !.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/101709.v2.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263343200,
+    "stationStream": "https://onlineradiobox.com/json/ua/newday1006/play?platform=web",
+    "stationName": "NewDay FM 100.6",
+    "stationDescription": "Радиостанция NewDay FM работает в формате взрослый CHR – поп- и танцевальные хиты из актуальных мировых и украинских чартов, а также лучших композиций от 2010-х.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/105693.v1.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263343747,
+    "stationStream": "https://stream.zeno.fm/c1789prqga0uv",
+    "stationName": "Weradio",
+    "stationDescription": "Weradio - Nostalgia radio!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/96827.v5.png",
+    "stationGenres": [
+      "dance",
+      "trance",
+      "90s",
+      "00s",
+      "80s",
+      "oldies",
+      "dj",
+      "10s",
+      "dance pop"
+    ]
+  },
+  {
+    "id": 1626263344471,
+    "stationStream": "https://onlineradiobox.com/json/ua/sidfm/play?platform=web",
+    "stationName": "СіД FM",
+    "stationDescription": "СІД FM – це динамічне радіо. Ми не стоїмо на місці, а постійно перебуваємо в русі!\nФормат – сучасна популярна та рок-музика наших днів та найкращі хіти 80–90-х років XX століття (якісна поп та рок-музика, сучасна танцювальна музика, частково – сучасний рок та альтернатива). Особлива ставка - на україномовну музику, яка становить 1/2 частину ефіру.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/96002.v1.png",
+    "stationGenres": [
+      "dance",
+      "rock",
+      "pop",
+      "alternative"
+    ]
+  },
+  {
+    "id": 1626263344990,
+    "stationStream": "https://onlineradiobox.com/json/ua/avtoradio1059/play?platform=web",
+    "stationName": "Авторадио",
+    "stationDescription": "В эфире Авторадио звучат песни российских и зарубежных авторов и исполнителей всех жанров и направлений, трансляция концертов, программы по заявкам и т.д. А также короткие информационные новостные программы о текущих событиях, специализированные новостные информационные программы об оперативной дорожной обстановке, опасностях, законах и постановлениях, имеющих отношение к дорожному движению или участникам дорожного движения, информация от ГИБДД, комментирование событий, имеющих значение для аудитории (в том числе и политических), репортажи, интервью, ток-шоу, игры, программы развлекательного и культурно-просветительского характера и т.д.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/101662.v3.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263345716,
+    "stationStream": "https://onlineradiobox.com/json/ua/season/play?platform=web",
+    "stationName": "Радио Сезон",
+    "stationDescription": "Радио Сезон — это самые свежие хиты российской эстрады и интересные рубрики для талантливых исполнителей.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/98955.v5.png",
+    "stationGenres": [
+      "dance",
+      "r'n'b",
+      "pop",
+      "hip-hop",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626263346407,
+    "stationStream": "https://kpradio.hostingradio.ru:8000/sevastopol.radiokp128.mp3?utm_source=radiokp.ru",
+    "stationName": "Комсомольская правда",
+    "stationDescription": "Радио «Комсомольская Правда» - это сетевая информационно-разговорная радиостанция, которая начала свою работу в 2009 году.\nНад тем, чтобы эфир был интересным, работают более 800 журналистов (в том числе международников) знаменитой «Комсомолки». Выпуски новостей выходят каждые 15 минут, рассказывая о главных событиях России и мира. В студию приходят политики, ведущие экономисты, политологи и бизнесмены, известные музыканты и режиссеры.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/101704.v5.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626263346931,
+    "stationStream": "https://onlineradiobox.com/json/ua/podilske/play?platform=web",
+    "stationName": "Подільське радіо",
+    "stationDescription": "Ладижинська розважально-інформаційна радіостанція. Створюємо гарний настрій.\nОкрім музичних блоків в ефірі станції звучать ранкове шоу,інформаційні, cуспільно-політичні, вітальні програми та інші передачі і найкращі хіти.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/95639.v12.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "news",
+      "talk",
+      "retro"
+    ]
+  },
+  {
+    "id": 1626263347461,
+    "stationStream": "https://onlineradiobox.com/json/ua/hi/play?platform=web",
+    "stationName": "Radio Hi",
+    "stationDescription": "Радиостанция «Radio Hi»- это онлайн радиостанция из Украины, всегда радует свежей музыкой и дарит хорошее настроение слушателям!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/100603.v2.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626263348174,
+    "stationStream": "https://stream.zeno.fm/swyh8kws108uv",
+    "stationName": "Перше Лібертаріанське",
+    "stationDescription": "Ми, єдина Лібертаріанська партія України «5.10», стверджуємо наступні цінності і пріоритети. Право заробляти гроші є природним і невідчужуваним правом будь-якого громадянина України. Таким же важливим і першочерговим, як право на життя і щастя. Людина має право заробляти стільки, скільки він може заробити, і всякі штучні обмеження і бар'єри між громадянином України та його можливостями заробляти повинні бути усунені. Основа добробуту країни - це добробут її громадян. Тому ми, Партія «5.10», заявляємо: економіка України повинна спиратися на малий і середній бізнес. Населення країни - найцінніший ресурс, який у нас є. Тому держава повинна заохочувати природне бажання особистості домогтися добробуту для себе і своєї сім'ї. Саме підприємництво і економічний успіх є тим потужним двигуном, який перезапустить економіку країни. Ми максимально спростимо умови ведення бізнесу. Ми зробимо податки мінімальними, простими, однаковими для всіх і справедливими. Ми позбавимо державних чиновників і олігархат самої можливості обкрадати населення. А це, в свою чергу, створить: - нові робочі місця, - сприятливе середовище для виробництва, - привабливе середовище для інвестицій, - підвищення рівня доходів населення. Політична Партія «5.10» висуває нову систему цінностей - матеріальний успіх громадянина України вище державних інтересів!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/105588.v3.png",
+    "stationGenres": [
+      "talk",
+      "business",
+      "politics"
+    ]
+  },
+  {
+    "id": 1626263348675,
+    "stationStream": "https://air.radiolla.com/radiolla.128k.mp3?",
+    "stationName": "Radiolla",
+    "stationDescription": "Radiolla - metamodern radio. We believe that music is a way to human transformation.\n\tБільше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/77528.v13.png",
+    "stationGenres": [
+      "downtempo",
+      "easy listening"
+    ]
+  },
+  {
+    "id": 1626263349188,
+    "stationStream": "https://stream.zeno.fm/xqvzfefnbd0uv",
+    "stationName": "Radio Felichita - Romantic",
+    "stationDescription": "Добро пожаловать на Radio Felichita - Romantic\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/94077.v5.png",
+    "stationGenres": [
+      "variety"
+    ]
+  },
+  {
+    "id": 1626263349709,
+    "stationStream": "https://onlineradiobox.com/json/ua/pulyny/play?platform=web",
+    "stationName": "Радіо Пулини",
+    "stationDescription": "Радіо \"Пулини\" - нова інтернет-радіостанція, назва якої походить від назви смт. Пулини (Житомирська область).\nВ форматі радіостанції музичні новинки та хіти минулих років, а також інформаці Пулинського району.\nСлоган радіостанції: Радіо \"Пулини\" - Найбільший вибір музики!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/92807.v3.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  }
+]

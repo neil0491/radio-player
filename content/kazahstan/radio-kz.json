@@ -1,0 +1,465 @@
+[
+  {
+    "id": 31,
+    "stationStream": "https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8",
+    "stationName": "Европа Плюс Казахстан",
+    "stationDescription": "Европа Плюс - первая в России коммерческая радиостанция, которая начала свое  вещание в апреле 1990 года. На текущий момент слушать Европу Плюс можно в более 2000 городах страны, которые охватываются 300 передатчиками и спутниковым вещанием. В эфире звучит популярная музыка разных стилей и направлений, среди которой вы услышите последние хиты самых ярких музыкальных отечественных и западных звезд. Радио Европа Плюс - это заряд положительных эмоций на весь день!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/30747.v9.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop"
+    ]
+  },
+  {
+    "id": 32,
+    "stationStream": "http://89.219.35.26:8000/radions",
+    "stationName": "Радио NS",
+    "stationDescription": "NS – бренд целиком и полностью наш, родной, казахстанский, на рынке появился 6 марта 1995 года. Тогда мы зазвучали в Южной столице, а в 1997 – в крупнейших городах страны. С тех пор сеть значительно разрослась и сегодня в 70 крупнейших населенных пунктах круглые сутки вещает самое-самое радио земли казахской – NS!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/392.v7.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 33,
+    "stationStream": "http://95.56.234.40:8080/AVTORADIO_AAC",
+    "stationName": "Авторадио",
+    "stationDescription": "Музыкальный формат «Авторадио» рассчитан на любое возрастное поколение – здесь можно услышать хиты из последних мировых чартов и шлягеры прошлых лет.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/391.v5.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 34,
+    "stationStream": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "stationName": "Қазақ радиосы",
+    "stationDescription": "Қазақ радиосы – Қазақстан тұрғындарына, ТМД елдерінде және шет елдерде тұратын қазақ тыңдармандарына хабар тарататын радио желі. Қазақ радиосы хабарлары  Астана мен Алматыдан берілетін радио хабарынан және облыс орталықтары хабарынан тұрады. Хабарлар ұзын, орта, қысқа және ультрақысқа толқындарда жұмыс істейтін радио станциялары арқылы таратылады.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/30712.v6.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 35,
+    "stationStream": "https://stream.gakku.tv:8443/dacha",
+    "stationName": "Радио Дача",
+    "stationDescription": "Радио Дача – это всеми любимые ностальгические композиции 80-х и 90-х годов минувшего века и самые успешные песни наших дней!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/80021.v3.png",
+    "stationGenres": [
+      "pop",
+      "retro",
+      "hits"
+    ]
+  },
+  {
+    "id": 36,
+    "stationStream": "https://myradio24.org/5967",
+    "stationName": "90s Eurodance",
+    "stationDescription": "Радио 90s Eurodance - любительская интернет-радиостанция. В эфире звучит музыка тех времён.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/9879.v5.png",
+    "stationGenres": [
+      "disco",
+      "retro",
+      "90s"
+    ]
+  },
+  {
+    "id": 37,
+    "stationStream": "http://91.201.214.229:8000/zhulduz",
+    "stationName": "Жулдыз ФМ",
+    "stationDescription": "\"Жұлдыз FM\" тыңдармандарға қазақша сапалы контент ұсынуды, жастардың биік құндылықтарын қалыптастыруды және олардың қомақты ақпарат ағыны арасынан дұрыс бағытты таңдауына көмектесуді көздейді.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/71768.v4.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 38,
+    "stationStream": "https://icecast.luxfm.kz/luxfm",
+    "stationName": "Radio Lux FM",
+    "stationDescription": "Развлекательное радио №1\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/82324.v7.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 39,
+    "stationStream": "http://89.219.34.117:8008/NEWENERGY",
+    "stationName": "Energy FM",
+    "stationDescription": "«Energy FM» - это вкусный микс из качественного звука, обратной связи со слушателем, новостных и развлекательных шоу-программ, а также новейших треков популярных мировых исполнителей. \n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/400.v1.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 310,
+    "stationStream": "http://onair.radioice.ru:8000/mp3_128",
+    "stationName": "Radio Ice",
+    "stationDescription": "Radio ICE - Радио модных и стильных! Некоммерческое, экологически чистое радио для отдыха и хорошего настроения создано командой профессионалов своего дела! Никакой рекламы и официальной информации! Только музыка и позитив! Мы не попадаем ни под один известный формат. Мы оригинальны. В нашем эфире звучит всё лучшее от золотых до современных хитов!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/405.v7.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 311,
+    "stationStream": "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio",
+    "stationName": "Радио Астана",
+    "stationDescription": "Радио «Астана» - государственная информационно-музыкальная радиостанция. Эфир станции заполняется новинками Казахстанской и европейской музыки, краткими сводками новостей, а также интерактивными прямыми эфирами.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/30715.v6.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "folk"
+    ]
+  },
+  {
+    "id": 312,
+    "stationStream": "http://95.56.234.40:8080/DALA_128",
+    "stationName": "Народное радио",
+    "stationDescription": "«Народное радио» является 100% казахстанским продуктом!\nНаслаждайся! Без лишних слов!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/71777.v10.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 313,
+    "stationStream": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+    "stationName": "Шалқар Радиосы",
+    "stationDescription": "«Шалқар» ұлттық арнасы 1966 жылдың 1-қаңтарында ақпаратты-сазды «Шалқар» бағдарламасы ретінде тұсауын кесті. 1998 жылы жұмысын уақытша тоқтатқанымен, 2002 жылы қайта ашылып, алғашында тек Алматы қаласының көлемінде ғана хабар таратты. Кейіннен эфир уақыты ұлғайып, республика аумағына тарай бастады.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/30702.v9.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 315,
+    "stationStream": "http://91.201.214.229:8000/tengrifm",
+    "stationName": "Тенгри FM",
+    "stationDescription": "Казахстанская радиостанция «Тенгри FM» позиционирует себя как мировая энциклопедия рока. Также, в эфире звучат казахстанские рок группы.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/399.v5.png",
+    "stationGenres": [
+      "rock"
+    ]
+  },
+  {
+    "id": 341,
+    "stationStream": "https://stream.laut.fm/radiobulbul",
+    "stationName": "Radio Bulbul",
+    "stationDescription": "Казахстанское радио где звучат золотые хиты, фолк и этно произведения отечественной эстрады.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/3257.v8.png",
+    "stationGenres": [
+      "folk",
+      "hits",
+      "kazakh"
+    ]
+  },
+  {
+    "id": 316,
+    "stationStream": "http://s0.radioheart.ru:8000/RH41924",
+    "stationName": "Юмор FM Казахстан",
+    "stationDescription": "Сложно описать радиостанцию на бумаге - ее надо слушать. Мы смогли найти оптимальный баланс между музыкой и информацией, между отечественными и зарубежными композициями.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/30718.v18.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "top40"
+    ]
+  },
+  {
+    "id": 317,
+    "stationStream": "https://lux-radio.com:8005/stream",
+    "stationName": "Lux Radio",
+    "stationDescription": "Радио современных хитов. Основу музыкального наполнения составляют наиболее популярные текущие хиты, определяющиеся с помощью различных чартов.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/81460.v3.png",
+    "stationGenres": [
+      "top40"
+    ]
+  },
+  {
+    "id": 318,
+    "stationStream": "http://46.105.180.202:8021/stream.ogg",
+    "stationName": "Радио Sana",
+    "stationDescription": "Современное хитовое радио с преобладанием хитов в стиле поп.\nКоличество информации, включая короткие рубрики, выпуски новостей и рекламу, не превышает 10-25% эфирного времени, остальное - музыка!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/30741.v2.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 319,
+    "stationStream": "https://a1.radioheart.ru:9001/RH20072",
+    "stationName": "Радио Тандем",
+    "stationDescription": "«Тандем» - это первая национальная радиостанция на Западе Казахстана, вещающая в трех крупных городах: Атырау, Актау и Актобе.\nОсновная аудитория радиостанции «Тандем» в трех городах это люди самого разного возраста уверенные в своем завтрашнем дне. Радио «Тандем» - это лучшая музыка минувшего времени и наших дней, самые интересные и рейтинговые программы, и самая эффективная реклама!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/85600.v15.png",
+    "stationGenres": [
+      "pop",
+      "top40",
+      "adult contemporary"
+    ]
+  },
+  {
+    "id": 320,
+    "stationStream": "http://radiokn.ddns.net:7000/56?",
+    "stationName": "Радио КН",
+    "stationDescription": "Радио КН - это информационно-музыкальная радиостанция, вещающая на русском и казахском языках 24 часа в сутки.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/416.v13.png",
+    "stationGenres": [
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 321,
+    "stationStream": "http://82.118.17.75:8000/RusRadio_Kostanai",
+    "stationName": "Русское Радио Костанай",
+    "stationDescription": "Русское Радио Костанай - Это Интернет Радиостанция вещающая из Костаная с 2013 года, на нашей волне звучат только самые популярные Русские песни!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/87126.v29.png",
+    "stationGenres": [
+      "pop",
+      "retro"
+    ]
+  },
+  {
+    "id": 322,
+    "stationStream": "https://s0.radioheart.ru:8000/RH41867",
+    "stationName": "Жаңа FM",
+    "stationDescription": "Слушайте Новое Радио/Жаңа FM — радио родного города!\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/86588.v15.png",
+    "stationGenres": [
+      "90s",
+      "00s",
+      "80s",
+      "70s",
+      "60s"
+    ]
+  },
+  {
+    "id": 323,
+    "stationStream": "https://edge01.daitsuna.net/orda/orda/icecast.audio",
+    "stationName": "Радио Орда",
+    "stationDescription": "Орда ФМ - это доступный ресурс актуального потока информации, подающейся на фоне самой лучшей музыки. ORDA FM максимально открыт для слушателя.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/417.v5.png",
+    "stationGenres": [
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 340,
+    "stationStream": "http://109.248.236.142:8000/;stream.nsv",
+    "stationName": "Алау",
+    "stationDescription": "Музыкальный формат радио «Алау» рассчитан на широкую аудиторию: здесь Вы услышите и хиты из последних мировых чартов и шлягеры прошлых лет.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/403.v3.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 324,
+    "stationStream": "http://94.247.130.243:5050/city",
+    "stationName": "Radio City Almaty",
+    "stationDescription": "Radio City Almaty - \"Ритм нашего города\". Алматинская радиостанция. Позиционируем себя - лучшее Алматинское Радио. Позитивные новости, ежедневный обзор событий и мероприятий Алматы, развлекательные шоу (утром, днем и вечером), море призов, розыгрышей и подарков, звездные гости и так далее.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/84554.v2.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "entertainment",
+      "hits"
+    ]
+  },
+  {
+    "id": 325,
+    "stationStream": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+    "stationName": "Radio Classic",
+    "stationDescription": "«Classic» радиосы  2011 жылдың 6 маусымынан бастап 102,8 ҒМ жиілігінде Алматыдан хабар тарата бастады.  2013 жылдың 22 желтоқсанында радио Астана қаласында 102,7 FM жиілігінде эфирге шықты.     \n\nҚазақстандағы және Орта Азиядағы тұңғыш классикалық музыка радиосы -   «Қазақстан» РТРК АҚ және Құрманғазы атындағы Қазақ Ұлттық консерваториясының  біріккен жобасы.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/30716.v10.png",
+    "stationGenres": [
+      "classic"
+    ]
+  },
+  {
+    "id": 326,
+    "stationStream": "http://eu2.radioboss.fm/proxy/starkidsfm?mp=/stream",
+    "stationName": "Starkids.fm",
+    "stationDescription": "Звездное! Первое! Детское! Starkids.fm - Первая профессиональная, не по-детски детская радиостанция! Эфир, который делают сами дети!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/50150.v3.png",
+    "stationGenres": [
+      "dance",
+      "disco",
+      "pop",
+      "hip-hop"
+    ]
+  },
+  {
+    "id": 327,
+    "stationStream": "https://listen.myrh.ru/id042551",
+    "stationName": "Radio ART",
+    "stationDescription": "Radio ART — первая онлайн радиостанция Казахстана, которая предлагает своим слушателям широкий жанровый спектр музыки. Radio ART — это заряд положительных и креативных эмоций на весь день!\n\nRadio ART — круглосуточно заряжает и поддерживает хорошее настроение своих слушателей яркой, прогрессивной и интересной музыкой разных направлений.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/98577.v10.png",
+    "stationGenres": [
+      "pop",
+      "top40",
+      "danсe"
+    ]
+  },
+  {
+    "id": 328,
+    "stationStream": "https://music.geometryfm.ru/radio/8010/geometryfm320",
+    "stationName": "GFM",
+    "stationDescription": "Радио Geometry Fm вещает 24 часа в сутки.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/62916.v17.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 329,
+    "stationStream": "http://sat.radio-betelgeuse.com:8000/live",
+    "stationName": "Радио Бетельгейзе",
+    "stationDescription": "Когда космические корабли бороздят просторы вселенной, их отважные капитаны слушают Radio Betelgeuse.Radio Betelgeuse вещает 24 земных часа, что составляет 0,0044503 венерианских суток или 0,0014956 марсианского года. Космическая студия находится на орбите альфы Ориона (Бетельгейзе), от Земли ее отделяют 640 световых лет, но благодаря тахионным передатчикам, наш сигнал доносится во все концы вселенной с минимальной задержкой. Когда космические корабли бороздят просторы вселенной, их отважные капитаны слушают Radio Betelgeuse. \n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/2/29082.png",
+    "stationGenres": [
+      "electronic",
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 330,
+    "stationStream": "https://a4.radioheart.ru:9036/RH13170",
+    "stationName": "Татарское Радио ТМК",
+    "stationDescription": "Радио ТМК - татарская музыка из Казахстана. Вещает радио с 21 мая 2010 года из г. Актобе (Актюбинск).\nЭто первая национальная радиосеть качественной татарской песни в Казахстане, которая поддерживает радиослушателя, создает уютную атмосферу и позволяет заглянуть внутрь себя. Спокойная татарская музыка для души.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/83894.v1.png",
+    "stationGenres": [
+      "folk",
+      "relax"
+    ]
+  },
+  {
+    "id": 331,
+    "stationStream": "http://s3.radioboss.fm:8015/stream",
+    "stationName": "EDM Classic",
+    "stationDescription": "Classic EDM - станция с легендарными EDM треками, музыкой которая заставляет пустить слезу по временам восхождения танцевальной электронной музыки в массы, когда впервые зазвучал первый трек от мировых DJ на тв и радио. Это то самое время, которое невозможно забыть, то время, которое оставило большой след в культуре электронно-танцевальной музыки во всех странах мира.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/87080.v3.png",
+    "stationGenres": [
+      "electronic"
+    ]
+  },
+  {
+    "id": 332,
+    "stationStream": "https://lux-radio.com:8015/stream",
+    "stationName": "Russian Dance Radio",
+    "stationDescription": "Лучшие танцевальные хиты последних лет.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/99521.v1.png",
+    "stationGenres": [
+      "dance",
+      "russian"
+    ]
+  },
+  {
+    "id": 333,
+    "stationStream": "https://kvs01.businessfm.kz/businessfm",
+    "stationName": "Business FM",
+    "stationDescription": "Радио Business FM вещает в городах Нур-Султан на волне 105,4 FM, Алматы на волне 89,6 FM, Шымкент - 107,7 FM.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/3/95863.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 334,
+    "stationStream": "http://onair.palmerablanca.com:8000/stream.mp3",
+    "stationName": "Palmera Blanca",
+    "stationDescription": "Радио вещает музыку в жанрах лаунж, чилаут, эмбиент, латино, IDM.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/410.v6.png",
+    "stationGenres": [
+      "lounge",
+      "ambient",
+      "chill-out",
+      "latin"
+    ]
+  },
+  {
+    "id": 335,
+    "stationStream": "https://streamingv2.shoutcast.com/talapuralsk",
+    "stationName": "Радио Талап",
+    "stationDescription": "Радио \"Талап\" - для тех, кто любит Уральск!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/87298.v2.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 336,
+    "stationStream": "https://a8.radioheart.ru:9033/OSTROVOK",
+    "stationName": "ОстровОК!",
+    "stationDescription": "Музыкальный островок, где всё ОК!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/103488.v2.png",
+    "stationGenres": [
+      "dance",
+      "pop",
+      "lounge",
+      "chill-out",
+      "chanson"
+    ]
+  },
+  {
+    "id": 337,
+    "stationStream": "https://v1.catcast.tv/radio/39892.mp3",
+    "stationName": "Радио Азамат",
+    "stationDescription": "На Радио Азамат представлены авторские песни, шансон, поп-музыка.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/101021.v1.png",
+    "stationGenres": [
+      "pop",
+      "folk",
+      "chanson"
+    ]
+  },
+  {
+    "id": 338,
+    "stationStream": "http://myradio24.org/37928",
+    "stationName": "Soul Fm Almaty",
+    "stationDescription": "Разнообразная и душевная музыка. Радио вещает из города Алматы.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/7/100197.v1.png",
+    "stationGenres": [
+      "pop",
+      "lounge",
+      "ambient",
+      "chill-out"
+    ]
+  },
+  {
+    "id": 339,
+    "stationStream": "http://stream2.n340.com/12_love_28_reg_23737?",
+    "stationName": "Love Radio",
+    "stationDescription": "Музыкальная волна Love Radio, хорошо сформированный и узнаваемый от конкурентов образ.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/54842.v33.png",
+    "stationGenres": [
+      "adult contemporary"
+    ]
+  }
+]

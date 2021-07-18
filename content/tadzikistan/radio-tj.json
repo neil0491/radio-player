@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1626251432193,
+    "stationStream": "https://c24.radioboss.fm:18166/stream",
+    "stationName": "Kand FM",
+    "stationDescription": "Нахустин радиои шахри Конибодом\nСалом мухлисони азиз! Баъзан корхои техники меравад ва радио барои мухлисон дастнорас мегардад. узр мехохем, барои бартараф кардани корхои техники мо кушиш ба сарфа намуда истодаем. Манзарат мехохем барои норохат кардани Шумо, айни замон радио тарики онлайн рафта истодааст, гуш кунед ва халоват баред\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/84342.v8.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 1626251437737,
+    "stationStream": "https://c16.radioboss.fm:18234/stream",
+    "stationName": "РАДИО \"Диёр\"",
+    "stationDescription": "Радио «Диёр» (название склоняется на слова «родина, край») информационно-развлекательная радиостанция, вещающая на диапазоне 105,5 и 95,5 FM в Согдийской области. Образован в сентябре 2011г. в Аштском районе и позиционируется как патриотическое радио. Официальное открытие радиостанции осуществилось 7 мая 2012г. Студия расположена в центре Аштского района – в поселке Шайдан (рядом со зданием редакции газеты «Шухрати Ашт»).\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/43262.v2.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 1626251443792,
+    "stationStream": "http://62.122.137.82:8020/ap",
+    "stationName": "Радио Азия Плюс",
+    "stationDescription": "Радио «Азия-Плюс» - это радио для современных, образованных, успешных, свободных, весёлых и открытых для всего нового людей! Это в полной мере можно отнести и к рекламной политике радиостанции. Ваша реклама будет качественной, запоминающейся, интересной, но, главное, она будет работать! Работать на вас!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/43260.v5.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626251449167,
+    "stationStream": "https://freeus1.listen2myradio.com/live.mp3?typeportmount=s1_12236_stream",
+    "stationName": "Ҷавонӣ ФМ",
+    "stationDescription": "Онлайн радио бо формати нав.\nМо кормандони \"Ҷавонӣ ФМ\" барномаҳоеро бо  формати нав пешниҳод менамоем,ки шумо худро дар фазои Ватан эҳсос хоҳед кард.Шумо метавонед аз плей маркет барномаи \"JaVoNiFM-RaDiO\"-ро ба смартфонҳои худ насб карда давоми 24 соат гуш карда бошед ва тариқи ин барнома шумо паёмҳои хешро низ ирсол карда метавонед\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/89905.v9.png",
+    "stationGenres": [
+      "variety"
+    ]
+  },
+  {
+    "id": 1626251455333,
+    "stationStream": "http://217.11.177.201:8000/sr128",
+    "stationName": "Radio Vatan",
+    "stationDescription": "Радио «Ватан»- Родное Радио!\n«Ватан» - крупнейшая, независимая,  круглосуточная радиостанция и единственная из частных, вещающая во всех регионах Таджикистана. Первый эфир состоялся 7 мая 2003 года, в профессиональный праздник всех работников радио и связи. Радио \"Ватан\" наряду с Production Studio, продюсерским центром, радио-клубом волонтёров входят в состав Телерадиокомпании  (ТРК) \"Ватан\".\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/72542.v1.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626251464427,
+    "stationStream": "http://rfe-channel-09.akacast.akamaistream.net/7/872/229659/v1/ibb.akacast.akamaistream.net/rfe_channel_09.mp3",
+    "stationName": "Radio Free Tajikistan",
+    "stationDescription": "Established well over a half-century ago as part of Radio Liberty broadcasting to the Soviet Union, the Tajik Service attracts a young, influential audience with its timely, locally focused reporting. The government's renewed vigor controlling politics and media has lent further impetus to Radio Ozodi's trusted coverage.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/43258.v2.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626251471128,
+    "stationStream": "https://c22.radioboss.fm:18077/stream",
+    "stationName": "Love Radio",
+    "stationDescription": "Love Radio Tj FM 88.8 - волна, которая тебя любит. Love Radio - радио твоей мечты!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/81660.v3.png",
+    "stationGenres": [
+      "disco",
+      "pop",
+      "folk",
+      "love songs"
+    ]
+  },
+  {
+    "id": 1626251476740,
+    "stationStream": "http://193.124.66.132:8001/live",
+    "stationName": "ХОВАР",
+    "stationDescription": "«FM Ховар» каждые полчаса предоставляет своим слушателям важнейшие новости о Таджикистане и мире. Кроме того, радио «FM Ховар» доступно слушателям по всему миру, благодаря вещанию на сайте НИАТ «Ховар»\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/72543.v5.png",
+    "stationGenres": [
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 1626251483471,
+    "stationStream": "https://c32.radioboss.fm/stream/192",
+    "stationName": "Radio Hamsado",
+    "stationDescription": "радио \"Хамсадо\" ведет прямой эфир из солнечного Таджикистана относится к одноименной группе компаний LLC \"Hamsado MEDIA\". . Длительное изучения рынка, накапливание опыта дало шанс старту радиостанции, это произошло 10 декабря 2018-ого на 94,4 FM в Душанбе. Радио канал \"Хамсадо\" стал уникальным коммерческим онлайн проектом в республике, где звучит отборная таджикская музыка — dance national music. \n\"Хамсадо\" - это первая танцевальная радиостанция Таджикистана.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/77845.v19.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 1626251493850,
+    "stationStream": "http://eu4.radioboss.fm:8042/,1",
+    "stationName": "Новое Радио",
+    "stationDescription": "«Новое Радио» на данный момент вещает на частоте 95,5 FM в городе Душанбе и РРП. Музыкальный формат «Нового Радио» — главные таджикские песни. В эфире «Нового Радио» звучат самые яркие и популярные композиции таджикских исполнителей, безусловные хиты. \n НАШ СЛОГАН: \"Слушай главные таджикские песни на Новом Радио!\"\n Сейчас «Новое Радио» – это мультиформатный продукт, в котором использованы эксклюзивные технологии визуализации, позволяющие генерировать уникальный видеоконтент, осуществлять прямые трансляции, полностью синхронизированные с радиовещанием, производить видеоролики и проводить акустические концерты.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/81661.v2.png",
+    "stationGenres": [
+      "pop",
+      "folk",
+      "ethnic"
+    ]
+  },
+  {
+    "id": 1626251501621,
+    "stationStream": "https://c30.radioboss.fm/stream/132",
+    "stationName": "Муштари ФМ",
+    "stationDescription": "Онлайн радио бо формати нав. Мо кормандони \"Муштари ФМ\" барномаҳоеро бо формати нав пешниҳод менамоем,ки шумо худро дар фазои Ватан эҳсос хоҳед кард.Шумо метавонед аз плей маркет барномаи \"Mushtari FM\"-ро ба смартфонҳои худ насб карда давоми 24 соат гуш карда бошед ва тариқи ин барнома шумо паёмҳои хешро низ ирсол карда метавонед\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/92675.v2.png",
+    "stationGenres": [
+      "classic"
+    ]
+  },
+  {
+    "id": 1626251512330,
+    "stationStream": "http://162.210.196.142:8950/;stream.nsv",
+    "stationName": "Dunyo FM",
+    "stationDescription": "Радиои Дунё FM\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/87708.v3.png",
+    "stationGenres": [
+      "pop",
+      "classic"
+    ]
+  },
+  {
+    "id": 1626251517905,
+    "stationStream": "https://misato.ru-hoster.com:8038/stream",
+    "stationName": "Радио Садои Хучанд",
+    "stationDescription": "Информационно-музыкальное радио. Местные и мировые новости, интерактивные радио-шоу, тематические передачи.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/105074.v3.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": 1626251526786,
+    "stationStream": "http://mediabay.tv/channels/radioStations/122-RadioiTojikTJ",
+    "stationName": "Радиои Тоҷикистон",
+    "stationDescription": "Радиои Тоҷикистон Душанбе FM 104.7.Шунавидан дар фазо Шунавидан дар фазо\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/43284.v1.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "folk"
+    ]
+  }
+]

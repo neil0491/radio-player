@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "stationStream": "http://tabassum.uz:9000/alo_low",
+    "stationName": "РАДИО \"Аъло ФМ\"",
+    "stationDescription": "Узбекское радио. Аъло ФМ (узб.\" A'lo FM\") - частная радиостанция. Ташкент 90.0 MHz.Yumoristik janrdagi O'zbekistondagi birinchi radio. Ko'ngilochar radioning asosiy maqsadi radiotinglovchilarning kayfiyatini ko'tarish. Efir ko'ngilochar sahifa va dasturlar bilan boyitilgan. Radiostansiyaning musiqiy yo'nalishi yosh tinglovchilarga mo'ljallangan. Efir sharq, g'arb, rus va o'zbek estradasining eng hit va sovib borayotgan taronalarini o'z ichiga oladi. Dastur va qo'shiqlar tanlovida hozirgi zamonaviy yoshlarning qiziqishlari xisobga olinadi. Sifat, yumor va o'ziga ishonch – bu \"A'lo-FM\" radiosining asosiy shiori.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/43391.v2.png",
+    "stationGenres": [
+      "folk",
+      "comedy"
+    ]
+  },
+  {
+    "id": 12,
+    "stationStream": "http://navo.online:8000/stream",
+    "stationName": "NavoOnline",
+    "stationDescription": "Ўзбек тилидаги энг қадрдон ва севимли тароналар, куй ва қўшиқлар барчаси фақат бизда!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/75544.v3.png",
+    "stationGenres": [
+      "pop",
+      "classic",
+      "retro"
+    ]
+  },
+  {
+    "id": 13,
+    "stationStream": "http://navruzfm.uz:9000/navruz_low",
+    "stationName": "Navroz FM",
+    "stationDescription": "Navro'z fm 88.4 mhz yangi kun radiosi har vaqt siz bilan birga.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/43385.v6.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk",
+      "business"
+    ]
+  },
+  {
+    "id": 14,
+    "stationStream": "http://80.80.222.26:8000/maximafm.ogg",
+    "stationName": "RADIO MAXIMA",
+    "stationDescription": "«MAXIMA», включает в себя лучшие произведения мировой эстрадной музыки 80-х и 90-х годов, и рассчитан на 25-60-летних радиослушателей.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/72544.v4.png",
+    "stationGenres": [
+      "pop",
+      "talk",
+      "hits"
+    ]
+  },
+  {
+    "id": 15,
+    "stationStream": "http://213.230.109.7:9000/alo_low",
+    "stationName": "Qalbim Navosi",
+    "stationDescription": "Романтическое OnLine интернет радио Qalbim navosi. Хиты Узбекской эстрады с уклоном на романтику.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/81214.v10.png",
+    "stationGenres": [
+      "pop",
+      "top40",
+      "romantic"
+    ]
+  },
+  {
+    "id": 16,
+    "stationStream": "http://lifefm.uz:8000/radio-64.aac",
+    "stationName": "LifeFM",
+    "stationDescription": "Живое радио Узбекистана\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/78309.v4.png",
+    "stationGenres": [
+      "dance",
+      "pop"
+    ]
+  },
+  {
+    "id": 17,
+    "stationStream": "http://yayin.turkhosted.com:7034/;stream.nsv",
+    "stationName": "РАДИО \"Uzbek.FM\"",
+    "stationDescription": "Радио Uzbek.FM онлайн. Здесь вы можете слушать онлайн радиостанцию «Uzbek.FM», которая вещает из: Узбекистан, Ташкент.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/43392.v4.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 18,
+    "stationStream": "https://s0.radioheart.ru:8000/RH24189",
+    "stationName": "Dushanbe Navo Radio",
+    "stationDescription": "Радио Dushanbe Navo – это прорыв в сфере СМИ и IT в Самарканде, так как мы первое и единственное онлайн радио в Самарканде входящее в число работающих только в режиме ONLINE, без вещания на FM-волнах.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/85515.v3.png",
+    "stationGenres": [
+      "variety"
+    ]
+  },
+  {
+    "id": 19,
+    "stationStream": "http://sezamfm.com:8000/stream",
+    "stationName": "Sezam FM",
+    "stationDescription": "Просто отличная музыка! Вы можете услышать все замечательные песни, которые не играют другие радиостанции.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/103761.v5.png",
+    "stationGenres": [
+      "pop",
+      "hits"
+    ]
+  },
+  {
+    "id": 110,
+    "stationStream": "http://www.oriatdono.uz/",
+    "stationName": "РАДИО \"Ориат Доно\"",
+    "stationDescription": "ORIAT Dono • Fayzli radio!Radiostansiyamiz web-saytiga xush kelibsiz 2000 yil, 17 dekabr — ORIAT Dono radiostansiyasi ilk bor efirda yangragan kun. 16 yildirki, sizlar bilan birgamiz! Bizni Toshkent shahri va viloyati, Samarqand hamda Sirdaryo viloyatida — FM 106,5\nFarg‘ona, Andijon, Namangan viloyatlarida — FM 102,4 to‘lqinlarida tinglashingiz mumkin. Efir jadvali, mualliflik dasturlari, interaktiv suhbatlar, tok-shou, viktorinalar, tematik ruknlar, shuningdek, turfa tanlov va aksiyalarga oid batafsil ma‘lumot — shu yerda\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/43389.v7.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "folk"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1626260217705,
+    "stationStream": "https://onlineradiobox.com/json/tm/owaz/play?platform=web",
+    "stationName": "Radio Owaz",
+    "stationDescription": "Туркменское радио. Радио Оваз (туркм. Radio Owaz) - туркменская государственная радиостанция. Ашхабад 101.3 MHz Туркменбаши 100.7 MHz. Арлан 103.0 MHz.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/43293.v3.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626260218587,
+    "stationStream": "https://onlineradiobox.com/json/tm/miras/play?platform=web",
+    "stationName": "Radio Miras",
+    "stationDescription": "Туркменское радио. Радио Мирас (туркм. Radio Miras) - туркменская государственная радиостанция. Ашхабад 103.9 FM.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/9/43299.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "folk"
+    ]
+  },
+  {
+    "id": 1626260219108,
+    "stationStream": "https://onlineradiobox.com/json/tm/tmhits/play?platform=web",
+    "stationName": "Tmhits Radio",
+    "stationDescription": "Aşgabat internet radio.Tmhits Radio – mydama iň täze aýdymlar\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/logo/2/43302.png",
+    "stationGenres": [
+      "pop",
+      "folk"
+    ]
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "id": 21,
+    "stationStream": "http://106.streamsin.space:8000/atom",
+    "stationName": "Радио Атом FM",
+    "stationDescription": "Одной из важнейшей составляющей аудитории радио «Atom» являются студенты и молодые профессионалы возрастной категории 16-35 лет. Формат радио полностью отвечает критериям их интересов и актуальности.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/43379.v11.png",
+    "stationGenres": [
+      "rock",
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 22,
+    "stationStream": "http://212.112.114.218:8000/online128",
+    "stationName": "Tumar FM",
+    "stationDescription": "Тумар - Медиа-портал, сайт о шоу-бизнесе Кыргызстана, Казахстана, Узбекистана. Эксклюзивные клипы, свежая музыка, фотоотчеты Центральной Азии.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/0/43320.v6.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 23,
+    "stationStream": "https://cdn.radioplayer.kg:8443/obondoru64",
+    "stationName": "Kyrgyzstan Obondory",
+    "stationDescription": "Салам кыргызстан обондору укан кыргыздар бишкеке чон салам.Кыргызстан Обондору. Жашоо-керемет! .... Себеби, Кыргызстан Обондору радиосунун кымбаттуу ди-джейи, көп Бүгүнкү\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/43322.v2.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 24,
+    "stationStream": "http://a.streamsin.space:8000/retro_exfm885",
+    "stationName": "Radio Retro (ex FM88.5)",
+    "stationDescription": "Радио добрых воспоминаний\n(Интернет вещание Радио Ретро, вещавшего в Бишкеке на частоте 88.5 FM)\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/43374.v6.png",
+    "stationGenres": [
+      "pop",
+      "oldies"
+    ]
+  },
+  {
+    "id": 25,
+    "stationStream": "http://212.112.106.107:8000/hitfm",
+    "stationName": "Hit FM",
+    "stationDescription": "Мы не можем создать благоприятных условий для жизни, но мы можем создать то настроение, при котором будет легче создавать эти условия самостоятельно. Мы способны сделать так, чтобы ваша душа парила над всеми трудностями и преградами!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/9/43319.v5.png",
+    "stationGenres": [
+      "pop",
+      "top40"
+    ]
+  },
+  {
+    "id": 26,
+    "stationStream": "http://a.streamsin.space:8000/80s",
+    "stationName": "80's channel (iradio.one)",
+    "stationDescription": "Back to the 80's\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/43362.v4.png",
+    "stationGenres": [
+      "pop",
+      "soul",
+      "soft rock"
+    ]
+  },
+  {
+    "id": 27,
+    "stationStream": "http://onlineradio.ktrk.kg:8081/",
+    "stationName": "МИҢ КЫЯЛ FM радиосу",
+    "stationDescription": "Кыргыз Коомдук Телерадиокорпорациянын 3-каналы болгон “Миң кыял FM” радиосу 2007-жылы 1-январда ачылган. Кыргыз улуттук Радиосунун 1, 2–программаларынан эфирдик классификациясы аркылуу кескин айырмаланат, тактап айтканда, “Миң-Кыял FM” 70% музыкадан, 30%ы маалыматтан турат. Радио программаларын музыкалык-маалыматтык форматтын принциптерин сактоо менен кыргыз тилинде гана даярдайт.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/43381.v3.png",
+    "stationGenres": [
+      "pop",
+      "folk"
+    ]
+  },
+  {
+    "id": 28,
+    "stationStream": "https://cdn.radioplayer.kg:8443//suiunchu128",
+    "stationName": "Сүйүнчү FM",
+    "stationDescription": "“Сүйүнчү”  радиосу — Кыргызстандагы той ырлары форматындагы алгачкы радио.\nБиздин толкунда маанайды көтөрүүчү  ырлар жаңырып, көңүл-ачуу программалар, алардын алкагында байгелүү оюндар жана кызыктуу рубрикалар тартууланат.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/88264.v2.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 29,
+    "stationStream": "http://a.streamsin.space:8000/fever",
+    "stationName": "Fever (iradio.one)",
+    "stationDescription": "And the beat goes on...\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/8/43368.v5.png",
+    "stationGenres": [
+      "disco",
+      "soul",
+      "funk"
+    ]
+  },
+  {
+    "id": 210,
+    "stationStream": "https://icecast-ruvr.cdnvideo.ru/rian.voicekgz",
+    "stationName": "Radio Sputnik Кыргызстан",
+    "stationDescription": "Спутник Radio бюджеттик маалымат агенттиги, \"Орусия бүгүн\" тарабынан уюштурулган онлайн кабар жана радио уктуруу кызмат болуп саналат. Орусиянын башкы бөлүмгө ээ, Спутник Washington, Каир, Пекин жана Лондондо аймактык редакторлор бар. Бул дүйнөлүк саясатка жана экономикага басым жасап, ал эми азык-орус көрүүчүлөр үчүн гана багытталган.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/67204.v3.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 211,
+    "stationStream": "http://212.112.123.200:8000/stream.ogg",
+    "stationName": "I Radio",
+    "stationDescription": "IRadio - впереди только музыка!!!\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/3/88263.v2.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 212,
+    "stationStream": "http://a.streamsin.space:8000/emotions",
+    "stationName": "Emotions",
+    "stationDescription": "Again about love\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/43376.v6.png",
+    "stationGenres": [
+      "balada"
+    ]
+  },
+  {
+    "id": 213,
+    "stationStream": "http://85.113.29.232:8082/",
+    "stationName": "Радио \"ДОСТУК\"",
+    "stationDescription": "Улуттар аралык биримдикти бийик тутабыз!Основными целями радио \"Достук\" являются:\n• прославление многоязычия и дружбы народов;• создание высококачественных радиопрограмм в интересах удовлетворения культурно • углубление и расширение диалога радио со слушателями;• Цель нашей радиостанции заключается в том, чтобы просвещать молодежь в таких важнейших сферах культуры, как музыка, литература, кино и театр. Знакомить с классическими образцами и культовыми личностями в этих сферах, а также освещать последние достижения, достойные внимания. Программы выходят в эфир на кыргызском, русском, польском, украинском, дунганском, уйгурском, татарском, узбекском,турецком языках\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/1/43321.v1.png",
+    "stationGenres": [
+      "news",
+      "talk",
+      "folk"
+    ]
+  },
+  {
+    "id": 214,
+    "stationStream": "http://81.88.192.51:8000/Sanjyra",
+    "stationName": "Санжыра Радиосу",
+    "stationDescription": "Республиканын бардык аймагын камтыган, Маалыматтык- музыкалык «Санжыра» радиосу 2011-жылы 31-августа Обого чыкты. Кыргыздын жан дүйнөсүн, нарк насилин, тарых таржымалын, салт санаасын, эң башкысы - патриоттук сезимдерди ойготкон радио эгемендүүлүктө элибизге арналган белек. Улуу Манас эпосу баштаган кичи эпосторго, салттуу музыка, жаңылыктарга басым жасалат.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/4/88104.v2.png",
+    "stationGenres": [
+      "news",
+      "folk",
+      "ethnic"
+    ]
+  },
+  {
+    "id": 215,
+    "stationStream": "http://a.streamsin.space:8000/dream_town",
+    "stationName": "Dream Town",
+    "stationDescription": "Various House & Other EDM Music\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/43375.v4.png",
+    "stationGenres": [
+      "dance",
+      "electronic",
+      "house"
+    ]
+  },
+  {
+    "id": 216,
+    "stationStream": "http://212.42.115.186:8000/;stream.mp3",
+    "stationName": "MARAL FM",
+    "stationDescription": "Марал FM – Кыргызстандагы жана дүйнөдөгү окуяларды бейтарап чагылдырган радио. Күндүзү – эң актуалдуу жана маанилүү темалар боюнча талкуулар, эксперттердин пикирлери, тематикалык рубрикалар, интерактивдүү оюндар обого чыгат. Жаңылыктар – саат сайын жаңырат. Аба ырайы жана жол тыгындар тууралуу да айтып турабыз. Кечки эфирлерде куттуктоо, шоу-программалар. Түнкүсүн - жаңы жана жагымдуу музыкалар.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/88092.v1.png",
+    "stationGenres": [
+      "pop",
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 217,
+    "stationStream": "http://82.146.46.229:8000/radio.mp3",
+    "stationName": "Радио Татина",
+    "stationDescription": "Радио «ТАТИНА» начало своё вещание в Кара-Балта в июне1997 года на диапазоне 106.3 Fm.\nЭфир радиостанции составляют западноевропейские и Российские хиты с1980-х годов и до наших дней. Все песни на радио «ТАТИНА» проходят специальное тестирование среди потенциальных поклонников станции. В эфир радио попадают только самые лучшие и приятные композиции для слушателей старше 20 лет.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/2/102282.v2.png",
+    "stationGenres": [
+      "pop"
+    ]
+  },
+  {
+    "id": 218,
+    "stationStream": "http://81.88.192.51:8000/KyrgyzRadiosu",
+    "stationName": "KyrgyzRadiosu",
+    "stationDescription": "Кыргыз радиосу мындан 80 жыл мурун, тагыраак айтканда, 1931-жылы негизделген. \nКыргыз радиосунун концепциясы - көркөм өнөрдүн таасири аркылуу жалпы угармандардын жан дүйнөсүн байытуу, тарбиялоо.\n\tБольше\n\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/6/88096.v6.png",
+    "stationGenres": [
+      "folk",
+      "ethnic"
+    ]
+  },
+  {
+    "id": 219,
+    "stationStream": "http://almazfm.ddns.net:8888/",
+    "stationName": "Almaz FM",
+    "stationDescription": "Радио Алмаз 102.1 FM вещает из Киргизия Бишкек в жанре Pop.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/88265.v1.png",
+    "stationGenres": [
+      "pop",
+      "talk"
+    ]
+  },
+  {
+    "id": 220,
+    "stationStream": "http://81.88.192.51:8000/Radio1",
+    "stationName": "Биринчи Радио",
+    "stationDescription": "«Биринчи» Радио– 80 жылдык тарыхы бар өлкөдөгү алгачкы радиостанциянын көчүн улантууда. Радиостанциянын чакырыгы алгач 1931-жылы декабрь айынан зым аркылуу берилүүчү эфирдин баскычы аркылуу обого таркай баштаган. Бүгүн «Биринчи Радио» бүтүндөй Республиканын аймагына маалымат таркатууда зор мүмкүнчүлүгү бар бирден бир радио.\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/88095.v1.png",
+    "stationGenres": [
+      "news",
+      "talk"
+    ]
+  },
+  {
+    "id": 221,
+    "stationStream": "http://5.39.82.219:20452/listen.mp3",
+    "stationName": "Насыйкат ФМ",
+    "stationDescription": "Радио «Насыйкат 90.9» - 24 часов эфирной продукции состоит из нравственной, культурной, социальной и познавательной тематики транслируются лекции . Каждый день предусмотрен прямой эфир с \nгостем на волнующие общественности темы. Все прямые эфиры параллельно транслируются и через социальные сети «Facebook», «Instagram», «Youtube».\n",
+    "stationImg": "//cdn.onlineradiobox.com/img/l/5/102595.v6.png",
+    "stationGenres": [
+      "talk",
+      "culture"
+    ]
+  }
+]
