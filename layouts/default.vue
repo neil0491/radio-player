@@ -1,5 +1,5 @@
 <template>
-  <div :class="theme">
+  <div :class="$store.getters['theme/GET_THEME']">
     <div class="pb-28 bg-secondary text-primary min-h-screen">
       <Nuxt />
     </div>
@@ -21,23 +21,18 @@
 
 <script>
 export default {
-  computed: {
-    theme() {
-      if (!process.client) return
-      const savedData = JSON.parse(localStorage.getItem('theme'))
-      if (savedData) {
-        this.$store.commit('theme/SET_THEME', savedData)
-      }
-      return this.$store.getters['theme/GET_THEME']
-    },
-  },
   mounted() {
-    if (!process.client) return
-    const getData = JSON.parse(localStorage.getItem('favourite'))
-    if (getData) {
-      this.$store.commit('favourite/SET_FAVOURITE_OF_LOCALSTORAGE', getData)
+    if (process.client) {
+      const favourite = JSON.parse(localStorage.getItem('favourite'))
+
+      const themeLocal = JSON.parse(localStorage.getItem('theme'))
+      if (themeLocal) {
+        this.$store.commit('theme/SET_THEME', themeLocal)
+      }
+      if (favourite) {
+        this.$store.commit('favourite/SET_FAVOURITE_OF_LOCALSTORAGE', favourite)
+      }
     }
-    console.log(localStorage.getItem('favourite'))
   },
 }
 </script>

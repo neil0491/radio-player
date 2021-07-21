@@ -1,5 +1,5 @@
 const state = () => ({
-  theme: 'theme-startup',
+  theme: '',
   allTheme: ['theme-startup', 'theme-boring', 'theme-elegant'],
 })
 const mutations = {

@@ -19,6 +19,7 @@
       :src="GET_STREAM.stationStream"
       autoplay
       readyState
+      crossorigin="anonymous"
       preload="none"
     ></audio>
     <div
@@ -176,6 +177,8 @@ export default {
       try {
         if (this.GET_PLAYING === false) {
           this.$refs.player.play()
+
+          // this.$refs.player.play()
           this.SET_PLAYING(true)
         } else {
           this.$refs.player.pause()
