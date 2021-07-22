@@ -19,7 +19,6 @@
       :src="GET_STREAM.stationStream"
       autoplay
       readyState
-      crossorigin="anonymous"
       preload="none"
     ></audio>
     <div
@@ -52,7 +51,8 @@
           "
         >
           <img
-            class="h-full w-full object-fill"
+            class="h-full w-full object-cover"
+            :class="GET_PLAYING ? 'animate-spin' : ''"
             :src="`https:${GET_STREAM.stationImg}`"
             :alt="GET_STREAM.stationName"
           />

@@ -1,62 +1,62 @@
 <template>
-  <div>
-    <transition-group class="flex flex-wrap" name="slide-bottom" tag="ul">
-      <li
-        class="w-full flex-1 px-2 py-4"
-        v-for="radio in radioStation"
-        :key="radio.id"
+  <!-- <ul class="flex flex-wrap"> -->
+  <transition-group class="flex flex-wrap" name="slide-bottom" tag="ul">
+    <li
+      class="w-full flex-1 px-2 py-4"
+      v-for="radio in radioStation"
+      :key="radio.id"
+    >
+      <div
+        @click="playingRadio(radio)"
+        class="
+          flex flex-col
+          items-center
+          justify-center
+          w-40
+          mx-auto
+          cursor-pointer
+        "
       >
         <div
-          @click="playingRadio(radio)"
           class="
-            flex flex-col
-            items-center
-            justify-center
-            w-40
-            mx-auto
-            cursor-pointer
+            w-full
+            h-20
+            bg-center bg-cover
+            rounded-3xl
+            shadow-md
+            radiostation-image
           "
-        >
-          <div
-            class="
-              w-full
-              h-20
-              bg-center bg-cover
-              rounded-3xl
-              shadow-md
-              radiostation-image
-            "
-            :style="`background-image: url(${radio.stationImg});`"
-          ></div>
-
-          <div
-            class="-mt-1 overflow-hidden rounded-xl shadow-lg dark:bg-gray-800"
-          >
-            <h3
-              class="
-                text-xs
-                py-2
-                px-4
-                font-semibold
-                text-center text-inverse
-                bg-inverse
-                uppercase
-              "
-            >
-              {{ radio.stationName }}
-            </h3>
-          </div>
-        </div>
+          :style="`background-image: url(${radio.stationImg});`"
+        ></div>
 
         <div
-          @click="REMOVE_RADIO(radio)"
-          class="flex justify-center py-2 cursor-pointer"
+          class="-mt-1 overflow-hidden rounded-xl shadow-lg dark:bg-gray-800"
         >
-          <slot></slot>
+          <h3
+            class="
+              text-xs
+              py-2
+              px-4
+              font-semibold
+              text-center text-inverse
+              bg-inverse
+              uppercase
+            "
+          >
+            {{ radio.stationName }}
+          </h3>
         </div>
-      </li>
-    </transition-group>
-  </div>
+      </div>
+
+      <div
+        @click="REMOVE_RADIO(radio)"
+        class="flex justify-center py-2 cursor-pointer"
+      >
+        <slot></slot>
+      </div>
+    </li>
+  </transition-group>
+  <!-- </ul> -->
 </template>
 
 <script>

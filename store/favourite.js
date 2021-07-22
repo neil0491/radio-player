@@ -1,5 +1,5 @@
 const state = () => ({
-  favouriteRadio: [],
+  favouriteRadio: {},
 })
 const mutations = {
   SET_FAVOURITE(state, payload) {

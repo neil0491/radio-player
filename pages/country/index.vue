@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="bg-inverse sticky top-0">
+    <div class="bg-inverse sticky top-0 z-10">
       <div class="container mx-auto flex items-center px-4">
         <div class="w-10">
           <button @click="$router.go(-1)" type="button" class="text-primary">
@@ -23,13 +23,20 @@
       >
         <loader />
       </div>
-      <div v-else-if="$fetchState.error">An error occurred :(</div>
+      <div
+        class="flex justify-center items-center text-primary"
+        v-else-if="$fetchState.error"
+      >
+        Ошибка подключения :(
+      </div>
       <div v-else>
-        <radio-card :radioStation="radioStation" />
+        <search />
+        <radio-card :radioStation="radio" />
+
         <div class="flex w-full">
           <button
             v-show="showButton"
-            @click="fetchMore"
+            @click="fetchRadio"
             class="
               bg-primary
               p-4
@@ -51,9 +58,9 @@
 export default {
   data: () => ({
     radioStation: [],
-    page: 1,
+    page: 0,
     limit: 30,
-    lastRadioStation: 0,
+    lastRadioStations: 0,
   }),
 
   async fetch() {
@@ -65,29 +72,19 @@ export default {
       this.$store.commit('countries/SET_COUNTRY_NAME', country_rus)
     }
 
-    this.radioStation = await this.$content(
-      this.$store.state.countries.countryPage
-    )
-      .only([
-        'id',
-        'stationStream',
-        'stationName',
-        'stationImg',
-        'stationGenres',
-        'stationDescription',
-      ])
-      .limit(this.limit)
-      .fetch()
-    this.lastRadioStation = this.radioStation.length
+    this.radioStation = await this.fetchRadio()
   },
   fetchOnServer: false,
   computed: {
+    radio() {
+      return this.radioStation
+    },
     showButton() {
-      return this.lastRadioStation == this.limit
+      return this.lastRadioStations == this.limit
     },
   },
   methods: {
-    async fetchMore() {
+    async fetchRadio() {
       const radio = await this.$content(this.$store.state.countries.countryPage)
         .only([
           'id',
@@ -100,9 +97,28 @@ export default {
         .skip(this.limit * this.page)
         .limit(this.limit)
         .fetch()
-      this.lastRadioStation = radio.length
+      this.lastRadioStations = radio.length
       this.page++
-      this.radioStation = [...this.radioStation, ...radio]
+      return (this.radioStation = [...this.radioStation, ...radio])
+    },
+
+    async querySearch() {
+      let radio = await this.$content(this.$store.state.countries.countryPage)
+        .only([
+          'id',
+          'stationStream',
+          'stationName',
+          'stationImg',
+          'stationGenres',
+          'stationDescription',
+        ])
+        .fetch()
+      radio = radio.filter((str) =>
+        str.stationName.toLowerCase().includes(this.query.toLowerCase())
+      )
+      this.serchRadioStation = radio.slice(0, this.limit)
+      this.isSearchOpen = true
+      this.query = ''
     },
   },
 }
@@ -112,5 +128,14 @@ export default {
 .back-arrow {
   font-size: 2rem;
   line-height: 1.5;
+}
+.slide-bottom-enter-active,
+.slide-bottom-leave-active {
+  transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
+}
+.slide-bottom-enter,
+.slide-bottom-leave-to {
+  opacity: 0;
+  transform: translate3d(0, 15px, 0);
 }
 </style>
